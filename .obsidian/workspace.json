@@ -194,8 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eecc02670f9ac2a9",
+  "active": "40b94c64f3132cf6",
   "lastOpenFiles": [
+    "public/ensaios/index.xml",
+    "public/ensaios",
     "content/Ensaios/Teste 1.md",
     "public/tags/index.xml",
     "public/categories/index.xml",
@@ -206,7 +208,6 @@
     "public",
     "themes/PaperMod/theme.toml",
     "themes/PaperMod/layouts/partials/templates/_funcs/get-page-images.html",
-    "themes/PaperMod/layouts/partials/home_info.html",
     "themes/PaperMod/images/tn.png",
     "themes/PaperMod/images/screenshot.png",
     "themes/PaperMod/README.md",
