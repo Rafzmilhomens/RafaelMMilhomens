@@ -9,7 +9,7 @@ fotografia = "/fotografia/:slug/"
 poesia = "/poesia/:slug/"
 publicacoes = "/publicacoes/:slug/"
 leituras = "/leituras/:slug/"
-apoiadores = "/apoiadores/:slug/"
+apoie = "/apoie/:slug/"
 sobre = "/sobre/:slug/"
 
 [taxonomies]
