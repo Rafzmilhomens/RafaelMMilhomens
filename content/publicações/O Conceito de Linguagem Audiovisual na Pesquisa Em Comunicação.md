@@ -10,6 +10,26 @@ tags:
   - ProduçãoCientífica
   - PPGCOM-FAC/UnB
   - LinguagemAudiovisual
+  - Bauman
+  - WalterBenjamin
+  - Bernadet
+  - MichelChion
+  - HenryJenkins
+  - ArlindoMachado
+  - MarcelMartin
+  - Martino
+  - ChristianMetz
+  - BillNichols
+  - MariaRobertaNovielli
+  - MiltonOhata
+  - EltonBrunoPinheiro
+  - Platão
+  - LúciaSantaella
+  - SantiagoSantos
+  - Saussure
+  - DáciaIbiapinaDaSilva
+  - GustavoDeCastro
+  - IsmailXavier
 ---
 Abaixo, meu Trabalho de Conclusão de Curso. Não está na íntegra. podem achá-lo no link: [https://bdm.unb.br/handle/10483/27562]
 
@@ -626,7 +646,7 @@ Cordis, São Paulo, n. 16. p. 269 - p. 293, jan./jun. 2016.
 
 SAUSSURE, Ferdinand de; BALLY, Charles; SECHEHAYE, Albert. (Org.). Curso de linguística geral. Tradução de Antônio Chelini, José Paulo Paes e Izidoro Blikstein. 24. ed. . São Paulo: Cultrix, 2002.
 
-74 SILVA, Dácia Ibiapina da. História oral, oralidade e audiovisual na construção de
+SILVA, Dácia Ibiapina da. História oral, oralidade e audiovisual na construção de
 
 relatos de memórias traumáticas. História oral, São Paulo, n. 6, p.6994, 2003. SILVA, Gustavo de Castro e. Imaginação, linguagem e consumo. Comunicação,
 
