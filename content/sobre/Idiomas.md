@@ -4,7 +4,6 @@ date: 2026-03-28
 draft: false
 tags:
   - Skills
-  - Idiomas
   - Proficiência
 local:
 ---
