@@ -9,11 +9,11 @@ tags:
 ---
 São bem-vindos todos os interessados em pesquisa científica, especialmente em Comunicação Social, ciência e extensão.
 
-- E-mail
+- E-mail:
 	- [Marquesgrafael@gmail.com]
-- Lattes
+- Lattes: 
 	- [http://lattes.cnpq.br/0529308038746793]
-- ORCID
+- ORCID:
 	- [https://orcid.org/0009-0005-9256-0885]
-- ResearchGate
+- ResearchGate:
 	- [https://www.researchgate.net/profile/Rafael-Milhomens?ev=hdr_xprf]
