@@ -9,6 +9,13 @@
     <lastBuildDate>Sat, 28 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/RafaelMMilhomens/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Extensão</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/extens%C3%A3o/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/extens%C3%A3o/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Perfil</title>
       <link>http://localhost:1313/RafaelMMilhomens/tags/perfil/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
@@ -16,17 +23,360 @@
       <description></description>
     </item>
     <item>
-      <title>Teaser</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/teaser/</link>
+      <title>PesquisaEmComunicação</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/pesquisaemcomunica%C3%A7%C3%A3o/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/teaser/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/pesquisaemcomunica%C3%A7%C3%A3o/</guid>
       <description></description>
     </item>
     <item>
-      <title>Teste</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/teste/</link>
+      <title>ProduçãoCientífica</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/produ%C3%A7%C3%A3ocient%C3%ADfica/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/teste/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/produ%C3%A7%C3%A3ocient%C3%ADfica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Proficiência</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/profici%C3%AAncia/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/profici%C3%AAncia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Skills</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/skills/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/skills/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Estudo</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/estudo/</link>
+      <pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/estudo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Manual</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/manual/</link>
+      <pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/manual/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Método</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/m%C3%A9todo/</link>
+      <pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/m%C3%A9todo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ArlindoMachado</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/arlindomachado/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/arlindomachado/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Audiovisual</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/audiovisual/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/audiovisual/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bauman</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/bauman/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/bauman/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bernadet</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/bernadet/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/bernadet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BillNichols</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/billnichols/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/billnichols/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ChristianMetz</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/christianmetz/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/christianmetz/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DáciaIbiapinaDaSilva</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/d%C3%A1ciaibiapinadasilva/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/d%C3%A1ciaibiapinadasilva/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>EltonBrunoPinheiro</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/eltonbrunopinheiro/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/eltonbrunopinheiro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GustavoDeCastro</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/gustavodecastro/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/gustavodecastro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HenryJenkins</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/henryjenkins/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/henryjenkins/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IsmailXavier</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/ismailxavier/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/ismailxavier/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linguagem</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/linguagem/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/linguagem/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LinguagemAudiovisual</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/linguagemaudiovisual/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/linguagemaudiovisual/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LúciaSantaella</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/l%C3%BAciasantaella/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/l%C3%BAciasantaella/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MarcelMartin</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/marcelmartin/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/marcelmartin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MariaRobertaNovielli</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/mariarobertanovielli/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/mariarobertanovielli/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Martino</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/martino/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/martino/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MichelChion</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/michelchion/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/michelchion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MiltonOhata</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/miltonohata/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/miltonohata/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Platão</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/plat%C3%A3o/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/plat%C3%A3o/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PPGCOM-FAC/UnB</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/ppgcom-fac/unb/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/ppgcom-fac/unb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SantiagoSantos</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/santiagosantos/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/santiagosantos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Saussure</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/saussure/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/saussure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TCC</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/tcc/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/tcc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WalterBenjamin</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/walterbenjamin/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/walterbenjamin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bazin</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/bazin/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/bazin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bosco</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/bosco/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/bosco/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cinema</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/cinema/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/cinema/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Crença</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/cren%C3%A7a/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/cren%C3%A7a/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cultura</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/cultura/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/cultura/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Documentário</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/document%C3%A1rio/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/document%C3%A1rio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Educação</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/educa%C3%A7%C3%A3o/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/educa%C3%A7%C3%A3o/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Flaherty</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/flaherty/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/flaherty/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fotografia</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/fotografia/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/fotografia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gênero</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/g%C3%AAnero/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/g%C3%AAnero/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Grierson</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/grierson/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/grierson/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Literacia</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/literacia/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/literacia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lumière</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/lumi%C3%A8re/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/lumi%C3%A8re/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Medeiros</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/medeiros/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/medeiros/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Moana</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/moana/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/moana/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nanook</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/nanook/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/nanook/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Persépolis</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/pers%C3%A9polis/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/pers%C3%A9polis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ValorIndicialDaImagem</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/valorindicialdaimagem/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/valorindicialdaimagem/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ValsaComBashir</title>
+      <link>http://localhost:1313/RafaelMMilhomens/tags/valsacombashir/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/tags/valsacombashir/</guid>
       <description></description>
     </item>
   </channel>

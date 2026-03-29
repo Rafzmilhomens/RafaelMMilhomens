@@ -1,6 +1,6 @@
 baseURL = "https://rafzmilhomens.github.io/RafaelMMilhomens/"
 locale = "pt-br"
-title = "Rafael M. Milhomens - BLOG DE ENSAIOS"
+title = "Rafael M. Milhomens - BLOG"
 languageCode = "pt-br"
 
 [permalinks]
@@ -14,3 +14,9 @@ tag = "tags"
 
 [params]
 author = "Rafael M. Milhomens"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.footnote]
+        enable = true
