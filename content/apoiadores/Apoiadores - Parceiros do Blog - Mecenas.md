@@ -15,4 +15,5 @@ Seção dedicada aos que contribuem (direta e/ou indiretamente) com este blog. M
 [EN] Hi, I'm Zeri Bolos! I'm a content creator and streamer focused on games since 2019. Currently affiliated with the Twitch streaming platform, where I interact with my followers daily. I became a Riot Games partner in 2024 and have already done some work with brands through the Streamelements sponsorship program! If you're interested in collaborating, I’m available and happy to help. I’m good at understanding briefs, flexible, and excel in the creative process, always delivering any assigned work with excellence.
 
 contatozeribolos@gmail.com
+
 https://beacons.ai/zeribolos
