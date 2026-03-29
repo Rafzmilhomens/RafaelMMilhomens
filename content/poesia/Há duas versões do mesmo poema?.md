@@ -8,20 +8,32 @@ Disseram-me que Moribunda é um poema “muito negativo”
 
 “Brasília não pode ser tão ruim”
 
-Retifico doravante: Brasília seria uma cidade horrível, 
+Retifico doravante: 
+
+Brasília seria uma cidade horrível, 
 
 Se não fosse onde te conheci.
 
-Na jovenzinha Já não mais doente Arde vida agora!
+Na jovenzinha
 
-Da expectativa da manhã Na janela do meu quarto
+Já não mais doente 
+
+Arde vida agora!
+
+Da expectativa da manhã
+
+Na janela do meu quarto
 
 À promessa de te encontrar.
 
-Hoje, amo os parques dessa cidade. Será Biofilia?
+Hoje, amo os parques dessa cidade. 
+
+Será Biofilia?
 
 Ou serão teus olhos de mata guardada em diamante?
 
-É que o verde é de Afrodite. A primavera de nós dois. 
+É que o verde é de Afrodite. 
+
+A primavera de nós dois. 
 
 E o prazer todo meu.
