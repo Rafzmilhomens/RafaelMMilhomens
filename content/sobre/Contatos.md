@@ -10,7 +10,7 @@ tags:
 São bem-vindos todos os interessados em pesquisa científica, especialmente em Comunicação Social, ciência e extensão.
 
 - E-mail:
-	- [Marquesgrafael@gmail.com]
+	- Marquesgrafael@gmail.com
 - Lattes: 
 	- http://lattes.cnpq.br/0529308038746793
 - ORCID:
