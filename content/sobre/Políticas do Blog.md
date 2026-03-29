@@ -5,7 +5,6 @@ draft: false
 tags:
 local: Brasília, DF
 ---
----
 ## 1. Autoria e Propriedade Intelectual
 
 Todo o conteúdo publicado neste blog — incluindo, mas não se limitando a, ensaios, poemas, fotografias, traduções, séries fotográficas e textos acadêmicos — é de autoria exclusiva de **Rafael M. Milhomens**, salvo quando expressamente indicado em contrário, e está protegido pela legislação brasileira de direitos autorais (Lei nº 9.610/1998) e pelas convenções internacionais das quais o Brasil é signatário, incluindo a Convenção de Berna para a Proteção das Obras Literárias e Artísticas.

@@ -5,7 +5,6 @@ draft: false
 tags:
 local: Brasília, DF
 ---
----
 ## 1. Authorship and Intellectual Property
 
 All content published on this blog — including but not limited to essays, poems, photographs, translations, photographic series, and academic texts — is the exclusive work of **Rafael M. Milhomens**, unless expressly stated otherwise. This content is protected under Brazilian copyright law (Law No. 9,610/1998) and applicable international treaties, including the Berne Convention for the Protection of Literary and Artistic Works.
