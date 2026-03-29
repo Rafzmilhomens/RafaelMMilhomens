@@ -36,7 +36,7 @@ Hoje, diversas mídias audiovisuais permeiam o quotidiano social: Videogames/con
 
 Considerando que na História, hábitos ressoam ao longo dos séculos, pode-se dizer que os meios contemporâneos e a linguagem da qual se utilizam são herança do Cinema que, por sua vez, é herança da fotografia. Com a evolução da linguagem cinematográfica, nem toda obra audiovisual é cinematográfica, contudo é possível que estes produtos carreguem em si muito da linguagem desenvolvida pelo Cinema desde os irmãos Lumiére e mesmo antes disso. De modo que talvez seja possível analisar também esses produtos através do estudo sistemático dessa linguagem. Buscando interpretá-los das formas que lhes cabem, elevando sua inteligibilidade em seu processo de leitura e feitura.
 
-Desse modo, das obras audiovisuais e cinematográficas possíveis, o gênero cinematográfico documentário, isto é, aquele que remonta às origens do Cinema, produzidos por volta de 1920, em película, foi escolhido como objeto para descrever e exemplificar a fé do indivíduo no discurso audiovisual. Tornando-o objeto sensível na construção social, tendo em vista os desdobramentos que esse discurso gera no sujeito. Tal como a publicação científica, quando dotada de elementos que a tornem válida para a comunidade.
+Desse modo, das obras audiovisuais e cinematográficas possíveis, o gênero cinematográfico documentário, isto é, aquele que remonta às origens do Cinema, produzidos por volta de 1920, em película, foi escolhido como objeto para descrever e exemplificar a fé do indivíduo no discurso audiovisual. Tornando-o objeto sensível na construção social, tendo em vista os desdobramentos que esse discurso gera no sujeito[^2]. Tal como a publicação científica, quando dotada de elementos que a tornem válida para a comunidade.
 
 Este trabalho se utiliza da leitura de Bazin e Grierson, também artigos acadêmicos e teses de comunicólogos e estudiosos da linguagem, como Martino, Bosco Medeiros e historiadores, como Santiago Santos, a fim de justificar o produto audiovisual, qualquer que seja, como objeto comunicacional e dotado de linguagem, portanto interpretável e passível de análise.
 
@@ -66,7 +66,7 @@ Ambos os filmes foram de grande sucesso de bilheteria, por tratarem da documenta
 
 ## Realidade/Ficção
 
-No entanto, os filmes constavam de alguns problemas, o Nanook retratado, por exemplo, era na verdade um ator, bem como sua esposa. Muitas das práticas retratadas tanto em Moana quanto em Nanook já não eram praticadas na época em que os filmes foram lançados. As opções de montagem, ritmo e angulação dos planos também sugerem histórias épicas para aqueles personagens. O que coloca o tema “verdade”e credulidade, levantado por Bazin, do filme e da obra documental em questão.
+No entanto, os filmes constavam de alguns problemas, o Nanook retratado, por exemplo, era na verdade um ator, bem como sua esposa. Muitas das práticas retratadas tanto em Moana quanto em Nanook já não eram praticadas na época em que os filmes foram lançados. As opções de montagem, ritmo e angulação dos planos também sugerem histórias épicas para aqueles personagens. O que coloca o tema “verdade”e credulidade, levantado por Bazin, do filme e da obra documental em questão. [ˆ3]
 
 Tendo em vista que a linguagem fílmica dá opções de ângulos de câmera e estilos de narrativa, por vezes um documentário beira a ficção. A linha é tênue. Referências de datas absolutamente distantes do tempo em que foi filmado e que diretor, roteirista ou qualquer pessoa da equipe poderia ter testemunhado também são um fator importante no resultado do produto documental.
 
@@ -102,6 +102,9 @@ Essa abstração da imagem enquanto transmissora de conceitos não impede que se
 
 Documentário é apenas um dos vários gêneros que uma obra audiovisual pode assumir, tal como artigo científico é um dos vários gêneros da linguagem escrita. Portanto, o estudo dessas linguagens é na verdade muito vasto, uma vez que há produtos audiovisuais como GIFs, gravações de câmeras de segurança, animações, jogos de videogame, realidade aumentada, realidade virtual, reportagens jornalísticas, podcasts, musicas, cada um com seus subgêneros, intenções e interpretações.
 
-Faz-se necessário, portanto, o desenvolvimento de uma ferramenta que sistematize os elementos básicos da linguagem audiovisual, tal como a gramática para as letras, para seu ensino na educação básica e em seu desenvolvimento e produção no país. Tendo em vista a permeabilidade dessa linguagem na vida contemporânea.
+Faz-se necessário, portanto, o desenvolvimento de uma ferramenta que sistematize os elementos básicos da linguagem audiovisual, tal como a gramática para as letras, para seu ensino na educação básica e em seu desenvolvimento e produção no país[ˆ4]. Tendo em vista a permeabilidade dessa linguagem na vida contemporânea.
 
 [^1]: Achei interessante ler isso. Já se antevê meu interesse pela relação indivíduo-mídia.
+[^2]: Aqui um outro achado arqueológico que muito importa a mim: os desdobramentos do discurso no indivíduo.
+[3]: Conferir o ensaio "O Continente Perdido" de Mitologias de Barthes.
+[4]: Vide o conceito de "Literacia da Mídia"
