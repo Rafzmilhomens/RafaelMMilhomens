@@ -1,9 +1,11 @@
 ---
-title: Idiomas
+title: "Idiomas: Nível de Proficiência"
 date: 2026-03-28
 draft: false
 tags:
   - Skills
+  - Idiomas
+  - Proficiência
 local:
 ---
 Estudo culturas e idiomas. Listo minha proficiência autodeclarada atual em cada um:
