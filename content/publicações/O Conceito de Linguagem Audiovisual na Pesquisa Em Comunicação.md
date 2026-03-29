@@ -30,6 +30,7 @@ tags:
   - DáciaIbiapinaDaSilva
   - GustavoDeCastro
   - IsmailXavier
+local: Brasília, DF
 ---
 Abaixo, meu Trabalho de Conclusão de Curso. Não está na íntegra. podem achá-lo no link: [https://bdm.unb.br/handle/10483/27562]
 
