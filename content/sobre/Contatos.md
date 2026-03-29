@@ -16,4 +16,4 @@ São bem-vindos todos os interessados em pesquisa científica, especialmente em 
 - ORCID:
 	- [https://orcid.org/0009-0005-9256-0885]
 - ResearchGate:
-	- [https://www.researchgate.net/profile/Rafael-Milhomens?ev=hdr_xprf]
+	- [https://www.researchgate.net/profile/Rafael-Milhomens]
