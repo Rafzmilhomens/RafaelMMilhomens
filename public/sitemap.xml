@@ -2,16 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/RafaelMMilhomens/ensaios/teste-1/</loc>
+    <loc>http://localhost:1313/RafaelMMilhomens/</loc>
+    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/RafaelMMilhomens/teste-2/</loc>
-  </url><url>
-    <loc>http://localhost:1313/RafaelMMilhomens/categories/</loc>
+    <loc>http://localhost:1313/RafaelMMilhomens/publica%C3%A7%C3%B5es/</loc>
+    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/RafaelMMilhomens/ensaios/</loc>
+    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/RafaelMMilhomens/</loc>
+    <loc>http://localhost:1313/RafaelMMilhomens/sobre/bem-vindo/</loc>
+    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/RafaelMMilhomens/tags/perfil/</loc>
+    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/RafaelMMilhomens/poesia/</loc>
+    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/RafaelMMilhomens/sobre/</loc>
+    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/RafaelMMilhomens/tags/</loc>
+    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/RafaelMMilhomens/tags/teaser/</loc>
+    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/RafaelMMilhomens/tags/teste/</loc>
+    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/RafaelMMilhomens/poesia/vem-ai-poesia.../</loc>
+    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/RafaelMMilhomens/publica%C3%A7%C3%B5es/post-0/</loc>
+    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/RafaelMMilhomens/ensaios/vem-ai.../</loc>
+    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
   </url>
 </urlset>

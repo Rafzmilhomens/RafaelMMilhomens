@@ -1,0 +1,30 @@
+{{ define "main" }}
+
+<article>
+  <h1>{{ .Title }}</h1>
+  <span class="post-meta">
+    {{ .Date.Format "2 de January de 2006" }}
+    {{ with .Params.tags }}· {{ range $i, $t := . }}{{ if $i }}, {{ end }}{{ $t }}{{ end }}{{ end }}
+  </span>
+
+  {{ with .Params.epigrafe }}
+  <div class="epigraph">
+    {{ .texto | markdownify }}
+    {{ with .autor }}<cite>{{ . }}</cite>{{ end }}
+  </div>
+  {{ end }}
+
+  <div class="content">
+    {{ .Content }}
+  </div>
+
+  {{ with .Params.tags }}
+  <div class="tags">
+    {{ range . }}
+    <a href="{{ (urlize (printf "tags/%s" .)) | relURL }}">{{ . }}</a>
+    {{ end }}
+  </div>
+  {{ end }}
+</article>
+
+{{ end }}

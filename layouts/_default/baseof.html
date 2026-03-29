@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ if not .IsHome }}{{ .Title }} · {{ end }}{{ .Site.Title }}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=IBM+Plex+Mono:wght@400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+</head>
+<body>
+
+  <header class="site-header">
+    <a href="{{ "/" | relURL }}" class="site-title">{{ .Site.Params.author }}</a>
+    <nav>
+      <a href="{{ "ensaios/" | relURL }}"{{ if eq .Section "ensaios" }} class="active"{{ end }}>ensaios</a>
+      <a href="{{ "poesia/" | relURL }}"{{ if eq .Section "poesia" }} class="active"{{ end }}>poesia</a>
+      <a href="{{ "publicações/" | relURL }}"{{ if eq .Section "publicações" }} class="active"{{ end }}>publicações</a>
+      <a href="{{ "sobre/" | relURL }}"{{ if eq .Title "Sobre" }} class="active"{{ end }}>sobre</a>
+    </nav>
+  </header>
+
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  <footer class="site-footer">
+    {{ .Site.Params.author }} · Brasília · {{ now.Year }}<br>
+    <small>Construído com <a href="https://gohugo.io">Hugo</a></small>
+  </footer>
+
+</body>
+</html>

@@ -1,4 +1,16 @@
-baseURL = 'https://rafzmilhomens.github.io/RafaelMMilhomens/'
-locale = 'pt-br'
-title = 'rafaelmmilhomens'
-theme = 'PaperMod'
+baseURL = "https://rafzmilhomens.github.io/RafaelMMilhomens/"
+locale = "pt-br"
+title = "Rafael M. Milhomens - BLOG DE ENSAIOS"
+languageCode = "pt-br"
+
+[permalinks]
+ensaios = "/ensaios/:slug/"
+fotografia = "/fotografia/:slug/"
+poesia = "/poesia/:slug/"
+publicacoes = "/publicacoes/:slug/"
+
+[taxonomies]
+tag = "tags"
+
+[params]
+author = "Rafael M. Milhomens"
