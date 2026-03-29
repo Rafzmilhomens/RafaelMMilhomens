@@ -9,36 +9,19 @@ local:
 ---
 Estudo culturas e idiomas. Listo minha proficiência autodeclarada atual em cada um:
 
-- Francês (Français)
-	- Compreendo bem
-	- Falo razoavelmente
-	- Leio bem
-	- Escrevo razoavelmente
+- Francês (Français): 
+	- Compreendo bem, falo razoavelmente, leio bem, escrevo razoavelmente
 - Inglês (English)
-	- Compreendo bem
-	- Falo bem
-	- Leio bem
-	- Escrevo razoavelmente
+	- Compreendo bem, falo bem, leio bem, escrevo razoavelmente
 - Japonês (日本語)
-	- Compreendo pouco
-	- Falo pouco
-	- Leio pouco
+	- Compreendo pouco, falo pouco, leio pouco
 - Espanhol (Español)
-	- Compreendo bem
-	- Falo razoavelmente
-	- Leio bem
-	- Escrevo razoavelmente
+	- Compreendo bem, falo razoavelmente, leio bem, escrevo razoavelmente
 - Grego (Ελληνικά)
-	- Compreendo pouco
-	- Falo pouco
-	- Leio pouco
+	- Compreendo pouco, falo pouco, leio pouco
 - Hebraico (השפה העברית)
-	- Leio pouco
+	- leio pouco
 - Holandês (Nederlandse)
-	- Compreendo pouco
-	- Leio pouco
+	- Compreendo pouco, leio pouco
 - Português
-	- Compreendo muito bem
-	- Falo muito bem
-	- Leio muito bem
-	- Escrevo bem
+	- Compreendo muito bem, falo muito bem, leio muito bem, escrevo bem
