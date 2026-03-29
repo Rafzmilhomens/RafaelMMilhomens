@@ -1,5 +1,5 @@
 ---
-title: O Conceito de Linguagem Audiovisual na Pesquisa Em Comunicação
+title: "O Conceito de Linguagem Audiovisual na Pesquisa Em Comunicação: Reflexões Analíticas a Partir de Teses e Dissertações do PPGCom/UnB (2003-2020)"
 date: 2020-01-01
 draft: false
 tags:
