@@ -3,6 +3,7 @@ title: Trickster
 date: 2026-03-28
 draft: false
 tags:
+  - Poema
 ---
 Jocosa é sua maneira 
 

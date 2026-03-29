@@ -3,6 +3,7 @@ title: Borboletas Digestórias ou "Amo-te e não sei dizê-lo"
 date: 2026-03-28
 draft: false
 tags:
+  - Poema
 ---
 Já não sou mais juventude
 

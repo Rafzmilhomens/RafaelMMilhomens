@@ -3,6 +3,7 @@ title: Matemática
 date: 2026-03-28
 draft: false
 tags:
+  - Poema
 ---
 Costuma dizer a mim
 

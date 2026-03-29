@@ -3,6 +3,7 @@ title: Fiat Lux
 date: 2026-03-29
 draft: false
 tags:
+  - Poema
 local:
 ---
 Tenho pra mim que 

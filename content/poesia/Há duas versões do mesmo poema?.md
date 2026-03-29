@@ -3,6 +3,7 @@ title: Há Duas Versões do Mesmo Poema?
 date: 2026-03-28
 draft: false
 tags:
+  - Poema
 ---
 Disseram-me que Moribunda é um poema “muito negativo”
 

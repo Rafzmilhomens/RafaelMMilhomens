@@ -3,6 +3,7 @@ title: Trégua Olimpica
 date: 2026-03-28
 draft: false
 tags:
+  - Poema
 ---
 Cada dia um novo tema
 

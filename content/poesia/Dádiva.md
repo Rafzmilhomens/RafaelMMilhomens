@@ -3,6 +3,7 @@ title: Dádiva
 date: 2026-03-28
 draft: false
 tags:
+  - Poema
 ---
 O xamã da farmácia me contou
 

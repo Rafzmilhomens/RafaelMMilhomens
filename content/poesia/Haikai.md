@@ -3,6 +3,7 @@ title: Haikai
 date: 2026-03-28
 draft: false
 tags:
+  - Poema
 local:
 ---
 雨が降れば
