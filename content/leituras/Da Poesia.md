@@ -1,10 +1,11 @@
 ---
 title: Da Poesia
-date:
+date: 2026-01-08
 draft: false
 tags:
   - poesia
   - HildaHilst
+  - CompanhiaDasLetras
 local:
 ---
 > Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa. 

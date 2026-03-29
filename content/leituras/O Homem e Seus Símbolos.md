@@ -5,6 +5,7 @@ draft: false
 tags:
   - PsicologiaJungiana
   - Jung
+  - HarperCollins
 local:
 ---
 > Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa. 
