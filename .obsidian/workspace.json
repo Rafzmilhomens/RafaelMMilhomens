@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/poesia/Trickster.md",
+                "file": "content/poesia/Trégua Olimpica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trickster"
+              "title": "Trégua Olimpica"
             }
           }
         ]
@@ -196,8 +196,9 @@
   },
   "active": "eecc02670f9ac2a9",
   "lastOpenFiles": [
-    "content/poesia/Matemática.md",
     "content/poesia/Trickster.md",
+    "content/poesia/Trégua Olimpica.md",
+    "content/poesia/Matemática.md",
     "content/poesia/Dádiva.md",
     "content/sobre/Contatos.md",
     "content/sobre/Rafael M. Milhomens.md",
@@ -240,7 +241,6 @@
     "themes/bear-cub/images/social_card.webp",
     "themes/bear-cub/images/screenshot.png",
     "themes/bear-cub/images/pagespeed.webp",
-    "themes/bear-cub/exampleSite/static/images/share.webp",
-    "themes/bear-cub/exampleSite/content.pt/blog/_index.md"
+    "themes/bear-cub/exampleSite/static/images/share.webp"
   ]
 }
