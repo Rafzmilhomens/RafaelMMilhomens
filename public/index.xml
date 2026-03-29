@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Project</title>
-    <link>https://example.org/</link>
-    <description>Recent content on My New Hugo Project</description>
+    <title>rafaelmmilhomens</title>
+    <link>http://localhost:1313/RafaelMMilhomens/</link>
+    <description>Recent content on rafaelmmilhomens</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>pt-br</language>
+    <atom:link href="http://localhost:1313/RafaelMMilhomens/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://example.org/ensaios/teste-1/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/ensaios/teste-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/ensaios/teste-1/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/ensaios/teste-1/</guid>
       <description>&lt;p&gt;Olá, isso é um teste.&lt;/p&gt;</description>
     </item>
   </channel>
