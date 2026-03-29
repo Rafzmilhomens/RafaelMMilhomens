@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/RafaelMMilhomens/ensaios/teste-1/</loc>
+    <loc>https://rafzmilhomens.github.io/RafaelMMilhomens/ensaios/teste-1/</loc>
   </url><url>
-    <loc>http://localhost:1313/RafaelMMilhomens/categories/</loc>
+    <loc>https://rafzmilhomens.github.io/RafaelMMilhomens/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/RafaelMMilhomens/ensaios/</loc>
+    <loc>https://rafzmilhomens.github.io/RafaelMMilhomens/ensaios/</loc>
   </url><url>
-    <loc>http://localhost:1313/RafaelMMilhomens/</loc>
+    <loc>https://rafzmilhomens.github.io/RafaelMMilhomens/</loc>
   </url><url>
-    <loc>http://localhost:1313/RafaelMMilhomens/tags/</loc>
+    <loc>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/</loc>
   </url>
 </urlset>
