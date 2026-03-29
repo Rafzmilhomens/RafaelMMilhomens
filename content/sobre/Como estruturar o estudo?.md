@@ -6,6 +6,7 @@ tags:
   - método
   - estudo
   - manual
+  - Extensão
 ---
 > No blog antigo, esse texto era bastante requisitado. E ainda o é. De modo que julguei revisá-lo para cá. Espero que lhes seja útil.
 
