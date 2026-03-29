@@ -106,5 +106,5 @@ Faz-se necessário, portanto, o desenvolvimento de uma ferramenta que sistematiz
 
 [^1]: Achei interessante ler isso. Já se antevê meu interesse pela relação indivíduo-mídia.
 [^2]: Aqui um outro achado arqueológico que muito importa a mim: os desdobramentos do discurso no indivíduo.
-[3]: Conferir o ensaio "O Continente Perdido" de Mitologias de Barthes.
-[4]: Vide o conceito de "Literacia da Mídia"
+[^3]: Conferir o ensaio "O Continente Perdido" de Mitologias de Barthes.
+[^4]: Vide o conceito de "Literacia da Mídia"
