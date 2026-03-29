@@ -1,5 +1,5 @@
 ---
-title: Primeiro Ensaio
+title: "O Gênero Documental Como Discurso Científico: Educação e Linguagem Audiovisual"
 date: 2018-04-01
 draft: false
 tags:
@@ -25,6 +25,8 @@ tags:
   - ValsaComBashir
   - Persépolis
   - Literacia
+  - Educação
+  - LinguagemAudiovisual
 local: Brasília, DF
 ---
 > Este ensaio estava guardado, empoeirado, em meus arquivos. Achei de bom tom, enquanto não disponho de tempo hábil para revisar e publicar os outros, iniciar o blog com ele.
