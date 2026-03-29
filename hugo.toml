@@ -20,5 +20,3 @@ author = "Rafael M. Milhomens"
     [markup.goldmark.extensions]
       [markup.goldmark.extensions.footnote]
         enable = true
-    [markup.goldmark.renderer]
-      unsafe = true
