@@ -1,5 +1,5 @@
 ---
-title: O Conceito de Linguagem Audiovidual na Pesquisa Em Comunicação
+title: O Conceito de Linguagem Audiovisual na Pesquisa Em Comunicação
 date: 2020-01-01
 draft: false
 tags:
