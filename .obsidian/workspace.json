@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sobre/Rafael M. Milhomens.md",
+                "file": "content/poesia/Há duas versões do mesmo poema?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rafael M. Milhomens"
+              "title": "Há duas versões do mesmo poema?"
             }
           }
         ]
@@ -196,6 +196,8 @@
   },
   "active": "40b94c64f3132cf6",
   "lastOpenFiles": [
+    "MODELOS/MODELO.md",
+    "content/poesia/Há duas versões do mesmo poema?.md",
     "content/ensaios/Olá, Mundo!.md",
     "content/sobre/Rafael M. Milhomens.md",
     "content/poesia/Borboletas Digestórias ou \"amo-te e não sei dizê-lo\".md",
@@ -229,7 +231,6 @@
     "content/fotografia/Perfil/IMG_1512.jpg",
     "IMG_1512.jpg",
     "content/BEM-VINDO.md",
-    "MODELOS/MODELO.md",
     "themes/bear-cub/images/tn.png",
     "themes/bear-cub/images/social_card.webp",
     "themes/bear-cub/images/screenshot.png",
@@ -240,7 +241,6 @@
     "themes/bear-cub/exampleSite/content/blog/placeholder-text.md",
     "themes/bear-cub/exampleSite/content/blog/math-typesetting.md",
     "themes/bear-cub/exampleSite/content/blog/markdown-syntax.md",
-    "themes/bear-cub/exampleSite/content/blog/emoji-support.md",
-    "themes/bear-cub/exampleSite/content/blog/_index.md"
+    "themes/bear-cub/exampleSite/content/blog/emoji-support.md"
   ]
 }
