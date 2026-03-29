@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/ensaios/O Gênero Documental Como Discurso Científico.md",
-                "mode": "preview",
+                "file": "content/sobre/Políticas do Blog.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "O Gênero Documental Como Discurso Científico"
+              "title": "Políticas do Blog"
             }
           }
         ]
@@ -196,12 +196,14 @@
   },
   "active": "eecc02670f9ac2a9",
   "lastOpenFiles": [
-    "content/publicações/O Conceito de Linguagem Audiovisual na Pesquisa Em Comunicação.md",
+    "content/sobre/Blog Policies.md",
+    "content/sobre/Políticas do Blog.md",
+    "MODELOS/MODELO.md",
     "content/ensaios/O Gênero Documental Como Discurso Científico.md",
+    "content/publicações/O Conceito de Linguagem Audiovisual na Pesquisa Em Comunicação.md",
     "content/sobre/Contatos.md",
     "content/sobre/Idiomas.md",
     "content/poesia/Haikai.md",
-    "MODELOS/MODELO.md",
     "content/poesia/Há duas versões do mesmo poema?.md",
     "content/poesia/Trégua Olimpica.md",
     "content/poesia/Trickster.md",
@@ -232,8 +234,6 @@
     "public/img/IMG_1512.jpg",
     "content/fotografias/_index.md",
     "content/poesia/_index.md",
-    "content/sobre/_index.md",
-    "content/ensaios/_index.md",
     "public/fotografia/Perfil/IMG_1512.jpg",
     "content/fotografia/Perfil/IMG_1512.jpg",
     "IMG_1512.jpg",

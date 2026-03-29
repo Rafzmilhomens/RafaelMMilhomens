@@ -2,10 +2,11 @@
 
 <article>
   <h1>{{ .Title }}</h1>
-  <span class="post-meta">
-    {{ .Date.Format "2 de January de 2006" }}
-    {{ with .Params.tags }}· {{ range $i, $t := . }}{{ if $i }}, {{ end }}{{ $t }}{{ end }}{{ end }}
-  </span>
+ <span class="post-meta">
+  {{ .Date.Format "2 de January de 2006" }}
+  {{ with .Params.local }}· {{ . }}{{ end }}
+  {{ with .Params.tags }}· {{ range $i, $t := . }}{{ if $i }}, {{ end }}{{ $t }}{{ end }}{{ end }}
+</span>
 
   {{ with .Params.epigrafe }}
   <div class="epigraph">
@@ -25,6 +26,10 @@
     {{ end }}
   </div>
   {{ end }}
+
+  <div class="post-disclaimer">
+    © {{ now.Year }} {{ .Site.Params.author }}. Todos os direitos reservados. A reprodução total ou parcial deste conteúdo sem autorização prévia e citação da fonte é proibida. · <a href="{{ "politicas-do-blog/" | relURL }}">Políticas</a>
+  </div>
 </article>
 
 {{ end }}
