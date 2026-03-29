@@ -4,6 +4,15 @@ date: 2026-03-28
 draft: false
 tags:
   - Perfil
+  - PesquisaEmComunicação
+  - Audiovisual
+  - SistemasSimbólicos
+  - Pós-secular
+  - Semiótica
+  - TeoriaCultural
+  - Sentido
+  - Percepção
+  - PurificaçãoSimbólica
 ---
 Pesquisador independente baseado em Brasília, Brasil. Bacharel em Comunicação - Audiovisual (Universidade de Brasília). Interesses de pesquisa incluem sistemas simbólicos pós-seculares, semiótica, teoria cultural, e os mecanismos pelos quais tecnologias de sentido organizam a percepção coletiva. Atualmente desenvolvendo o conceito de "Purificação Simbólica": uma matriz para compreender como sistemas simbólicos dominantes sobrescrevem outros enquanto apresentam-se como neutros.
 
