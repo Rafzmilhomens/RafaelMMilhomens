@@ -1,5 +1,5 @@
 ---
-title: Título
+title: Sentimento do Mundo
 date: 2025-11-13
 draft: false
 tags:
