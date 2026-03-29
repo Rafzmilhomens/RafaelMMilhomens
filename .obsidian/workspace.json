@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/sobre/BEM-VINDO.md",
+                "file": "content/poesia/p3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BEM-VINDO"
+              "title": "p3"
             }
           }
         ]
@@ -196,6 +196,10 @@
   },
   "active": "eecc02670f9ac2a9",
   "lastOpenFiles": [
+    "content/poesia/p2.md",
+    "content/poesia/p3.md",
+    "content/poesia/p1.md",
+    "content/sobre/BEM-VINDO.md",
     "public/tags/perfil/index.xml",
     "public/tags/teaser/index.xml",
     "public/tags/teaser/index.html",
@@ -209,11 +213,9 @@
     "content/publicações/Post 0.md",
     "content/poesia/Poesia 0.md",
     "content/ensaios/Ensaio 0.md",
-    "content/sobre/BEM-VINDO.md",
     "content/_index.md",
     "static/img/IMG_1512.jpg",
     "content/fotografias/Fotografia Teste.md",
-    "public/tags/teste/index.xml",
     "public/img/IMG_1512.jpg",
     "content/fotografias/_index.md",
     "content/poesia/_index.md",
@@ -239,8 +241,6 @@
     "themes/bear-cub/exampleSite/content/blog/emoji-support.md",
     "themes/bear-cub/exampleSite/content/blog/_index.md",
     "themes/bear-cub/exampleSite/content.pt/_index.md",
-    "themes/bear-cub/exampleSite/content/_index.md",
-    "themes/bear-cub/README.md",
-    "themes 21.46.41/hugo-website/content/Ensaios/Teste 1.md"
+    "themes/bear-cub/exampleSite/content/_index.md"
   ]
 }
