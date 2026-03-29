@@ -1,6 +1,6 @@
 ---
 title: Políticas do Blog | Blog Policies
-date: 2026-03-28
+date: 2026-03-27
 draft: false
 tags:
 local: Brasília, DF
