@@ -8,6 +8,9 @@ ensaios = "/ensaios/:slug/"
 fotografia = "/fotografia/:slug/"
 poesia = "/poesia/:slug/"
 publicacoes = "/publicacoes/:slug/"
+leituras = "/leituras/:slug/"
+apoiadores = "/apoiadores/:slug/"
+sobre = "/sobre/:slug/"
 
 [taxonomies]
 tag = "tags"
