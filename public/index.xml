@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>rafaelmmilhomens</title>
-    <link>https://rafzmilhomens.github.io/RafaelMMilhomens/</link>
+    <link>http://localhost:1313/RafaelMMilhomens/</link>
     <description>Recent content on rafaelmmilhomens</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <atom:link href="https://rafzmilhomens.github.io/RafaelMMilhomens/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/RafaelMMilhomens/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/ensaios/teste-1/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/ensaios/teste-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/ensaios/teste-1/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/ensaios/teste-1/</guid>
       <description>&lt;p&gt;hello, world!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/RafaelMMilhomens/teste-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/teste-2/</guid>
+      <description>&lt;p&gt;Hello, world!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

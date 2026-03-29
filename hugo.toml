@@ -1,3 +1,4 @@
 baseURL = 'https://rafzmilhomens.github.io/RafaelMMilhomens/'
 locale = 'pt-br'
 title = 'rafaelmmilhomens'
+theme: ["PaperMod"]
