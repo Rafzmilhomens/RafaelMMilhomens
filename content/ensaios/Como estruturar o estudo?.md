@@ -1,6 +1,6 @@
 ---
 title: "Como Estruturar o Estudo: Método Rafz."
-date: 2025-07-06
+date: 2025-06-06
 draft: false
 tags:
   - método
