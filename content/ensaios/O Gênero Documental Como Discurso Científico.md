@@ -29,7 +29,7 @@ tags:
   - LinguagemAudiovisual
 local: Brasília, DF
 ---
-> Este ensaio estava guardado, empoeirado, em meus arquivos. Achei de bom tom, enquanto não disponho de tempo hábil para revisar e publicar os outros, iniciar o blog com ele.
+> Este ensaio estava guardado, empoeirado, em meus arquivos. Achei de bom tom, enquanto não disponho de tempo hábil para revisar e publicar os outros, iniciar o blog com ele. Há notas de comentários da última revisão ao final.
 ## Introdução
 
 Hoje, diversas mídias audiovisuais permeiam o quotidiano social: Videogames/consoles, rádio, televisão, celular, computadores. E as diversas naturezas dos produtos que esses suportes reproduzem: vídeos digitais, _blue-rays,_ CD’s, vinis, fitas K-7, revistas em quadrinhos, impressas ou não, a internet e suas diversas plataformas. A relação dos sujeitos com esses meios ^[Achei curioso e interessante ler isso. Já se pode antever meu interesse pela percepção do indivíduo aqui.] contribui para com a maneira como enxergam o mundo e a cultura da qual fazem parte, suas referências imagéticas e sonoras, também no que se acredita, bem como os assuntos com os quais se preocupam. É comum que se diga que já se conhece um lugar porque se viu na televisão, por exemplo. Ou, que se defenda um ponto de vista à partir do que se viu em um documentário.

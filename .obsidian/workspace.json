@@ -13,32 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/publicações/O Conceito de Linguagem Audiovisual na Pesquisa Em Comunicação.md",
+                "file": "content/ensaios/O Gênero Documental Como Discurso Científico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "O Conceito de Linguagem Audiovisual na Pesquisa Em Comunicação"
-            }
-          }
-        ]
-      },
-      {
-        "id": "b5b7708e71abbf61",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cca02a4868776829",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/publicações/O Conceito de Linguagem Audiovisual na Pesquisa Em Comunicação.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "O Conceito de Linguagem Audiovisual na Pesquisa Em Comunicação"
+              "title": "O Gênero Documental Como Discurso Científico"
             }
           }
         ]
@@ -98,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "41bf21873ee5966e",
@@ -215,13 +194,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cca02a4868776829",
+  "active": "eecc02670f9ac2a9",
   "lastOpenFiles": [
+    "content/publicações/O Conceito de Linguagem Audiovisual na Pesquisa Em Comunicação.md",
     "content/ensaios/O Gênero Documental Como Discurso Científico.md",
     "content/sobre/Contatos.md",
     "content/sobre/Idiomas.md",
     "content/poesia/Haikai.md",
-    "content/publicações/O Conceito de Linguagem Audiovisual na Pesquisa Em Comunicação.md",
     "MODELOS/MODELO.md",
     "content/poesia/Há duas versões do mesmo poema?.md",
     "content/poesia/Trégua Olimpica.md",
