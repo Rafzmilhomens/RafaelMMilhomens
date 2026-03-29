@@ -1,5 +1,5 @@
 ---
-title: Há Duas Versões do Mesmo poema?
+title: Há Duas Versões do Mesmo Poema?
 date: 2026-03-28
 draft: false
 tags:
