@@ -14,3 +14,8 @@ tag = "tags"
 
 [params]
 author = "Rafael M. Milhomens"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      footnote = true
