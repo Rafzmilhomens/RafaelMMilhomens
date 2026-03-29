@@ -13,7 +13,7 @@
 
   <header class="site-header">
     <a href="{{ .Site.BaseURL }}" class="site-title">{{ .Site.Params.author }}</a>
-    <span class="site-motto">Disciplina, Opus, Amor.</span>
+      <span class="site-motto">Disciplina, Opus, Amor.</span>
     <nav>
       <a href="{{ "ensaios/" | relURL }}"{{ if eq .Section "ensaios" }} class="active"{{ end }}>ensaios</a>
       <a href="{{ "poesia/" | relURL }}"{{ if eq .Section "poesia" }} class="active"{{ end }}>poesia</a>
