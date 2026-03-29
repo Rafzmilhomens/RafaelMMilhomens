@@ -5,7 +5,7 @@ draft: false
 tags:
 local:
 ---
-> Seção dedicada aos contribuidores desse blog. Muito obrigado, amigos!
+> Seção dedicada aos que contribuem (direta e/ou indiretamente) com este blog. Muito obrigado, amigos!
 
 - ZeriBolos
 	- https://beacons.ai/zeribolos
