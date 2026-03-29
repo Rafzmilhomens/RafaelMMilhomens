@@ -1,6 +1,6 @@
 ---
 title: "Idiomas: Nível de Proficiência"
-date: 2026-03-28
+date: 2026-03-29
 draft: false
 tags:
   - Skills

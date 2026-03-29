@@ -1,6 +1,6 @@
 ---
-title: Primeiro Ensaio
-date: 2026-03-28
+title: Título
+date:
 draft: false
 tags:
 local:
