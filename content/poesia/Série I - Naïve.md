@@ -1,5 +1,5 @@
 ---
-title: Série I - Naïv
+title: Série I - Naïve
 date: 2026-03-29
 draft: false
 tags:
@@ -10,12 +10,12 @@ Essa série de fotos discute combate do indivíduo pós-moderno com suas duas po
 Além de inscrever o indivíduo comum em uma ambiência icônica reservada a outros personagens da história humana. A recolocação visa a busca da fratura: Imperativo para uma nova compreensão.
 
 ## Inocente - Fotografia Digital
-![Inocente](content/poesia/Fotografia/inocente.jpeg)
+![Inocente](inocente.jpeg)
 
 ## Invocação - Fotografia Digital
 
-![Invocação](content/poesia/Fotografia/invocação.jpg)
+![Invocação](invocação.jpg)
 
 ## Vidro - Fotografia Digital + Tratamento por IA
 
-![Vidro](content/poesia/Fotografia/vidro.jpeg)
+![Vidro](vidro.jpeg)
