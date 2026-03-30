@@ -39,4 +39,4 @@ O conhecimento, nessa perspectiva, é, e sempre foi, assunto de vida ou morte.
 
 É a urgência que nos traz o filme.
 
-[^1]: Metalinguagem irônica em que nos encontramos: Notar a "Fratura" da percepção como pré-condição para a elaboração de novo sentido.
+[^1]: Metalinguagem irônica em que nos encontramos: Notar a "fratura" da percepção como pré-condição para a elaboração de novo sentido.
