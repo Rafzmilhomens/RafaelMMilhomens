@@ -1,5 +1,5 @@
 ---
-title:
+title: Série I - Naïve
 date:
 draft: false
 tags:
