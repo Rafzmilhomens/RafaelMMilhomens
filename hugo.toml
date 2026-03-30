@@ -10,7 +10,6 @@ publicacoes = "/publicacoes/:slug/"
 leituras = "/leituras/:slug/"
 apoie = "/apoie/:slug/"
 sobre = "/sobre/:slug/"
-fotografia = "/fotografia/:slug/"
 
 [taxonomies]
 tag = "tags"
