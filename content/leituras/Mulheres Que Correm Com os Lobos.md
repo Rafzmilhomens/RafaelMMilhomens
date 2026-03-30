@@ -1,6 +1,6 @@
 ---
 title: Mulheres Que Correm Com os Lobos
-date:
+date: 2026-03-30
 draft: false
 tags:
   - PsicologiaJungiana
