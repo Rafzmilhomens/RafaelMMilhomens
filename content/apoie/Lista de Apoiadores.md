@@ -17,7 +17,7 @@ Qualquer valor é bem-vindo e sustenta diretamente a continuidade deste trabalho
 ---
 ## Apoiadores
 
-Pessoas que acreditam neste projeto e o sustentam com generosidade. Se preferir anonimato, basta informar.
+Pessoas que acreditam neste projeto. Se preferir anonimato, basta informar.
 
 - **Zeri Bolos** - Criador de conteúdo e *streamer* voltado para jogos - https://beacons.ai/zeribolos
 
