@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Extensão on Rafael M. Milhomens - BLOG DE ENSAIOS</title>
-    <link>http://localhost:1313/RafaelMMilhomens/tags/extens%C3%A3o/</link>
-    <description>Recent content in Extensão on Rafael M. Milhomens - BLOG DE ENSAIOS</description>
+    <title>Extensão on Rafael M. Milhomens - BLOG</title>
+    <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/extens%C3%A3o/</link>
+    <description>Recent content in Extensão on Rafael M. Milhomens - BLOG</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 28 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/RafaelMMilhomens/tags/extens%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rafzmilhomens.github.io/RafaelMMilhomens/tags/extens%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Contatos</title>
-      <link>http://localhost:1313/RafaelMMilhomens/sobre/contatos/</link>
+      <title>Contato | Contact</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/sobre/contato-contact/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/sobre/contatos/</guid>
-      <description>&lt;p&gt;São bem-vindos todos os interessados em pesquisa científica, especialmente em Comunicação Social, ciência e extensão.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;E-mail:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[Marquesgrafael@gmail.com]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Lattes:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[http://lattes.cnpq.br/0529308038746793]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;ORCID:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[https://orcid.org/0009-0005-9256-0885]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;ResearchGate:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[https://www.researchgate.net/profile/Rafael-Milhomens]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/sobre/contato-contact/</guid>
+      <description>&lt;p&gt;São bem-vindos todos os interessados em pesquisa científica, especialmente em Comunicação Social, ciência e extensão.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;E-mail: &lt;a href=&#34;mailto:Marquesgrafael@gmail.com&#34;&gt;Marquesgrafael@gmail.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Lattes: &lt;a href=&#34;http://lattes.cnpq.br/0529308038746793&#34;&gt;http://lattes.cnpq.br/0529308038746793&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;ORCID: &lt;a href=&#34;https://orcid.org/0009-0005-9256-0885&#34;&gt;https://orcid.org/0009-0005-9256-0885&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;ResearchGate: &lt;a href=&#34;https://www.researchgate.net/profile/Rafael-Milhomens&#34;&gt;https://www.researchgate.net/profile/Rafael-Milhomens&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Como Estruturar o Estudo: Método Rafz.</title>
-      <link>http://localhost:1313/RafaelMMilhomens/sobre/como-estruturar-o-estudo/</link>
-      <pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/sobre/como-estruturar-o-estudo/</guid>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/ensaios/como-estruturar-o-estudo-m%C3%A9todo-rafz./</link>
+      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/ensaios/como-estruturar-o-estudo-m%C3%A9todo-rafz./</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;No blog antigo, esse texto era bastante requisitado. E ainda o é. De modo que julguei revisá-lo para cá. Espero que lhes seja útil.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h1 id=&#34;i-preparação---o-fundamento-do-estudo&#34;&gt;I. PREPARAÇÃO - O FUNDAMENTO DO ESTUDO&lt;/h1&gt;&#xA;&lt;h2 id=&#34;por-que-estudar&#34;&gt;Por que estudar?&lt;/h2&gt;&#xA;&lt;p&gt;Para começar, é necessário que você tenha objetivos. Para estudar ou fazer qualquer projeto, seja ele de longo, curto ou médio prazo, é preciso que você tenha um lugar onde quer chegar. E para ter um lugar onde quer chegar você precisa, antes de mais nada, investigar os seus desejos:&lt;/p&gt;</description>
     </item>
   </channel>

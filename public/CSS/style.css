@@ -568,3 +568,45 @@ article {
   blockquote, pre, figure { page-break-inside: avoid; }
   nav, .pagination, .site-footer { display: none; }
 }
+
+/* ── Disclaimer de rodapé do post ── */
+
+.post-disclaimer {
+  margin-top: var(--spacing-xl);
+  padding-top: var(--spacing-md);
+  border-top: 1px solid var(--grey-rule);
+  font-size: 0.75rem;
+  color: var(--grey);
+  line-height: 1.5;
+  text-align: center;
+  text-indent: 0;
+}
+
+.post-disclaimer a {
+  color: var(--grey);
+  border-bottom: 1px solid var(--grey-rule);
+}
+
+.post-disclaimer a:hover {
+  color: var(--red);
+  border-bottom-color: var(--red);
+}
+
+.site-motto {
+  display: block;
+  font-size: 0.78rem;
+  font-style: italic;
+  color: var(--grey);
+  letter-spacing: 0.04em;
+  margin-top: 0.15em;
+}
+
+.site-description {
+  font-size: 0.85rem;
+  font-style: italic;
+  color: var(--grey);
+  margin-top: var(--spacing-sm);
+  line-height: 1.5;
+  text-indent: 0;
+  text-align: left;
+}

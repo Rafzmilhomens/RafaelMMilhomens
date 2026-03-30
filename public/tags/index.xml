@@ -1,382 +1,725 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Rafael M. Milhomens - BLOG DE ENSAIOS</title>
-    <link>http://localhost:1313/RafaelMMilhomens/tags/</link>
-    <description>Recent content in Tags on Rafael M. Milhomens - BLOG DE ENSAIOS</description>
+    <title>Tags on Rafael M. Milhomens - BLOG</title>
+    <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/</link>
+    <description>Recent content in Tags on Rafael M. Milhomens - BLOG</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sat, 28 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/RafaelMMilhomens/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://rafzmilhomens.github.io/RafaelMMilhomens/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Extensão</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/extens%C3%A3o/</link>
-      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/extens%C3%A3o/</guid>
+      <title>Audiovisual</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/audiovisual/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/audiovisual/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Brasil</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/brasil/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/brasil/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CaetanoVeloso</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/caetanoveloso/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/caetanoveloso/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CompanhiaDasLetras</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/companhiadasletras/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/companhiadasletras/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>História</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/hist%C3%B3ria/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/hist%C3%B3ria/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Música</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/m%C3%BAsica/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/m%C3%BAsica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Percepção</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/percep%C3%A7%C3%A3o/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/percep%C3%A7%C3%A3o/</guid>
       <description></description>
     </item>
     <item>
       <title>Perfil</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/perfil/</link>
-      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/perfil/</guid>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/perfil/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/perfil/</guid>
       <description></description>
     </item>
     <item>
       <title>PesquisaEmComunicação</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/pesquisaemcomunica%C3%A7%C3%A3o/</link>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/pesquisaemcomunica%C3%A7%C3%A3o/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/pesquisaemcomunica%C3%A7%C3%A3o/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poema</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/poema/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/poema/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pós-Secular</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/p%C3%B3s-secular/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/p%C3%B3s-secular/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PurificaçãoSimbólica</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/purifica%C3%A7%C3%A3osimb%C3%B3lica/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/purifica%C3%A7%C3%A3osimb%C3%B3lica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Semiótica</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/semi%C3%B3tica/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/semi%C3%B3tica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sentido</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/sentido/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/sentido/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SistemasSimbólicos</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/sistemassimb%C3%B3licos/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/sistemassimb%C3%B3licos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TeoriaCultural</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/teoriacultural/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/teoriacultural/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Extensão</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/extens%C3%A3o/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/pesquisaemcomunica%C3%A7%C3%A3o/</guid>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/extens%C3%A3o/</guid>
       <description></description>
     </item>
     <item>
       <title>ProduçãoCientífica</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/produ%C3%A7%C3%A3ocient%C3%ADfica/</link>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/produ%C3%A7%C3%A3ocient%C3%ADfica/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/produ%C3%A7%C3%A3ocient%C3%ADfica/</guid>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/produ%C3%A7%C3%A3ocient%C3%ADfica/</guid>
       <description></description>
     </item>
     <item>
-      <title>Proficiência</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/profici%C3%AAncia/</link>
-      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/profici%C3%AAncia/</guid>
+      <title>ArielDurant</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/arieldurant/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/arieldurant/</guid>
       <description></description>
     </item>
     <item>
-      <title>Skills</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/skills/</link>
-      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/skills/</guid>
+      <title>WillDurant</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/willdurant/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/willdurant/</guid>
       <description></description>
     </item>
     <item>
-      <title>Estudo</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/estudo/</link>
-      <pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/estudo/</guid>
+      <title>ArteELetra</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/arteeletra/</link>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/arteeletra/</guid>
       <description></description>
     </item>
     <item>
-      <title>Manual</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/manual/</link>
-      <pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/manual/</guid>
+      <title>RobertMcKee</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/robertmckee/</link>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/robertmckee/</guid>
       <description></description>
     </item>
     <item>
-      <title>Método</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/m%C3%A9todo/</link>
-      <pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/m%C3%A9todo/</guid>
+      <title>Roteiro</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/roteiro/</link>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/roteiro/</guid>
       <description></description>
     </item>
     <item>
-      <title>ArlindoMachado</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/arlindomachado/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/arlindomachado/</guid>
+      <title>HildaHilst</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/hildahilst/</link>
+      <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/hildahilst/</guid>
       <description></description>
     </item>
     <item>
-      <title>Audiovisual</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/audiovisual/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/audiovisual/</guid>
+      <title>Poesia</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/poesia/</link>
+      <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/poesia/</guid>
       <description></description>
     </item>
     <item>
-      <title>Bauman</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/bauman/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/bauman/</guid>
+      <title>Drummond</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/drummond/</link>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/drummond/</guid>
       <description></description>
     </item>
     <item>
-      <title>Bernadet</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/bernadet/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/bernadet/</guid>
+      <title>Record</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/record/</link>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/record/</guid>
       <description></description>
     </item>
     <item>
-      <title>BillNichols</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/billnichols/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/billnichols/</guid>
+      <title>ChristopherAlexander</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/christopheralexander/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/christopheralexander/</guid>
       <description></description>
     </item>
     <item>
-      <title>ChristianMetz</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/christianmetz/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/christianmetz/</guid>
+      <title>Design</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/design/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/design/</guid>
       <description></description>
     </item>
     <item>
-      <title>DáciaIbiapinaDaSilva</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/d%C3%A1ciaibiapinadasilva/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/d%C3%A1ciaibiapinadasilva/</guid>
+      <title>HarvardUniversity</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/harvarduniversity/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/harvarduniversity/</guid>
       <description></description>
     </item>
     <item>
-      <title>EltonBrunoPinheiro</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/eltonbrunopinheiro/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/eltonbrunopinheiro/</guid>
+      <title>DerekCabrera</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/derekcabrera/</link>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/derekcabrera/</guid>
       <description></description>
     </item>
     <item>
-      <title>GustavoDeCastro</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/gustavodecastro/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/gustavodecastro/</guid>
+      <title>LauraCabrera</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/lauracabrera/</link>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/lauracabrera/</guid>
       <description></description>
     </item>
     <item>
-      <title>HenryJenkins</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/henryjenkins/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/henryjenkins/</guid>
+      <title>PensamentoSistêmico</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/pensamentosist%C3%AAmico/</link>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/pensamentosist%C3%AAmico/</guid>
       <description></description>
     </item>
     <item>
-      <title>IsmailXavier</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/ismailxavier/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/ismailxavier/</guid>
+      <title>Plectica</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/plectica/</link>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/plectica/</guid>
       <description></description>
     </item>
     <item>
-      <title>Linguagem</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/linguagem/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/linguagem/</guid>
+      <title>BestSeller</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/bestseller/</link>
+      <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/bestseller/</guid>
       <description></description>
     </item>
     <item>
-      <title>LinguagemAudiovisual</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/linguagemaudiovisual/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/linguagemaudiovisual/</guid>
+      <title>PeterMSenge</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/petermsenge/</link>
+      <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/petermsenge/</guid>
       <description></description>
     </item>
     <item>
-      <title>LúciaSantaella</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/l%C3%BAciasantaella/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/l%C3%BAciasantaella/</guid>
+      <title>AnneCarson</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/annecarson/</link>
+      <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/annecarson/</guid>
       <description></description>
     </item>
     <item>
-      <title>MarcelMartin</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/marcelmartin/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/marcelmartin/</guid>
+      <title>BazarDoTempo</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/bazardotempo/</link>
+      <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/bazardotempo/</guid>
       <description></description>
     </item>
     <item>
-      <title>MariaRobertaNovielli</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/mariarobertanovielli/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/mariarobertanovielli/</guid>
+      <title>DonellaHMeadows</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/donellahmeadows/</link>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/donellahmeadows/</guid>
       <description></description>
     </item>
     <item>
-      <title>Martino</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/martino/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/martino/</guid>
+      <title>Sextante</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/sextante/</link>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/sextante/</guid>
       <description></description>
     </item>
     <item>
-      <title>MichelChion</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/michelchion/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/michelchion/</guid>
+      <title>Aristóteles</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/arist%C3%B3teles/</link>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/arist%C3%B3teles/</guid>
       <description></description>
     </item>
     <item>
-      <title>MiltonOhata</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/miltonohata/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/miltonohata/</guid>
+      <title>Editora34</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/editora34/</link>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/editora34/</guid>
       <description></description>
     </item>
     <item>
-      <title>Platão</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/plat%C3%A3o/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/plat%C3%A3o/</guid>
+      <title>Ética</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/%C3%A9tica/</link>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/%C3%A9tica/</guid>
       <description></description>
     </item>
     <item>
-      <title>PPGCOM-FAC/UnB</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/ppgcom-fac/unb/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/ppgcom-fac/unb/</guid>
+      <title>Filosofia</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/filosofia/</link>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/filosofia/</guid>
       <description></description>
     </item>
     <item>
-      <title>SantiagoSantos</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/santiagosantos/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/santiagosantos/</guid>
+      <title>Direito</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/direito/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/direito/</guid>
       <description></description>
     </item>
     <item>
-      <title>Saussure</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/saussure/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/saussure/</guid>
+      <title>MartinClaret</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/martinclaret/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/martinclaret/</guid>
       <description></description>
     </item>
     <item>
-      <title>TCC</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/tcc/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/tcc/</guid>
+      <title>Política</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/pol%C3%ADtica/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/pol%C3%ADtica/</guid>
       <description></description>
     </item>
     <item>
-      <title>WalterBenjamin</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/walterbenjamin/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/walterbenjamin/</guid>
+      <title>BCE/UnB</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/bce/unb/</link>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/bce/unb/</guid>
       <description></description>
     </item>
     <item>
-      <title>Bazin</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/bazin/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/bazin/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Bosco</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/bosco/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/bosco/</guid>
+      <title>Cineclube</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/cineclube/</link>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/cineclube/</guid>
       <description></description>
     </item>
     <item>
       <title>Cinema</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/cinema/</link>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/cinema/</link>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/cinema/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mini-Ensaio</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/mini-ensaio/</link>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/mini-ensaio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ToddHaynes</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/toddhaynes/</link>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/toddhaynes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Estudo</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/estudo/</link>
+      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/estudo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Manual</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/manual/</link>
+      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/manual/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Método</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/m%C3%A9todo/</link>
+      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/m%C3%A9todo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Platão</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/plat%C3%A3o/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/plat%C3%A3o/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CesareBeccaria</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/cesarebeccaria/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/cesarebeccaria/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DireitoPenal</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/direitopenal/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/direitopenal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HarperCollins</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/harpercollins/</link>
+      <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/harpercollins/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jung</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/jung/</link>
+      <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/jung/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PsicologiaJungiana</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/psicologiajungiana/</link>
+      <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/psicologiajungiana/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ArlindoMachado</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/arlindomachado/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/arlindomachado/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bauman</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/bauman/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/bauman/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bernadet</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/bernadet/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/bernadet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BillNichols</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/billnichols/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/billnichols/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ChristianMetz</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/christianmetz/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/christianmetz/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DáciaIbiapinaDaSilva</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/d%C3%A1ciaibiapinadasilva/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/d%C3%A1ciaibiapinadasilva/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>EltonBrunoPinheiro</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/eltonbrunopinheiro/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/eltonbrunopinheiro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GustavoDeCastro</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/gustavodecastro/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/gustavodecastro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HenryJenkins</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/henryjenkins/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/henryjenkins/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IsmailXavier</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/ismailxavier/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/ismailxavier/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linguagem</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/linguagem/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/linguagem/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LinguagemAudiovisual</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/linguagemaudiovisual/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/linguagemaudiovisual/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LúciaSantaella</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/l%C3%BAciasantaella/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/l%C3%BAciasantaella/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MarcelMartin</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/marcelmartin/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/marcelmartin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MariaRobertaNovielli</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/mariarobertanovielli/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/mariarobertanovielli/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Martino</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/martino/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/martino/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MichelChion</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/michelchion/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/michelchion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MiltonOhata</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/miltonohata/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/miltonohata/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PPGCOM-FAC/UnB</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/ppgcom-fac/unb/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/ppgcom-fac/unb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SantiagoSantos</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/santiagosantos/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/santiagosantos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Saussure</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/saussure/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/saussure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TCC</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/tcc/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/tcc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WalterBenjamin</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/walterbenjamin/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/walterbenjamin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bazin</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/bazin/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/cinema/</guid>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/bazin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bosco</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/bosco/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/bosco/</guid>
       <description></description>
     </item>
     <item>
       <title>Crença</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/cren%C3%A7a/</link>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/cren%C3%A7a/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/cren%C3%A7a/</guid>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/cren%C3%A7a/</guid>
       <description></description>
     </item>
     <item>
       <title>Cultura</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/cultura/</link>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/cultura/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/cultura/</guid>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/cultura/</guid>
       <description></description>
     </item>
     <item>
       <title>Documentário</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/document%C3%A1rio/</link>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/document%C3%A1rio/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/document%C3%A1rio/</guid>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/document%C3%A1rio/</guid>
       <description></description>
     </item>
     <item>
       <title>Educação</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/educa%C3%A7%C3%A3o/</link>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/educa%C3%A7%C3%A3o/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/educa%C3%A7%C3%A3o/</guid>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/educa%C3%A7%C3%A3o/</guid>
       <description></description>
     </item>
     <item>
       <title>Flaherty</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/flaherty/</link>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/flaherty/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/flaherty/</guid>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/flaherty/</guid>
       <description></description>
     </item>
     <item>
       <title>Fotografia</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/fotografia/</link>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/fotografia/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/fotografia/</guid>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/fotografia/</guid>
       <description></description>
     </item>
     <item>
       <title>Gênero</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/g%C3%AAnero/</link>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/g%C3%AAnero/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/g%C3%AAnero/</guid>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/g%C3%AAnero/</guid>
       <description></description>
     </item>
     <item>
       <title>Grierson</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/grierson/</link>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/grierson/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/grierson/</guid>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/grierson/</guid>
       <description></description>
     </item>
     <item>
       <title>Literacia</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/literacia/</link>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/literacia/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/literacia/</guid>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/literacia/</guid>
       <description></description>
     </item>
     <item>
       <title>Lumière</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/lumi%C3%A8re/</link>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/lumi%C3%A8re/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/lumi%C3%A8re/</guid>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/lumi%C3%A8re/</guid>
       <description></description>
     </item>
     <item>
       <title>Medeiros</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/medeiros/</link>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/medeiros/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/medeiros/</guid>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/medeiros/</guid>
       <description></description>
     </item>
     <item>
       <title>Moana</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/moana/</link>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/moana/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/moana/</guid>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/moana/</guid>
       <description></description>
     </item>
     <item>
       <title>Nanook</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/nanook/</link>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/nanook/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/nanook/</guid>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/nanook/</guid>
       <description></description>
     </item>
     <item>
       <title>Persépolis</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/pers%C3%A9polis/</link>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/pers%C3%A9polis/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/pers%C3%A9polis/</guid>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/pers%C3%A9polis/</guid>
       <description></description>
     </item>
     <item>
       <title>ValorIndicialDaImagem</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/valorindicialdaimagem/</link>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/valorindicialdaimagem/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/valorindicialdaimagem/</guid>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/valorindicialdaimagem/</guid>
       <description></description>
     </item>
     <item>
       <title>ValsaComBashir</title>
-      <link>http://localhost:1313/RafaelMMilhomens/tags/valsacombashir/</link>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/valsacombashir/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/tags/valsacombashir/</guid>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/valsacombashir/</guid>
       <description></description>
     </item>
   </channel>

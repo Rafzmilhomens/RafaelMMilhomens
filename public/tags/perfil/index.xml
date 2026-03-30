@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Perfil on Rafael M. Milhomens - BLOG DE ENSAIOS</title>
-    <link>http://localhost:1313/RafaelMMilhomens/tags/perfil/</link>
-    <description>Recent content in Perfil on Rafael M. Milhomens - BLOG DE ENSAIOS</description>
+    <title>Perfil on Rafael M. Milhomens - BLOG</title>
+    <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/perfil/</link>
+    <description>Recent content in Perfil on Rafael M. Milhomens - BLOG</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sat, 28 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/RafaelMMilhomens/tags/perfil/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://rafzmilhomens.github.io/RafaelMMilhomens/tags/perfil/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Milhomens</title>
-      <link>http://localhost:1313/RafaelMMilhomens/poesia/milhomens/</link>
-      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/poesia/milhomens/</guid>
-      <description>&lt;p&gt;Carrego em meu nome a essência do meu ser&lt;/p&gt;&#xA;&lt;p&gt;Milhomens&lt;/p&gt;&#xA;&lt;p&gt;dos que se deitaram comigo&lt;/p&gt;&#xA;&lt;p&gt;dos que me amam;&lt;/p&gt;&#xA;&lt;p&gt;dos que amei&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Milhomens&lt;/p&gt;&#xA;&lt;p&gt;daqueles que fui&lt;/p&gt;&#xA;&lt;p&gt;dos que sou&lt;/p&gt;&#xA;&lt;p&gt;e quais serei&lt;/p&gt;&#xA;&lt;p&gt;Milhomens&lt;/p&gt;&#xA;&lt;p&gt;de afetos&lt;/p&gt;&#xA;&lt;p&gt;objetos&lt;/p&gt;&#xA;&lt;p&gt;alvos&lt;/p&gt;&#xA;&lt;p&gt;e dor.&lt;/p&gt;&#xA;&lt;p&gt;Milhomens&lt;/p&gt;&#xA;&lt;p&gt;Dentre eles&lt;/p&gt;&#xA;&lt;p&gt;o que se pergunta&lt;/p&gt;&#xA;&lt;p&gt;qual sou?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rafael M. Milhomens</title>
-      <link>http://localhost:1313/RafaelMMilhomens/sobre/rafael-m.-milhomens/</link>
-      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/sobre/rafael-m.-milhomens/</guid>
-      <description>&lt;p&gt;Pesquisador independente baseado em Brasília, Brasil. Bacharel em Comunicação - Audiovisual (Universidade de Brasília). Interesses de pesquisa incluem sistemas simbólicos pós-seculares, semiótica, teoria cultural, e os mecanismo pelos quais tecnologias de sentido organizam a percepção coletiva. Atualmente desenvolvendo o conceito de &amp;ldquo;Purificação Simbólica&amp;rdquo;: uma matriz para compreender como sistemas simbólicos dominantes sobrescrevem outros enquanto apresentam-se como neutros.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Independent researcher based in Brasília, Brazil. BA in Audiovisual Communication (Universidade de Brasília). Research interests include post-secular symbolic systems, semiotics, cultural theory, and the mechanisms by which meaning-making technologies organize collective perception. Currently developing the concept of &amp;ldquo;Symbolic Purification&amp;rdquo;: a framework for understanding how dominant symbolic systems overwrite others while presenting themselves as neutral.&lt;/p&gt;</description>
+      <title>Rafael M. Milhomens 🏳️‍🌈</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/sobre/rafael-m.-milhomens-%EF%B8%8F/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/sobre/rafael-m.-milhomens-%EF%B8%8F/</guid>
+      <description>&lt;h2 id=&#34;bio&#34;&gt;Bio&lt;/h2&gt;&#xA;&lt;p&gt;Pesquisador independente baseado em Brasília, Brasil. Bacharel em Comunicação - Audiovisual (Universidade de Brasília - UnB). Interesses de pesquisa incluem sistemas simbólicos pós-seculares, semiótica, teoria cultural, e os mecanismos pelos quais tecnologias de sentido organizam a percepção coletiva. Atualmente desenvolvendo o conceito de &amp;ldquo;&lt;strong&gt;Purificação Simbólica&lt;/strong&gt;&amp;rdquo;: uma matriz para compreender como sistemas simbólicos dominantes sobrescrevem outros enquanto apresentam-se como neutros.&lt;/p&gt;&#xA;&lt;h2 id=&#34;bio-1&#34;&gt;Bio&lt;/h2&gt;&#xA;&lt;p&gt;Independent researcher based in Brasília, Brazil. BA in Audiovisual Communication (Universidade de Brasília - UnB). Research interests include post-secular symbolic systems, semiotics, cultural theory, and the mechanisms by which meaning-making technologies organize collective perception. Currently developing the concept of &amp;ldquo;&lt;strong&gt;Symbolic Purification&lt;/strong&gt;&amp;rdquo;: a framework for understanding how dominant symbolic systems overwrite others while presenting themselves as neutral.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

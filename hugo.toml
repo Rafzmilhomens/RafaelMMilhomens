@@ -17,9 +17,13 @@ tag = "tags"
 
 [params]
 author = "Rafael M. Milhomens"
+description = "Blog sobre os mecanismos invisíveis que organizam a percepção coletiva — religião, arte, algoritmo — a partir do caso brasileiro."
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.extensions]
       [markup.goldmark.extensions.footnote]
         enable = true
+
+disableKinds = ["RSS"]
+

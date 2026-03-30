@@ -1,74 +1,186 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Poesia on Rafael M. Milhomens - BLOG DE ENSAIOS</title>
-    <link>http://localhost:1313/RafaelMMilhomens/poesia/</link>
-    <description>Recent content in Poesia on Rafael M. Milhomens - BLOG DE ENSAIOS</description>
+    <title>Poesia on Rafael M. Milhomens - BLOG</title>
+    <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/</link>
+    <description>Recent content in Poesia on Rafael M. Milhomens - BLOG</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sat, 28 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/RafaelMMilhomens/poesia/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apocalipse</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/apocalipse/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/apocalipse/</guid>
+      <description>&lt;p&gt;O dia em que te conheci&lt;/p&gt;&#xA;&lt;p&gt;da gênese ao desfecho:&lt;/p&gt;&#xA;&lt;p&gt;Do primeiro café&lt;/p&gt;&#xA;&lt;p&gt;ao apagar do Grindr&lt;/p&gt;&#xA;&lt;p&gt;Fidelidade ao que não era:&lt;/p&gt;&#xA;&lt;p&gt;Hecatombe de contatinhos!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Aquela Canção</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/aquela-can%C3%A7%C3%A3o/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/aquela-can%C3%A7%C3%A3o/</guid>
+      <description>&lt;p&gt;Meu coração é remendo&lt;/p&gt;&#xA;&lt;p&gt;De remendo vive um coração&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Às Avessas</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/%C3%A0s-avessas/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/%C3%A0s-avessas/</guid>
+      <description>&lt;p&gt;Você lê poesia&lt;/p&gt;&#xA;&lt;p&gt;Como quem lê prosa&lt;/p&gt;&#xA;&lt;p&gt;Faz sexo como quem ama&lt;/p&gt;&#xA;&lt;p&gt;E depois reclama&lt;/p&gt;&#xA;&lt;p&gt;Da má sorte&lt;/p&gt;&#xA;&lt;p&gt;Da má fama&lt;/p&gt;&#xA;&lt;p&gt;Cachaça não é água&lt;/p&gt;&#xA;&lt;p&gt;Grindr não é Tinder&lt;/p&gt;&#xA;&lt;p&gt;Whatsapp não é jornal&lt;/p&gt;&#xA;&lt;p&gt;E, faz favor?&lt;/p&gt;&#xA;&lt;p&gt;Não venha corrigir&lt;/p&gt;&#xA;&lt;p&gt;Esse moralismo trivial&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Céu Cinza, Dia Chuvoso</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/c%C3%A9u-cinza-dia-chuvoso/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/c%C3%A9u-cinza-dia-chuvoso/</guid>
+      <description>&lt;p&gt;Certa vez escrevi:&lt;/p&gt;&#xA;&lt;p&gt;“Amo os dias de céu cinza&lt;/p&gt;&#xA;&lt;p&gt;Por que ressaltam&lt;/p&gt;&#xA;&lt;p&gt;O azul dentro da gente”&lt;/p&gt;&#xA;&lt;p&gt;O problema é quando o cinza&lt;/p&gt;&#xA;&lt;p&gt;Aqui Fora&lt;/p&gt;&#xA;&lt;p&gt;Lá dentro&lt;/p&gt;&#xA;&lt;p&gt;Tudo devora&lt;/p&gt;&#xA;&lt;p&gt;Tudo sem cor&lt;/p&gt;&#xA;&lt;p&gt;Tudo chora&lt;/p&gt;&#xA;&lt;p&gt;Há mesmo o amor?&lt;/p&gt;&#xA;&lt;p&gt;Dúvida Hercúlea: me dói&lt;/p&gt;&#xA;&lt;p&gt;Quanto maior o desafio&lt;/p&gt;&#xA;&lt;p&gt;Maior o herói&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Êxodo</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/%C3%AAxodo/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/%C3%AAxodo/</guid>
+      <description>&lt;p&gt;40 anos no deserto&lt;/p&gt;&#xA;&lt;p&gt;sem nenhuma gota d’água,&lt;/p&gt;&#xA;&lt;p&gt;Mas um dia sem você&lt;/p&gt;&#xA;&lt;p&gt;é muito mais que isso&lt;/p&gt;&#xA;&lt;p&gt;de sede concentrada!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fiat Lux</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/fiat-lux/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/fiat-lux/</guid>
+      <description>&lt;p&gt;Tenho pra mim que&lt;/p&gt;&#xA;&lt;p&gt;Quando deus disse&lt;/p&gt;&#xA;&lt;p&gt;“Que haja Luz!”&lt;/p&gt;&#xA;&lt;p&gt;Você nasceu&lt;/p&gt;&#xA;&lt;p&gt;E viu que tudo era bom&lt;/p&gt;&#xA;&lt;p&gt;Até nascer tua indiferença&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ilha da Queimada Grande</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/ilha-da-queimada-grande/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/ilha-da-queimada-grande/</guid>
+      <description>&lt;p&gt;O antiofídico já foi inventado.&lt;/p&gt;&#xA;&lt;p&gt;Mas o que salva do teu veneno?&lt;/p&gt;&#xA;&lt;p&gt;Equidna foi criativa ao te parir.&lt;/p&gt;&#xA;&lt;p&gt;Tão original monstruosidade!&lt;/p&gt;&#xA;&lt;p&gt;Não és Medusa.&lt;/p&gt;&#xA;&lt;p&gt;Veja-se no espelho, ó alecrim.&lt;/p&gt;&#xA;&lt;p&gt;Diante de ti, a Ilha da queimada&lt;/p&gt;&#xA;&lt;p&gt;grande é acolhedora.&lt;/p&gt;&#xA;&lt;p&gt;Nem mesmo a víbora escapa do&lt;/p&gt;&#xA;&lt;p&gt;teu feitiço.&lt;/p&gt;&#xA;&lt;p&gt;Meu júbilo é saber que&lt;/p&gt;&#xA;&lt;p&gt;tu desconheces teu destino.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Macintosh</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/macintosh/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/macintosh/</guid>
+      <description>&lt;p&gt;Sou máquina potente&lt;/p&gt;&#xA;&lt;p&gt;de ferro velho. Mac Pro&lt;/p&gt;&#xA;&lt;p&gt;sem M2. Possante&lt;/p&gt;&#xA;&lt;p&gt;em outras eras.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Medusa</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/medusa/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/medusa/</guid>
+      <description>&lt;p&gt;Era eu moço ainda&lt;/p&gt;&#xA;&lt;p&gt;Quando vi o mito&lt;/p&gt;&#xA;&lt;p&gt;Real tornar-se:&lt;/p&gt;&#xA;&lt;p&gt;Apaixonei-me.&lt;/p&gt;&#xA;&lt;p&gt;O canto da sirena:&lt;/p&gt;&#xA;&lt;p&gt;Sua voz grave.&lt;/p&gt;&#xA;&lt;p&gt;O olhar de Górgona&lt;/p&gt;&#xA;&lt;p&gt;Fulmináva-me.&lt;/p&gt;&#xA;&lt;p&gt;Era eu moço ainda&lt;/p&gt;&#xA;&lt;p&gt;Quando envenenado&lt;/p&gt;&#xA;&lt;p&gt;por um beijo de cumprimento&lt;/p&gt;&#xA;&lt;p&gt;acordei desmaiado.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Números</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/n%C3%BAmeros/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/n%C3%BAmeros/</guid>
+      <description>&lt;p&gt;um café que deu certo&lt;/p&gt;&#xA;&lt;p&gt;dois jantares demarcados&lt;/p&gt;&#xA;&lt;p&gt;três “eu te amo” apressados&lt;/p&gt;&#xA;&lt;p&gt;quatro “não sei, talvez outro dia”&lt;/p&gt;&#xA;&lt;p&gt;cinco mensagens não respondidas&lt;/p&gt;&#xA;&lt;p&gt;seis “mas eu sei que ele me ama”&lt;/p&gt;&#xA;&lt;p&gt;sete homens passando pela mesma cama&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Precisão</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/precis%C3%A3o/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/precis%C3%A3o/</guid>
+      <description>&lt;p&gt;Navegar é preciso&lt;/p&gt;&#xA;&lt;p&gt;Diz o português&lt;/p&gt;&#xA;&lt;p&gt;Ele tinha uma missão&lt;/p&gt;&#xA;&lt;p&gt;Uma missão ele tinha&lt;/p&gt;&#xA;&lt;p&gt;Sair da Europa&lt;/p&gt;&#xA;&lt;p&gt;e Chegar na Índia&lt;/p&gt;&#xA;&lt;p&gt;Parou na América&lt;/p&gt;&#xA;&lt;p&gt;Que precisão é essa?!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reciclagem</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/reciclagem/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/reciclagem/</guid>
+      <description>&lt;p&gt;Nem tudo que eu te digo&lt;/p&gt;&#xA;&lt;p&gt;Era originalmente pra você&lt;/p&gt;&#xA;&lt;p&gt;Muito já escrevi&lt;/p&gt;&#xA;&lt;p&gt;Pra outros endereços&lt;/p&gt;&#xA;&lt;p&gt;Você não é por isso&lt;/p&gt;&#xA;&lt;p&gt;Menos digno de apreço&lt;/p&gt;&#xA;&lt;p&gt;É que, por sermos humanos&lt;/p&gt;&#xA;&lt;p&gt;muita coisa é repetida&lt;/p&gt;&#xA;&lt;p&gt;E pra ser sustentável&lt;/p&gt;&#xA;&lt;p&gt;Economizo minhas linhas&lt;/p&gt;&#xA;&lt;p&gt;Conhece o japonês&lt;/p&gt;&#xA;&lt;p&gt;Que com ouro emenda?&lt;/p&gt;&#xA;&lt;p&gt;Pensa nas minhas palavras&lt;/p&gt;&#xA;&lt;p&gt;Como os cacos dessa lenda&lt;/p&gt;&#xA;&lt;p&gt;E você, o motivo deu tentar&lt;/p&gt;&#xA;&lt;p&gt;O coração de novo emendar&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rima</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/rima/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/rima/</guid>
+      <description>&lt;p&gt;Nem toda rima é perfeita&lt;/p&gt;&#xA;&lt;p&gt;“Eu”, por exemplo&lt;/p&gt;&#xA;&lt;p&gt;É dissonante de “você”&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Solar</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/solar/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/solar/</guid>
+      <description>&lt;p&gt;Sol&lt;/p&gt;&#xA;&lt;p&gt;Tão&lt;/p&gt;&#xA;&lt;p&gt;Sol&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Te Namorar Como Verbo</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/te-namorar-como-verbo/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/te-namorar-como-verbo/</guid>
+      <description>&lt;p&gt;Me parece melhor&lt;/p&gt;&#xA;&lt;p&gt;Do que um vestido velho&lt;/p&gt;&#xA;&lt;p&gt;E a poeira do terno&lt;/p&gt;&#xA;&lt;p&gt;De um casamento&lt;/p&gt;&#xA;&lt;p&gt;Que por vezes sobra&lt;/p&gt;&#xA;&lt;p&gt;Só mágoa e iniquidade&lt;/p&gt;&#xA;&lt;p&gt;E eu tanto te amo&lt;/p&gt;&#xA;&lt;p&gt;Que seria covarde&lt;/p&gt;&#xA;&lt;p&gt;Não te namorar&lt;/p&gt;&#xA;&lt;p&gt;Além de formalidades&lt;/p&gt;&#xA;&lt;p&gt;Te namorar até quando não for&lt;/p&gt;&#xA;&lt;p&gt;Mais jovialidade e furor&lt;/p&gt;&#xA;&lt;p&gt;Te namorar até quando for&lt;/p&gt;&#xA;&lt;p&gt;De outro o seu amor&lt;/p&gt;&#xA;&lt;p&gt;E namorar pode ser&lt;/p&gt;&#xA;&lt;p&gt;Fazer amor ao entardecer&lt;/p&gt;&#xA;&lt;p&gt;Ou até mesmo sorrir&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>言</title>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/%E8%A8%80/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/%E8%A8%80/</guid>
+      <description>&lt;p&gt;[DI.ZER] :&lt;/p&gt;&#xA;&lt;p&gt;Estou usando isso para&lt;/p&gt;&#xA;&lt;p&gt;言 que não tenho nada a 言.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Borboletas Digestórias ou &#34;Amo-te e não sei dizê-lo&#34;</title>
-      <link>http://localhost:1313/RafaelMMilhomens/poesia/borboletas-digest%C3%B3rias-ou-amo-te-e-n%C3%A3o-sei-diz%C3%AA-lo/</link>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/borboletas-digest%C3%B3rias-ou-amo-te-e-n%C3%A3o-sei-diz%C3%AA-lo/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/poesia/borboletas-digest%C3%B3rias-ou-amo-te-e-n%C3%A3o-sei-diz%C3%AA-lo/</guid>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/borboletas-digest%C3%B3rias-ou-amo-te-e-n%C3%A3o-sei-diz%C3%AA-lo/</guid>
       <description>&lt;p&gt;Já não sou mais juventude&lt;/p&gt;&#xA;&lt;p&gt;muito velhos os meus ossos&lt;/p&gt;&#xA;&lt;p&gt;osteoporoso meu espírito&lt;/p&gt;&#xA;&lt;p&gt;ao pé de ti retorno à meninês&lt;/p&gt;&#xA;&lt;p&gt;e, &amp;ldquo;menino bento&amp;rdquo; que não sou,&lt;/p&gt;&#xA;&lt;p&gt;quero ver de novo o desarranjo&lt;/p&gt;&#xA;&lt;p&gt;a confusão&lt;/p&gt;&#xA;&lt;p&gt;o pandemônio&lt;/p&gt;&#xA;&lt;p&gt;a subversão da ordem&lt;/p&gt;&#xA;&lt;p&gt;a tergiversação do verso&lt;/p&gt;&#xA;&lt;p&gt;o desmonte do meu aparelho digestivo&lt;/p&gt;&#xA;&lt;p&gt;Teu olhar, presságio de desvario microbiotal.&lt;/p&gt;&#xA;&lt;p&gt;Teu calor as borboletas desperta&lt;/p&gt;&#xA;&lt;p&gt;e, como se fora suficiente,&lt;/p&gt;&#xA;&lt;p&gt;a desordem do coreto&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dádiva</title>
-      <link>http://localhost:1313/RafaelMMilhomens/poesia/d%C3%A1diva/</link>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/d%C3%A1diva/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/poesia/d%C3%A1diva/</guid>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/d%C3%A1diva/</guid>
       <description>&lt;p&gt;O xamã da farmácia me contou&lt;/p&gt;&#xA;&lt;p&gt;que em sonho lhe foi revelado&lt;/p&gt;&#xA;&lt;p&gt;o segredo de um fármaco.&lt;/p&gt;&#xA;&lt;p&gt;Hipnos, distraído, deixou cair&lt;/p&gt;&#xA;&lt;p&gt;dos céus, um presente.&lt;/p&gt;&#xA;&lt;p&gt;Os humanos, que tudo nomeiam,&lt;/p&gt;&#xA;&lt;p&gt;chamaram-no melatonina.&lt;/p&gt;&#xA;&lt;p&gt;Doce, querida, é teu gosto e efeito.&lt;/p&gt;&#xA;&lt;p&gt;O sono que tenho,&lt;/p&gt;&#xA;&lt;p&gt;mais profundo e perfeito.&lt;/p&gt;&#xA;&lt;p&gt;Víciado! - Acusam-me.&lt;/p&gt;&#xA;&lt;p&gt;Loucura do que dorme incauto&lt;/p&gt;&#xA;&lt;p&gt;contra os que madrugam em vigília.&lt;/p&gt;&#xA;&lt;p&gt;Dos rejeitados de Orfeu, bendita redentora:&lt;/p&gt;&#xA;&lt;p&gt;Se é ruim tomar remédio,&lt;/p&gt;</description>
     </item>
     <item>
       <title>Há Duas Versões do Mesmo Poema?</title>
-      <link>http://localhost:1313/RafaelMMilhomens/poesia/h%C3%A1-duas-vers%C3%B5es-do-mesmo-poema/</link>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/h%C3%A1-duas-vers%C3%B5es-do-mesmo-poema/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/poesia/h%C3%A1-duas-vers%C3%B5es-do-mesmo-poema/</guid>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/h%C3%A1-duas-vers%C3%B5es-do-mesmo-poema/</guid>
       <description>&lt;p&gt;Disseram-me que Moribunda é um poema “muito negativo”&lt;/p&gt;&#xA;&lt;p&gt;“Brasília não pode ser tão ruim”&lt;/p&gt;&#xA;&lt;p&gt;Retifico doravante:&lt;/p&gt;&#xA;&lt;p&gt;Brasília seria uma cidade horrível,&lt;/p&gt;&#xA;&lt;p&gt;Se não fosse onde te conheci.&lt;/p&gt;&#xA;&lt;p&gt;Na jovenzinha&lt;/p&gt;&#xA;&lt;p&gt;Já não mais doente&lt;/p&gt;&#xA;&lt;p&gt;Arde vida agora!&lt;/p&gt;&#xA;&lt;p&gt;Da expectativa da manhã&lt;/p&gt;&#xA;&lt;p&gt;Na janela do meu quarto&lt;/p&gt;&#xA;&lt;p&gt;À promessa de te encontrar.&lt;/p&gt;&#xA;&lt;p&gt;Hoje, amo os parques dessa cidade.&lt;/p&gt;&#xA;&lt;p&gt;Será Biofilia?&lt;/p&gt;&#xA;&lt;p&gt;Ou serão teus olhos de mata guardada em diamante?&lt;/p&gt;&#xA;&lt;p&gt;É que o verde é de Afrodite.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Haikai</title>
-      <link>http://localhost:1313/RafaelMMilhomens/poesia/haikai/</link>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/haikai/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/poesia/haikai/</guid>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/haikai/</guid>
       <description>&lt;p&gt;雨が降れば&lt;/p&gt;&#xA;&lt;p&gt;人々笑顔&lt;/p&gt;&#xA;&lt;p&gt;煙が消える&lt;/p&gt;</description>
     </item>
     <item>
       <title>Matemática</title>
-      <link>http://localhost:1313/RafaelMMilhomens/poesia/matem%C3%A1tica/</link>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/matem%C3%A1tica/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/poesia/matem%C3%A1tica/</guid>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/matem%C3%A1tica/</guid>
       <description>&lt;p&gt;Costuma dizer a mim&lt;/p&gt;&#xA;&lt;p&gt;Que sou “seu número”&lt;/p&gt;&#xA;&lt;p&gt;E eu me pergunto&lt;/p&gt;&#xA;&lt;p&gt;Se sou o 13, de mau agouro&lt;/p&gt;&#xA;&lt;p&gt;Ou qualquer nota abaixo da média&lt;/p&gt;</description>
     </item>
     <item>
       <title>Milhomens</title>
-      <link>http://localhost:1313/RafaelMMilhomens/poesia/milhomens/</link>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/milhomens/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/poesia/milhomens/</guid>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/milhomens/</guid>
       <description>&lt;p&gt;Carrego em meu nome a essência do meu ser&lt;/p&gt;&#xA;&lt;p&gt;Milhomens&lt;/p&gt;&#xA;&lt;p&gt;dos que se deitaram comigo&lt;/p&gt;&#xA;&lt;p&gt;dos que me amam;&lt;/p&gt;&#xA;&lt;p&gt;dos que amei&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Milhomens&lt;/p&gt;&#xA;&lt;p&gt;daqueles que fui&lt;/p&gt;&#xA;&lt;p&gt;dos que sou&lt;/p&gt;&#xA;&lt;p&gt;e quais serei&lt;/p&gt;&#xA;&lt;p&gt;Milhomens&lt;/p&gt;&#xA;&lt;p&gt;de afetos&lt;/p&gt;&#xA;&lt;p&gt;objetos&lt;/p&gt;&#xA;&lt;p&gt;alvos&lt;/p&gt;&#xA;&lt;p&gt;e dor.&lt;/p&gt;&#xA;&lt;p&gt;Milhomens&lt;/p&gt;&#xA;&lt;p&gt;Dentre eles&lt;/p&gt;&#xA;&lt;p&gt;o que se pergunta&lt;/p&gt;&#xA;&lt;p&gt;qual sou?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Trégua Olimpica</title>
-      <link>http://localhost:1313/RafaelMMilhomens/poesia/tr%C3%A9gua-olimpica/</link>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/tr%C3%A9gua-olimpica/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/poesia/tr%C3%A9gua-olimpica/</guid>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/tr%C3%A9gua-olimpica/</guid>
       <description>&lt;p&gt;Cada dia um novo tema&lt;/p&gt;&#xA;&lt;p&gt;motivo de uma discussão&lt;/p&gt;&#xA;&lt;p&gt;Cidades-Estado&lt;/p&gt;&#xA;&lt;p&gt;Querendo ser nação&lt;/p&gt;&#xA;&lt;p&gt;A chegada da pira:&lt;/p&gt;&#xA;&lt;p&gt;Mensagem lida&lt;/p&gt;&#xA;&lt;p&gt;mas não respondida&lt;/p&gt;&#xA;&lt;p&gt;O silêncio não fez de nós Hélada.&lt;/p&gt;&#xA;&lt;p&gt;Eu, que Atenas te amava.&lt;/p&gt;&#xA;&lt;p&gt;Tu, que Esparta me queria.&lt;/p&gt;&#xA;&lt;p&gt;Destrói-me a lira&lt;/p&gt;&#xA;&lt;p&gt;Parte-me o verso&lt;/p&gt;&#xA;&lt;p&gt;Tua distância&lt;/p&gt;&#xA;&lt;p&gt;Tua partida&lt;/p&gt;&#xA;&lt;p&gt;O verso é tudo pro poeta&lt;/p&gt;&#xA;&lt;p&gt;Abismo que se agranda de nação vazia.&lt;/p&gt;&#xA;&lt;p&gt;Unificada, mas só na minha utopia&lt;/p&gt;</description>
     </item>
     <item>
       <title>Trickster</title>
-      <link>http://localhost:1313/RafaelMMilhomens/poesia/trickster/</link>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/trickster/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/poesia/trickster/</guid>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/trickster/</guid>
       <description>&lt;p&gt;Jocosa é sua maneira&lt;/p&gt;&#xA;&lt;p&gt;Faz do limiar morada:&lt;/p&gt;&#xA;&lt;p&gt;Entre a verdade e a brincadeira.&lt;/p&gt;&#xA;&lt;p&gt;Na real&lt;/p&gt;&#xA;&lt;p&gt;Na vera&lt;/p&gt;&#xA;&lt;p&gt;Na moral&lt;/p&gt;&#xA;&lt;p&gt;Não adianta&lt;/p&gt;&#xA;&lt;p&gt;É manha que o sujeito emana.&lt;/p&gt;&#xA;&lt;p&gt;Desde a nuca ao calcanhar,&lt;/p&gt;&#xA;&lt;p&gt;Nunca sei quando está a brincar.&lt;/p&gt;&#xA;&lt;p&gt;O anjo que salva&lt;/p&gt;&#xA;&lt;p&gt;É também&lt;/p&gt;&#xA;&lt;p&gt;O psicopompos que arrebata&lt;/p&gt;&#xA;&lt;p&gt;Esconde no sorriso boêmio&lt;/p&gt;&#xA;&lt;p&gt;O caminho entre o desejo e o medo:&lt;/p&gt;&#xA;&lt;p&gt;“Será mesmo que quero descobrir a verdade que ele traz no peito?”&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vendetta nos Jornais</title>
-      <link>http://localhost:1313/RafaelMMilhomens/poesia/vendetta-nos-jornais/</link>
+      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/vendetta-nos-jornais/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/RafaelMMilhomens/poesia/vendetta-nos-jornais/</guid>
+      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/vendetta-nos-jornais/</guid>
       <description>&lt;p&gt;Matemático&lt;/p&gt;&#xA;&lt;p&gt;Vai à galeria&lt;/p&gt;&#xA;&lt;p&gt;E sente-se mal lá dentro&lt;/p&gt;&#xA;&lt;p&gt;Artista&lt;/p&gt;&#xA;&lt;p&gt;Vinga-se das aulas&lt;/p&gt;&#xA;&lt;p&gt;Sobre hipotenusa e catetos&lt;/p&gt;</description>
     </item>
   </channel>
