@@ -5,5 +5,5 @@ draft: false
 tags:
 local:
 ---
-![Inocente](content/poesia/inocente.jpeg)
-![Invocação](content/poesia/invocação.jpg)![Vidro](content/poesia/vidro.jpeg)
+![Inocente](inocente.jpeg)
+![Invocação](invocação.jpg)![Vidro](vidro.jpeg)
