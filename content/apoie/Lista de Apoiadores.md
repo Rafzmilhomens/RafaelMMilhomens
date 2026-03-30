@@ -7,8 +7,7 @@ local:
 ---
 Este blog é um projeto independente de produção intelectual. Não há financiamento institucional, patrocínio ou vínculo comercial. Cada publicação aqui é resultado de pesquisa e trabalho autônomos.
 
-Se este conteúdo contribui para a sua reflexão, considere apoiar com um café.
-
+___
 ## Pague-me um café ☕
 
 **Chave Pix:** marquesgrafael@gmail.com 
@@ -16,7 +15,6 @@ Se este conteúdo contribui para a sua reflexão, considere apoiar com um café.
 Qualquer valor é bem-vindo e sustenta diretamente a continuidade deste trabalho.
 
 ---
-
 ## Apoiadores
 
 Pessoas que acreditam neste projeto e o sustentam com generosidade. A presença nesta lista é uma forma de gratidão pública — se preferir anonimato, basta informar.
