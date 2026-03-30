@@ -1,3 +1,3 @@
 ---
-title:
+title: Série I - Naïv
 ---
