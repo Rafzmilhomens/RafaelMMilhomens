@@ -16,7 +16,7 @@ tag = "tags"
 
 [params]
 author = "Rafael M. Milhomens"
-description = "Blog sobre os mecanismos invisíveis que organizam a percepção coletiva com foco no Brasil."
+description = "Blog sobre os mecanismos invisíveis que organizam a percepção coletiva, com foco no Brasil."
 
 [markup]
   [markup.goldmark]

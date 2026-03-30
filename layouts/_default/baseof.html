@@ -17,6 +17,7 @@
 
   <header class="site-header">
     <a href="{{ .Site.BaseURL }}" class="site-title">{{ .Site.Params.author }}</a>
+    <p class="site-description">Blog sobre os mecanismos invisíveis que organizam a percepção coletiva, com foco no Brasil.</p>
     <nav>
       <a href="{{ "ensaios/" | relURL }}"{{ if eq .Section "ensaios" }} class="active"{{ end }}>ensaios</a>
       <a href="{{ "poesia/" | relURL }}"{{ if eq .Section "poesia" }} class="active"{{ end }}>poesia</a>
@@ -25,7 +26,6 @@
       <a href="{{ "apoie/" | relURL }}"{{ if eq .Title "Apoie" }} class="active"{{ end }}>apoie</a>
       <a href="{{ "sobre/" | relURL }}"{{ if eq .Title "Sobre" }} class="active"{{ end }}>sobre</a>
     </nav>
-    <p class="site-description">Blog sobre os mecanismos invisíveis que organizam a percepção coletiva com foco no Brasil.</p>
   </header>
 
   <main>
