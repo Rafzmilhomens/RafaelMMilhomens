@@ -5,12 +5,12 @@ languageCode = "pt-br"
 
 [permalinks]
 ensaios = "/ensaios/:slug/"
-fotografia = "/fotografia/:slug/"
 poesia = "/poesia/:slug/"
 publicacoes = "/publicacoes/:slug/"
 leituras = "/leituras/:slug/"
 apoie = "/apoie/:slug/"
 sobre = "/sobre/:slug/"
+fotografia = "/fotografia/:slug/"
 
 [taxonomies]
 tag = "tags"
