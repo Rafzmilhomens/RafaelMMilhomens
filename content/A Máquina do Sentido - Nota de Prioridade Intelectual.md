@@ -5,8 +5,6 @@ draft: false
 tags:
   - SistemasSimbólicos
   - Semiótica
-  - TeoriaCultural
-  - PurificaçãoSimbólica
 local:
 ---
 *Formulação preliminar de um programa de investigação*[^1]
