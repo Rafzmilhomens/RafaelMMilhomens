@@ -7,11 +7,17 @@ tags:
   - Semiótica
 local:
 ---
-*Formulação preliminar de um programa de investigação*[^1]
+## *Formulação preliminar de um programa de investigação*[^1]
 
 **Autor:** Rafael Marques Milhomens
+
+
 **Publicado em:** 04/2026
+
+
 **Versão:** 1.0
+
+
 **DOI**: https://doi.org/10.5281/zenodo.19376025
 
 ---
