@@ -1,28 +1,25 @@
 {{ define "main" }}
-<div class="poesia-layout">
-  <aside class="poesia-sidebar">
-    <nav class="sidebar-nav">
-      <h3>Poemas</h3>
-      <ul>
-        {{ range (where .Site.RegularPages "Section" "poesia") }}
-          <li class="{{ if eq $.Permalink .Permalink }}active-poema{{ end }}">
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-          </li>
-        {{ end }}
-      </ul>
-    </nav>
-  </aside>
 
-  <article class="poesia-content">
-    {{ if .IsPage }}
-      <h1>{{ .Title }}</h1>
-      <div class="poem-body">
-        {{ .Content }}
-      </div>
-    {{ else }}
-      <h1>Poesia</h1>
-      <p>Selecione um poema ao lado para começar a leitura.</p>
-    {{ end }}
+{{ if .IsPage }}
+  <!-- Página individual de um poema -->
+  <article>
+    <h1>{{ .Title }}</h1>
+    <div class="poem-body">
+      {{ .Content }}
+    </div>
   </article>
-</div>
+{{ else }}
+  <!-- Página de listagem de poemas -->
+  <h1>Poesia</h1>
+  <p style="color: var(--grey); font-style: italic;">Selecione um título para começar a leitura.</p>
+  
+  <ul class="post-list">
+    {{ range sort (where .Site.RegularPages "Section" "poesia") "Title" }}
+      <li>
+        <a href="{{ .Permalink }}" class="post-link">{{ .Title }}</a>
+      </li>
+    {{ end }}
+  </ul>
+{{ end }}
+
 {{ end }}
