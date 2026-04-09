@@ -610,3 +610,55 @@ article {
   text-indent: 0;
   text-align: left;
 }
+.poesia-layout {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+}
+
+.poesia-sidebar {
+  width: 250px;
+  position: sticky;
+  top: 2rem;
+  font-family: 'IBM Plex Mono', monospace; /* Mantendo o padrão do seu site */
+  font-size: 0.9rem;
+  border-right: 1px solid #eee;
+  padding-right: 1rem;
+}
+
+.poesia-sidebar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.poesia-sidebar li {
+  margin-bottom: 0.5rem;
+}
+
+.poesia-sidebar a {
+  text-decoration: none;
+  color: #666;
+}
+
+.active-poema a {
+  font-weight: bold;
+  color: #000;
+}
+
+.poesia-content {
+  flex: 1;
+  font-family: 'EB Garamond', serif; /* Fonte definida no seu head */
+}
+
+/* Responsividade: em telas pequenas, o índice vai para cima */
+@media (max-width: 768px) {
+  .poesia-layout {
+    flex-direction: column;
+  }
+  .poesia-sidebar {
+    width: 100%;
+    border-right: none;
+    border-bottom: 1px solid #eee;
+    position: relative;
+  }
+}

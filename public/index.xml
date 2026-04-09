@@ -2,354 +2,767 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rafael M. Milhomens - BLOG</title>
-    <link>https://rafzmilhomens.github.io/RafaelMMilhomens/</link>
+    <link>http://localhost:1313/RafaelMMilhomens/</link>
     <description>Recent content on Rafael M. Milhomens - BLOG</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sun, 29 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://rafzmilhomens.github.io/RafaelMMilhomens/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/RafaelMMilhomens/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Máquina do Sentido - Nota de Prioridade Intelectual</title>
+      <link>http://localhost:1313/RafaelMMilhomens/nota/a-m%C3%A1quina-do-sentido-nota-de-prioridade-intelectual/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/nota/a-m%C3%A1quina-do-sentido-nota-de-prioridade-intelectual/</guid>
+      <description>&lt;h2 id=&#34;formulação-preliminar-de-um-programa-de-investigação&#34;&gt;&lt;em&gt;Formulação preliminar de um programa de investigação&lt;/em&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/h2&gt;&#xA;&lt;h4 id=&#34;autor-rafael-marques-milhomens&#34;&gt;&lt;strong&gt;Autor:&lt;/strong&gt; Rafael Marques Milhomens&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publicado-em-042026&#34;&gt;&lt;strong&gt;Publicado em:&lt;/strong&gt; 04/2026&lt;/h4&gt;&#xA;&lt;h4 id=&#34;versão-10&#34;&gt;&lt;strong&gt;Versão:&lt;/strong&gt; 1.0&lt;/h4&gt;&#xA;&lt;h4 id=&#34;doi&#34;&gt;&lt;strong&gt;DOI&lt;/strong&gt;: &lt;a href=&#34;https://doi.org/10.5281/zenodo.19376025&#34;&gt;https://doi.org/10.5281/zenodo.19376025&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-propósito-deste-documento&#34;&gt;1. Propósito deste documento&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/h2&gt;&#xA;&lt;p&gt;O presente texto estabelece prioridade intelectual sobre um conjunto de problemas teóricos, hipóteses interpretativas e instrumentos conceituais reunidos sob a denominação &lt;strong&gt;Máquina do Sentido&lt;/strong&gt;. Trata-se de uma nota programática: não apresenta a teoria em sua forma sistemática final, mas fixa publicamente seu núcleo conceitual, seu vocabulário fundamental e seu campo de investigação.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Psicologia Das Cores</title>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/a-psicologia-das-cores/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/a-psicologia-das-cores/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Livro foda!&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Eva Heller&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: GG&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;: 5&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: ?&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de  Conclusão&lt;/strong&gt;: ?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Grimório Das Bruxas</title>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/grim%C3%B3rio-das-bruxas/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/grim%C3%B3rio-das-bruxas/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Gosto muito desse, mas é muito pequeno pra um assunto tão vasto.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Ronald Hutton&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: Darkside&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;: 4&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: ?&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de  Conclusão&lt;/strong&gt;: ?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ilíada</title>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/il%C3%ADada/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/il%C3%ADada/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Eu amo!&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Homero&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: ?&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;: 5&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: ?&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de  Conclusão&lt;/strong&gt;: ?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>O Herói De Mil Faces</title>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/o-her%C3%B3i-de-mil-faces/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/o-her%C3%B3i-de-mil-faces/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Essa edição é ruim, meio mal editada, mas o livro é bem legal!&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Joseph Campbell&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: Cultrix, Pensamento&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;: 5&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: ?&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de  Conclusão&lt;/strong&gt;: ?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>O Manual Do Foca</title>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/o-manual-do-foca/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/o-manual-do-foca/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Esse livro salvou minha vontade de escrever.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Thaïs Mendonça Jorge&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: Contexto&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;: 5&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: ?&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de  Conclusão&lt;/strong&gt;: ?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lista de Apoiadores</title>
+      <link>http://localhost:1313/RafaelMMilhomens/apoie/lista-de-apoiadores/</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/apoie/lista-de-apoiadores/</guid>
+      <description>&lt;p&gt;Este blog é um projeto independente de produção intelectual. Não há financiamento institucional, patrocínio ou vínculo comercial. Cada publicação aqui é resultado de pesquisa e trabalho autônomos.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;pague-me-um-café-&#34;&gt;Pague-me um café ☕&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Chave Pix:&lt;/strong&gt; &lt;a href=&#34;mailto:marquesgrafael@gmail.com&#34;&gt;marquesgrafael@gmail.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Qualquer valor é bem-vindo e sustenta diretamente a continuidade deste trabalho.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;apoiadores&#34;&gt;Apoiadores&lt;/h2&gt;&#xA;&lt;p&gt;Pessoas que acreditam neste projeto. Se preferir anonimato, basta informar.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Zeri Bolos&lt;/strong&gt; - Criador de conteúdo e &lt;em&gt;streamer&lt;/em&gt; voltado para jogos - &lt;a href=&#34;https://beacons.ai/zeribolos&#34;&gt;https://beacons.ai/zeribolos&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Luan Lindsay&lt;/strong&gt; - @Luanlindsay - &lt;a href=&#34;https://www.instagram.com/luanlindsay&#34;&gt;https://www.instagram.com/luanlindsay&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;em&gt;Quer aparecer aqui? Apoie o blog e envie seu nome (ou pseudônimo) por e-mail.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mulheres Que Correm Com os Lobos</title>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/mulheres-que-correm-com-os-lobos/</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/mulheres-que-correm-com-os-lobos/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Esse livro é perfeito. Sem mais. Leitura gostosa&amp;hellip; Devorei em dias!&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Claríssa Pínkola Estés&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: Rocco&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;: 5&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: ? (Esqueci de anotar)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de  Conclusão&lt;/strong&gt;: ? (Esqueci de anotar também)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Toda Poesia</title>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/toda-poesia/</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/toda-poesia/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Esse livro é lindo e me faz chorar e eu amo e é isso. É meu poeta preferido. Já li e reli muitas vezes. Desde os 14 anos aproximadamente&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Paulo Leminski&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: Companhia das Letras&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;:  5&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: Já li várias vezes&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Apocalipse</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/apocalipse/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/apocalipse/</link>
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/apocalipse/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/apocalipse/</guid>
       <description>&lt;p&gt;O dia em que te conheci&lt;/p&gt;&#xA;&lt;p&gt;da gênese ao desfecho:&lt;/p&gt;&#xA;&lt;p&gt;Do primeiro café&lt;/p&gt;&#xA;&lt;p&gt;ao apagar do Grindr&lt;/p&gt;&#xA;&lt;p&gt;Fidelidade ao que não era:&lt;/p&gt;&#xA;&lt;p&gt;Hecatombe de contatinhos!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Aquela Canção</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/aquela-can%C3%A7%C3%A3o/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/aquela-can%C3%A7%C3%A3o/</link>
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/aquela-can%C3%A7%C3%A3o/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/aquela-can%C3%A7%C3%A3o/</guid>
       <description>&lt;p&gt;Meu coração é remendo&lt;/p&gt;&#xA;&lt;p&gt;De remendo vive um coração&lt;/p&gt;</description>
     </item>
     <item>
       <title>Às Avessas</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/%C3%A0s-avessas/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/%C3%A0s-avessas/</link>
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/%C3%A0s-avessas/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/%C3%A0s-avessas/</guid>
       <description>&lt;p&gt;Você lê poesia&lt;/p&gt;&#xA;&lt;p&gt;Como quem lê prosa&lt;/p&gt;&#xA;&lt;p&gt;Faz sexo como quem ama&lt;/p&gt;&#xA;&lt;p&gt;E depois reclama&lt;/p&gt;&#xA;&lt;p&gt;Da má sorte&lt;/p&gt;&#xA;&lt;p&gt;Da má fama&lt;/p&gt;&#xA;&lt;p&gt;Cachaça não é água&lt;/p&gt;&#xA;&lt;p&gt;Grindr não é Tinder&lt;/p&gt;&#xA;&lt;p&gt;Whatsapp não é jornal&lt;/p&gt;&#xA;&lt;p&gt;E, faz favor?&lt;/p&gt;&#xA;&lt;p&gt;Não venha corrigir&lt;/p&gt;&#xA;&lt;p&gt;Esse moralismo trivial&lt;/p&gt;</description>
     </item>
     <item>
       <title>Céu Cinza, Dia Chuvoso</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/c%C3%A9u-cinza-dia-chuvoso/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/c%C3%A9u-cinza-dia-chuvoso/</link>
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/c%C3%A9u-cinza-dia-chuvoso/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/c%C3%A9u-cinza-dia-chuvoso/</guid>
       <description>&lt;p&gt;Certa vez escrevi:&lt;/p&gt;&#xA;&lt;p&gt;“Amo os dias de céu cinza&lt;/p&gt;&#xA;&lt;p&gt;Por que ressaltam&lt;/p&gt;&#xA;&lt;p&gt;O azul dentro da gente”&lt;/p&gt;&#xA;&lt;p&gt;O problema é quando o cinza&lt;/p&gt;&#xA;&lt;p&gt;Aqui Fora&lt;/p&gt;&#xA;&lt;p&gt;Lá dentro&lt;/p&gt;&#xA;&lt;p&gt;Tudo devora&lt;/p&gt;&#xA;&lt;p&gt;Tudo sem cor&lt;/p&gt;&#xA;&lt;p&gt;Tudo chora&lt;/p&gt;&#xA;&lt;p&gt;Há mesmo o amor?&lt;/p&gt;&#xA;&lt;p&gt;Dúvida Hercúlea: me dói&lt;/p&gt;&#xA;&lt;p&gt;Quanto maior o desafio&lt;/p&gt;&#xA;&lt;p&gt;Maior o herói&lt;/p&gt;</description>
     </item>
     <item>
       <title>Êxodo</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/%C3%AAxodo/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/%C3%AAxodo/</link>
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/%C3%AAxodo/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/%C3%AAxodo/</guid>
       <description>&lt;p&gt;40 anos no deserto&lt;/p&gt;&#xA;&lt;p&gt;sem nenhuma gota d’água,&lt;/p&gt;&#xA;&lt;p&gt;Mas um dia sem você&lt;/p&gt;&#xA;&lt;p&gt;é muito mais que isso&lt;/p&gt;&#xA;&lt;p&gt;de sede concentrada!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fiat Lux</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/fiat-lux/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/fiat-lux/</link>
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/fiat-lux/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/fiat-lux/</guid>
       <description>&lt;p&gt;Tenho pra mim que&lt;/p&gt;&#xA;&lt;p&gt;Quando deus disse&lt;/p&gt;&#xA;&lt;p&gt;“Que haja Luz!”&lt;/p&gt;&#xA;&lt;p&gt;Você nasceu&lt;/p&gt;&#xA;&lt;p&gt;E viu que tudo era bom&lt;/p&gt;&#xA;&lt;p&gt;Até nascer tua indiferença&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ilha da Queimada Grande</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/ilha-da-queimada-grande/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/ilha-da-queimada-grande/</link>
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/ilha-da-queimada-grande/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/ilha-da-queimada-grande/</guid>
       <description>&lt;p&gt;O antiofídico já foi inventado.&lt;/p&gt;&#xA;&lt;p&gt;Mas o que salva do teu veneno?&lt;/p&gt;&#xA;&lt;p&gt;Equidna foi criativa ao te parir.&lt;/p&gt;&#xA;&lt;p&gt;Tão original monstruosidade!&lt;/p&gt;&#xA;&lt;p&gt;Não és Medusa.&lt;/p&gt;&#xA;&lt;p&gt;Veja-se no espelho, ó alecrim.&lt;/p&gt;&#xA;&lt;p&gt;Diante de ti, a Ilha da queimada&lt;/p&gt;&#xA;&lt;p&gt;grande é acolhedora.&lt;/p&gt;&#xA;&lt;p&gt;Nem mesmo a víbora escapa do&lt;/p&gt;&#xA;&lt;p&gt;teu feitiço.&lt;/p&gt;&#xA;&lt;p&gt;Meu júbilo é saber que&lt;/p&gt;&#xA;&lt;p&gt;tu desconheces teu destino.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Lista de Apoiadores</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/apoie/lista-de-apoiadores/</link>
-      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/apoie/lista-de-apoiadores/</guid>
-      <description>&lt;p&gt;Este blog é um projeto independente de produção intelectual. Não há financiamento institucional, patrocínio ou vínculo comercial. Cada publicação aqui é resultado de pesquisa e trabalho autônomos.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;pague-me-um-café-&#34;&gt;Pague-me um café ☕&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Chave Pix:&lt;/strong&gt; &lt;a href=&#34;mailto:marquesgrafael@gmail.com&#34;&gt;marquesgrafael@gmail.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Qualquer valor é bem-vindo e sustenta diretamente a continuidade deste trabalho.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;apoiadores&#34;&gt;Apoiadores&lt;/h2&gt;&#xA;&lt;p&gt;Pessoas que acreditam neste projeto e o sustentam com generosidade. Se preferir anonimato, basta informar.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Zeri Bolos&lt;/strong&gt; - Criador de conteúdo e &lt;em&gt;streamer&lt;/em&gt; voltado para jogos - &lt;a href=&#34;https://beacons.ai/zeribolos&#34;&gt;https://beacons.ai/zeribolos&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;em&gt;Quer aparecer aqui? Apoie o blog e envie seu nome (ou pseudônimo) por e-mail.&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Macintosh</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/macintosh/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/macintosh/</link>
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/macintosh/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/macintosh/</guid>
       <description>&lt;p&gt;Sou máquina potente&lt;/p&gt;&#xA;&lt;p&gt;de ferro velho. Mac Pro&lt;/p&gt;&#xA;&lt;p&gt;sem M2. Possante&lt;/p&gt;&#xA;&lt;p&gt;em outras eras.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Medusa</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/medusa/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/medusa/</link>
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/medusa/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/medusa/</guid>
       <description>&lt;p&gt;Era eu moço ainda&lt;/p&gt;&#xA;&lt;p&gt;Quando vi o mito&lt;/p&gt;&#xA;&lt;p&gt;Real tornar-se:&lt;/p&gt;&#xA;&lt;p&gt;Apaixonei-me.&lt;/p&gt;&#xA;&lt;p&gt;O canto da sirena:&lt;/p&gt;&#xA;&lt;p&gt;Sua voz grave.&lt;/p&gt;&#xA;&lt;p&gt;O olhar de Górgona&lt;/p&gt;&#xA;&lt;p&gt;Fulmináva-me.&lt;/p&gt;&#xA;&lt;p&gt;Era eu moço ainda&lt;/p&gt;&#xA;&lt;p&gt;Quando envenenado&lt;/p&gt;&#xA;&lt;p&gt;por um beijo de cumprimento&lt;/p&gt;&#xA;&lt;p&gt;acordei desmaiado.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Números</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/n%C3%BAmeros/</link>
+      <title>Mitologias</title>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/mitologias/</link>
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/n%C3%BAmeros/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/mitologias/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Muito bom, mas é um livro muito específico pra realidade francesa. Mas o cara é super irônico. Uma delícia!&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Roland Barthes&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: DIFEL&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;: 4&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: 24 de março de 2026&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de  Conclusão&lt;/strong&gt;: 29 de março de 2026&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Números</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/n%C3%BAmeros/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/n%C3%BAmeros/</guid>
       <description>&lt;p&gt;um café que deu certo&lt;/p&gt;&#xA;&lt;p&gt;dois jantares demarcados&lt;/p&gt;&#xA;&lt;p&gt;três “eu te amo” apressados&lt;/p&gt;&#xA;&lt;p&gt;quatro “não sei, talvez outro dia”&lt;/p&gt;&#xA;&lt;p&gt;cinco mensagens não respondidas&lt;/p&gt;&#xA;&lt;p&gt;seis “mas eu sei que ele me ama”&lt;/p&gt;&#xA;&lt;p&gt;sete homens passando pela mesma cama&lt;/p&gt;</description>
     </item>
     <item>
       <title>Precisão</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/precis%C3%A3o/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/precis%C3%A3o/</link>
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/precis%C3%A3o/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/precis%C3%A3o/</guid>
       <description>&lt;p&gt;Navegar é preciso&lt;/p&gt;&#xA;&lt;p&gt;Diz o português&lt;/p&gt;&#xA;&lt;p&gt;Ele tinha uma missão&lt;/p&gt;&#xA;&lt;p&gt;Uma missão ele tinha&lt;/p&gt;&#xA;&lt;p&gt;Sair da Europa&lt;/p&gt;&#xA;&lt;p&gt;e Chegar na Índia&lt;/p&gt;&#xA;&lt;p&gt;Parou na América&lt;/p&gt;&#xA;&lt;p&gt;Que precisão é essa?!&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Rafael M. Milhomens 🏳️‍🌈</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/sobre/rafael-m.-milhomens-%EF%B8%8F/</link>
+      <title>Rafael M. Milhomens</title>
+      <link>http://localhost:1313/RafaelMMilhomens/sobre/rafael-m.-milhomens/</link>
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/sobre/rafael-m.-milhomens-%EF%B8%8F/</guid>
-      <description>&lt;h2 id=&#34;bio&#34;&gt;Bio&lt;/h2&gt;&#xA;&lt;p&gt;Pesquisador independente baseado em Brasília, Brasil. Bacharel em Comunicação - Audiovisual (Universidade de Brasília - UnB). Interesses de pesquisa incluem sistemas simbólicos pós-seculares, semiótica, teoria cultural, e os mecanismos pelos quais tecnologias de sentido organizam a percepção coletiva. Atualmente desenvolvendo o conceito de &amp;ldquo;&lt;strong&gt;Purificação Simbólica&lt;/strong&gt;&amp;rdquo;: uma matriz para compreender como sistemas simbólicos dominantes sobrescrevem outros enquanto apresentam-se como neutros.&lt;/p&gt;&#xA;&lt;h2 id=&#34;bio-1&#34;&gt;Bio&lt;/h2&gt;&#xA;&lt;p&gt;Independent researcher based in Brasília, Brazil. BA in Audiovisual Communication (Universidade de Brasília - UnB). Research interests include post-secular symbolic systems, semiotics, cultural theory, and the mechanisms by which meaning-making technologies organize collective perception. Currently developing the concept of &amp;ldquo;&lt;strong&gt;Symbolic Purification&lt;/strong&gt;&amp;rdquo;: a framework for understanding how dominant symbolic systems overwrite others while presenting themselves as neutral.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/RafaelMMilhomens/sobre/rafael-m.-milhomens/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;RafaelMMilhomens.jpg&#34; alt=&#34;Perfil do autor&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Pesquisador independente baseado em Brasília, Brasil. Bacharel em Comunicação - Audiovisual (Universidade de Brasília - UnB). Interesses de pesquisa incluem sistemas simbólicos pós-seculares, semiótica, teoria cultural, e os mecanismos pelos quais tecnologias de sentido organizam a percepção coletiva. Atualmente desenvolvendo o conceito de &amp;ldquo;&lt;strong&gt;Purificação Simbólica&lt;/strong&gt;&amp;rdquo;: uma matriz para compreender como sistemas simbólicos dominantes sobrescrevem outros enquanto apresentam-se como neutros.&lt;/p&gt;&#xA;&lt;h2 id=&#34;bio&#34;&gt;Bio&lt;/h2&gt;&#xA;&lt;p&gt;Independent researcher based in Brasília, Brazil. BA in Audiovisual Communication (Universidade de Brasília - UnB). Research interests include post-secular symbolic systems, semiotics, cultural theory, and the mechanisms by which meaning-making technologies organize collective perception. Currently developing the concept of &amp;ldquo;&lt;strong&gt;Symbolic Purification&lt;/strong&gt;&amp;rdquo;: a framework for understanding how dominant symbolic systems overwrite others while presenting themselves as neutral.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reciclagem</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/reciclagem/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/reciclagem/</link>
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/reciclagem/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/reciclagem/</guid>
       <description>&lt;p&gt;Nem tudo que eu te digo&lt;/p&gt;&#xA;&lt;p&gt;Era originalmente pra você&lt;/p&gt;&#xA;&lt;p&gt;Muito já escrevi&lt;/p&gt;&#xA;&lt;p&gt;Pra outros endereços&lt;/p&gt;&#xA;&lt;p&gt;Você não é por isso&lt;/p&gt;&#xA;&lt;p&gt;Menos digno de apreço&lt;/p&gt;&#xA;&lt;p&gt;É que, por sermos humanos&lt;/p&gt;&#xA;&lt;p&gt;muita coisa é repetida&lt;/p&gt;&#xA;&lt;p&gt;E pra ser sustentável&lt;/p&gt;&#xA;&lt;p&gt;Economizo minhas linhas&lt;/p&gt;&#xA;&lt;p&gt;Conhece o japonês&lt;/p&gt;&#xA;&lt;p&gt;Que com ouro emenda?&lt;/p&gt;&#xA;&lt;p&gt;Pensa nas minhas palavras&lt;/p&gt;&#xA;&lt;p&gt;Como os cacos dessa lenda&lt;/p&gt;&#xA;&lt;p&gt;E você, o motivo deu tentar&lt;/p&gt;&#xA;&lt;p&gt;O coração de novo emendar&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rima</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/rima/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/rima/</link>
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/rima/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/rima/</guid>
       <description>&lt;p&gt;Nem toda rima é perfeita&lt;/p&gt;&#xA;&lt;p&gt;“Eu”, por exemplo&lt;/p&gt;&#xA;&lt;p&gt;É dissonante de “você”&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Solar</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/solar/</link>
+      <title>Série I - Naïve</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/s%C3%A9rie-i-na%C3%AFve/</link>
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/solar/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/s%C3%A9rie-i-na%C3%AFve/</guid>
+      <description>&lt;p&gt;Esta série de fotos discute combate do indivíduo pós-moderno com suas duas posições metodológicas possíveis: A crença inocente, de que um mágico tem poderes reais, e a crença reflexiva, de que o mesmo mágico tem uma série de mecanismos por trás dos panos.&lt;/p&gt;&#xA;&lt;p&gt;Além de inscrever o indivíduo comum em uma ambiência icônica reservada a outros personagens da história humana. A recolocação visa a busca da fratura: Imperativo para uma nova compreensão.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Solar</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/solar/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/solar/</guid>
       <description>&lt;p&gt;Sol&lt;/p&gt;&#xA;&lt;p&gt;Tão&lt;/p&gt;&#xA;&lt;p&gt;Sol&lt;/p&gt;</description>
     </item>
     <item>
       <title>Te Namorar Como Verbo</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/te-namorar-como-verbo/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/te-namorar-como-verbo/</link>
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/te-namorar-como-verbo/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/te-namorar-como-verbo/</guid>
       <description>&lt;p&gt;Me parece melhor&lt;/p&gt;&#xA;&lt;p&gt;Do que um vestido velho&lt;/p&gt;&#xA;&lt;p&gt;E a poeira do terno&lt;/p&gt;&#xA;&lt;p&gt;De um casamento&lt;/p&gt;&#xA;&lt;p&gt;Que por vezes sobra&lt;/p&gt;&#xA;&lt;p&gt;Só mágoa e iniquidade&lt;/p&gt;&#xA;&lt;p&gt;E eu tanto te amo&lt;/p&gt;&#xA;&lt;p&gt;Que seria covarde&lt;/p&gt;&#xA;&lt;p&gt;Não te namorar&lt;/p&gt;&#xA;&lt;p&gt;Além de formalidades&lt;/p&gt;&#xA;&lt;p&gt;Te namorar até quando não for&lt;/p&gt;&#xA;&lt;p&gt;Mais jovialidade e furor&lt;/p&gt;&#xA;&lt;p&gt;Te namorar até quando for&lt;/p&gt;&#xA;&lt;p&gt;De outro o seu amor&lt;/p&gt;&#xA;&lt;p&gt;E namorar pode ser&lt;/p&gt;&#xA;&lt;p&gt;Fazer amor ao entardecer&lt;/p&gt;&#xA;&lt;p&gt;Ou até mesmo sorrir&lt;/p&gt;</description>
     </item>
     <item>
       <title>Verdade Tropical</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/verdade-tropical/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/verdade-tropical/</link>
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/verdade-tropical/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/verdade-tropical/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Amo esse livro. Foi a partir daqui que conheci Amália&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Caetano Veloso&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: Companhia das Letras&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;: 5&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: ????&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de  Conclusão&lt;/strong&gt;: ????&lt;/p&gt;</description>
     </item>
     <item>
       <title>言</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/%E8%A8%80/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/%E8%A8%80/</link>
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/%E8%A8%80/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/%E8%A8%80/</guid>
       <description>&lt;p&gt;[DI.ZER] :&lt;/p&gt;&#xA;&lt;p&gt;Estou usando isso para&lt;/p&gt;&#xA;&lt;p&gt;言 que não tenho nada a 言.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Borboletas Digestórias ou &#34;Amo-te e não sei dizê-lo&#34;</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/borboletas-digest%C3%B3rias-ou-amo-te-e-n%C3%A3o-sei-diz%C3%AA-lo/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/borboletas-digest%C3%B3rias-ou-amo-te-e-n%C3%A3o-sei-diz%C3%AA-lo/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/borboletas-digest%C3%B3rias-ou-amo-te-e-n%C3%A3o-sei-diz%C3%AA-lo/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/borboletas-digest%C3%B3rias-ou-amo-te-e-n%C3%A3o-sei-diz%C3%AA-lo/</guid>
       <description>&lt;p&gt;Já não sou mais juventude&lt;/p&gt;&#xA;&lt;p&gt;muito velhos os meus ossos&lt;/p&gt;&#xA;&lt;p&gt;osteoporoso meu espírito&lt;/p&gt;&#xA;&lt;p&gt;ao pé de ti retorno à meninês&lt;/p&gt;&#xA;&lt;p&gt;e, &amp;ldquo;menino bento&amp;rdquo; que não sou,&lt;/p&gt;&#xA;&lt;p&gt;quero ver de novo o desarranjo&lt;/p&gt;&#xA;&lt;p&gt;a confusão&lt;/p&gt;&#xA;&lt;p&gt;o pandemônio&lt;/p&gt;&#xA;&lt;p&gt;a subversão da ordem&lt;/p&gt;&#xA;&lt;p&gt;a tergiversação do verso&lt;/p&gt;&#xA;&lt;p&gt;o desmonte do meu aparelho digestivo&lt;/p&gt;&#xA;&lt;p&gt;Teu olhar, presságio de desvario microbiotal.&lt;/p&gt;&#xA;&lt;p&gt;Teu calor as borboletas desperta&lt;/p&gt;&#xA;&lt;p&gt;e, como se fora suficiente,&lt;/p&gt;&#xA;&lt;p&gt;a desordem do coreto&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contato | Contact</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/sobre/contato-contact/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/sobre/contato-contact/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/sobre/contato-contact/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/sobre/contato-contact/</guid>
       <description>&lt;p&gt;São bem-vindos todos os interessados em pesquisa científica, especialmente em Comunicação Social, ciência e extensão.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;E-mail: &lt;a href=&#34;mailto:Marquesgrafael@gmail.com&#34;&gt;Marquesgrafael@gmail.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Lattes: &lt;a href=&#34;http://lattes.cnpq.br/0529308038746793&#34;&gt;http://lattes.cnpq.br/0529308038746793&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;ORCID: &lt;a href=&#34;https://orcid.org/0009-0005-9256-0885&#34;&gt;https://orcid.org/0009-0005-9256-0885&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;ResearchGate: &lt;a href=&#34;https://www.researchgate.net/profile/Rafael-Milhomens&#34;&gt;https://www.researchgate.net/profile/Rafael-Milhomens&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Dádiva</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/d%C3%A1diva/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/d%C3%A1diva/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/d%C3%A1diva/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/d%C3%A1diva/</guid>
       <description>&lt;p&gt;O xamã da farmácia me contou&lt;/p&gt;&#xA;&lt;p&gt;que em sonho lhe foi revelado&lt;/p&gt;&#xA;&lt;p&gt;o segredo de um fármaco.&lt;/p&gt;&#xA;&lt;p&gt;Hipnos, distraído, deixou cair&lt;/p&gt;&#xA;&lt;p&gt;dos céus, um presente.&lt;/p&gt;&#xA;&lt;p&gt;Os humanos, que tudo nomeiam,&lt;/p&gt;&#xA;&lt;p&gt;chamaram-no melatonina.&lt;/p&gt;&#xA;&lt;p&gt;Doce, querida, é teu gosto e efeito.&lt;/p&gt;&#xA;&lt;p&gt;O sono que tenho,&lt;/p&gt;&#xA;&lt;p&gt;mais profundo e perfeito.&lt;/p&gt;&#xA;&lt;p&gt;Víciado! - Acusam-me.&lt;/p&gt;&#xA;&lt;p&gt;Loucura do que dorme incauto&lt;/p&gt;&#xA;&lt;p&gt;contra os que madrugam em vigília.&lt;/p&gt;&#xA;&lt;p&gt;Dos rejeitados de Orfeu, bendita redentora:&lt;/p&gt;&#xA;&lt;p&gt;Se é ruim tomar remédio,&lt;/p&gt;</description>
     </item>
     <item>
       <title>Há Duas Versões do Mesmo Poema?</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/h%C3%A1-duas-vers%C3%B5es-do-mesmo-poema/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/h%C3%A1-duas-vers%C3%B5es-do-mesmo-poema/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/h%C3%A1-duas-vers%C3%B5es-do-mesmo-poema/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/h%C3%A1-duas-vers%C3%B5es-do-mesmo-poema/</guid>
       <description>&lt;p&gt;Disseram-me que Moribunda é um poema “muito negativo”&lt;/p&gt;&#xA;&lt;p&gt;“Brasília não pode ser tão ruim”&lt;/p&gt;&#xA;&lt;p&gt;Retifico doravante:&lt;/p&gt;&#xA;&lt;p&gt;Brasília seria uma cidade horrível,&lt;/p&gt;&#xA;&lt;p&gt;Se não fosse onde te conheci.&lt;/p&gt;&#xA;&lt;p&gt;Na jovenzinha&lt;/p&gt;&#xA;&lt;p&gt;Já não mais doente&lt;/p&gt;&#xA;&lt;p&gt;Arde vida agora!&lt;/p&gt;&#xA;&lt;p&gt;Da expectativa da manhã&lt;/p&gt;&#xA;&lt;p&gt;Na janela do meu quarto&lt;/p&gt;&#xA;&lt;p&gt;À promessa de te encontrar.&lt;/p&gt;&#xA;&lt;p&gt;Hoje, amo os parques dessa cidade.&lt;/p&gt;&#xA;&lt;p&gt;Será Biofilia?&lt;/p&gt;&#xA;&lt;p&gt;Ou serão teus olhos de mata guardada em diamante?&lt;/p&gt;&#xA;&lt;p&gt;É que o verde é de Afrodite.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Haikai</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/haikai/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/haikai/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/haikai/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/haikai/</guid>
       <description>&lt;p&gt;雨が降れば&lt;/p&gt;&#xA;&lt;p&gt;人々笑顔&lt;/p&gt;&#xA;&lt;p&gt;煙が消える&lt;/p&gt;</description>
     </item>
     <item>
       <title>Matemática</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/matem%C3%A1tica/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/matem%C3%A1tica/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/matem%C3%A1tica/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/matem%C3%A1tica/</guid>
       <description>&lt;p&gt;Costuma dizer a mim&lt;/p&gt;&#xA;&lt;p&gt;Que sou “seu número”&lt;/p&gt;&#xA;&lt;p&gt;E eu me pergunto&lt;/p&gt;&#xA;&lt;p&gt;Se sou o 13, de mau agouro&lt;/p&gt;&#xA;&lt;p&gt;Ou qualquer nota abaixo da média&lt;/p&gt;</description>
     </item>
     <item>
       <title>Milhomens</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/milhomens/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/milhomens/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/milhomens/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/milhomens/</guid>
       <description>&lt;p&gt;Carrego em meu nome a essência do meu ser&lt;/p&gt;&#xA;&lt;p&gt;Milhomens&lt;/p&gt;&#xA;&lt;p&gt;dos que se deitaram comigo&lt;/p&gt;&#xA;&lt;p&gt;dos que me amam;&lt;/p&gt;&#xA;&lt;p&gt;dos que amei&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Milhomens&lt;/p&gt;&#xA;&lt;p&gt;daqueles que fui&lt;/p&gt;&#xA;&lt;p&gt;dos que sou&lt;/p&gt;&#xA;&lt;p&gt;e quais serei&lt;/p&gt;&#xA;&lt;p&gt;Milhomens&lt;/p&gt;&#xA;&lt;p&gt;de afetos&lt;/p&gt;&#xA;&lt;p&gt;objetos&lt;/p&gt;&#xA;&lt;p&gt;alvos&lt;/p&gt;&#xA;&lt;p&gt;e dor.&lt;/p&gt;&#xA;&lt;p&gt;Milhomens&lt;/p&gt;&#xA;&lt;p&gt;Dentre eles&lt;/p&gt;&#xA;&lt;p&gt;o que se pergunta&lt;/p&gt;&#xA;&lt;p&gt;qual sou?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Trégua Olimpica</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/tr%C3%A9gua-olimpica/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/tr%C3%A9gua-olimpica/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/tr%C3%A9gua-olimpica/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/tr%C3%A9gua-olimpica/</guid>
       <description>&lt;p&gt;Cada dia um novo tema&lt;/p&gt;&#xA;&lt;p&gt;motivo de uma discussão&lt;/p&gt;&#xA;&lt;p&gt;Cidades-Estado&lt;/p&gt;&#xA;&lt;p&gt;Querendo ser nação&lt;/p&gt;&#xA;&lt;p&gt;A chegada da pira:&lt;/p&gt;&#xA;&lt;p&gt;Mensagem lida&lt;/p&gt;&#xA;&lt;p&gt;mas não respondida&lt;/p&gt;&#xA;&lt;p&gt;O silêncio não fez de nós Hélada.&lt;/p&gt;&#xA;&lt;p&gt;Eu, que Atenas te amava.&lt;/p&gt;&#xA;&lt;p&gt;Tu, que Esparta me queria.&lt;/p&gt;&#xA;&lt;p&gt;Destrói-me a lira&lt;/p&gt;&#xA;&lt;p&gt;Parte-me o verso&lt;/p&gt;&#xA;&lt;p&gt;Tua distância&lt;/p&gt;&#xA;&lt;p&gt;Tua partida&lt;/p&gt;&#xA;&lt;p&gt;O verso é tudo pro poeta&lt;/p&gt;&#xA;&lt;p&gt;Abismo que se agranda de nação vazia.&lt;/p&gt;&#xA;&lt;p&gt;Unificada, mas só na minha utopia&lt;/p&gt;</description>
     </item>
     <item>
       <title>Trickster</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/trickster/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/trickster/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/trickster/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/trickster/</guid>
       <description>&lt;p&gt;Jocosa é sua maneira&lt;/p&gt;&#xA;&lt;p&gt;Faz do limiar morada:&lt;/p&gt;&#xA;&lt;p&gt;Entre a verdade e a brincadeira.&lt;/p&gt;&#xA;&lt;p&gt;Na real&lt;/p&gt;&#xA;&lt;p&gt;Na vera&lt;/p&gt;&#xA;&lt;p&gt;Na moral&lt;/p&gt;&#xA;&lt;p&gt;Não adianta&lt;/p&gt;&#xA;&lt;p&gt;É manha que o sujeito emana.&lt;/p&gt;&#xA;&lt;p&gt;Desde a nuca ao calcanhar,&lt;/p&gt;&#xA;&lt;p&gt;Nunca sei quando está a brincar.&lt;/p&gt;&#xA;&lt;p&gt;O anjo que salva&lt;/p&gt;&#xA;&lt;p&gt;É também&lt;/p&gt;&#xA;&lt;p&gt;O psicopompos que arrebata&lt;/p&gt;&#xA;&lt;p&gt;Esconde no sorriso boêmio&lt;/p&gt;&#xA;&lt;p&gt;O caminho entre o desejo e o medo:&lt;/p&gt;&#xA;&lt;p&gt;“Será mesmo que quero descobrir a verdade que ele traz no peito?”&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vendetta nos Jornais</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/vendetta-nos-jornais/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/vendetta-nos-jornais/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/poesia/vendetta-nos-jornais/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/vendetta-nos-jornais/</guid>
       <description>&lt;p&gt;Matemático&lt;/p&gt;&#xA;&lt;p&gt;Vai à galeria&lt;/p&gt;&#xA;&lt;p&gt;E sente-se mal lá dentro&lt;/p&gt;&#xA;&lt;p&gt;Artista&lt;/p&gt;&#xA;&lt;p&gt;Vinga-se das aulas&lt;/p&gt;&#xA;&lt;p&gt;Sobre hipotenusa e catetos&lt;/p&gt;</description>
     </item>
     <item>
       <title>Políticas do Blog | Blog Policies</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/sobre/pol%C3%ADticas-do-blog-blog-policies/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/sobre/pol%C3%ADticas-do-blog-blog-policies/</link>
       <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/sobre/pol%C3%ADticas-do-blog-blog-policies/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/sobre/pol%C3%ADticas-do-blog-blog-policies/</guid>
       <description>&lt;h2 id=&#34;1-autoria-e-propriedade-intelectual&#34;&gt;1. Autoria e Propriedade Intelectual&lt;/h2&gt;&#xA;&lt;p&gt;Todo o conteúdo publicado neste blog — incluindo, mas não se limitando a, ensaios, poemas, fotografias, traduções, séries fotográficas e textos acadêmicos — é de autoria exclusiva de &lt;strong&gt;Rafael M. Milhomens&lt;/strong&gt;, salvo quando expressamente indicado em contrário, e está protegido pela legislação brasileira de direitos autorais (Lei nº 9.610/1998) e pelas convenções internacionais das quais o Brasil é signatário, incluindo a Convenção de Berna para a Proteção das Obras Literárias e Artísticas.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lições da História</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/li%C3%A7%C3%B5es-da-hist%C3%B3ria/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/li%C3%A7%C3%B5es-da-hist%C3%B3ria/</link>
       <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/li%C3%A7%C3%B5es-da-hist%C3%B3ria/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/li%C3%A7%C3%B5es-da-hist%C3%B3ria/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Gostei muito. Mas é demasiado sintético. Uma leitura síntese. Um trabalho hercúleo. Creio um bom documento introdutório.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Will Durant, Ariel Durant&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: ?&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;: 5&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: 19 de fevereiro de 2026&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de  Conclusão&lt;/strong&gt;: 26 de fevereiro de 2026&lt;/p&gt;</description>
     </item>
     <item>
       <title>Story</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/story/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/story/</link>
       <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/story/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/story/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Um dos melhores e mais inspiradores livros que já li! É tecnicamente muito rico.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Robert McKee&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: Arte e Letra&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;: 5&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: 8 de janeiro de 2026&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de  Conclusão&lt;/strong&gt;: 20 de janeiro de 2026&lt;/p&gt;</description>
     </item>
     <item>
       <title>Da Poesia</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/da-poesia/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/da-poesia/</link>
       <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/da-poesia/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/da-poesia/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Achei o final bom, durante a leitura fiquei cansado muitas vezes. Exige inspiração, músculo e fôlego.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Hilda Hilst&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: Companhia das Letras&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;: 3&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: 2 de dezembro de 2025&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de  Conclusão&lt;/strong&gt;: 8 de janeiro de 2026&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Rosa do Povo</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/a-rosa-do-povo/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/a-rosa-do-povo/</link>
       <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/a-rosa-do-povo/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/a-rosa-do-povo/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Muito bom! Inspirador, mas melancólico. Não mais que Hilst.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Carlos Drummond de Andrade&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: Record&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;: 5&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: 25 de dezembro de 2025&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de  Conclusão&lt;/strong&gt;: 4 de janeiro de 2026&lt;/p&gt;</description>
     </item>
     <item>
       <title>Notes on The Synthesis of Form</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/notes-on-the-synthesis-of-form/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/notes-on-the-synthesis-of-form/</link>
       <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/notes-on-the-synthesis-of-form/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/notes-on-the-synthesis-of-form/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Livro insuportavelmente chato. E eu adoro Design. Fiquei chateado ao abandoná-lo na metade.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Christopher Alexander&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: Harvard University&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;: 2&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: 2 de dezembro de 2025&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de  Conclusão&lt;/strong&gt;: 25 de dezembro de 2025&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Systems Thinking Made Simple</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/systems-thinking-made-simple/</link>
+      <title>Marcha Fúnebre</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/marcha-f%C3%BAnebre/</link>
+      <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/marcha-f%C3%BAnebre/</guid>
+      <description>&lt;p&gt;A qual deus levantar a garganta?&lt;/p&gt;&#xA;&lt;p&gt;Qual deles me representa?&lt;/p&gt;&#xA;&lt;p&gt;O venerável ferreiro, talvez?&lt;/p&gt;&#xA;&lt;p&gt;Divinamente superior a mim.&lt;/p&gt;&#xA;&lt;p&gt;Mas somos irmãos de mãe.&lt;/p&gt;&#xA;&lt;p&gt;E talvez algum engenho me sobre,&lt;/p&gt;&#xA;&lt;p&gt;se dos teus favores eu tiver graça.&lt;/p&gt;&#xA;&lt;p&gt;Criar como? Se não há mais nada.&lt;/p&gt;&#xA;&lt;p&gt;Nada pra dizer, nada pra ver, nada pra viver.&lt;/p&gt;&#xA;&lt;p&gt;Perdi Hefestião, ó Hefesto. E já não sinto falta.&lt;/p&gt;&#xA;&lt;p&gt;Toma minha lira. Imploro-te a espada.&lt;/p&gt;&#xA;&lt;p&gt;Toma os centavos dos presentes antigos.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vingança</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/vingan%C3%A7a/</link>
+      <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/vingan%C3%A7a/</guid>
+      <description>&lt;p&gt;Doravante, vicejar!&lt;/p&gt;&#xA;&lt;p&gt;Vicejar sem armadura.&lt;/p&gt;&#xA;&lt;p&gt;Vicejar à carne nua.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Autorretrato</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/autorretrato/</link>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/autorretrato/</guid>
+      <description>&lt;p&gt;Urso de pelo, fala mansa, olhar duvidoso. Trago o vento nordestino e o diabo encravado. As pessoas se esquecem de quem sou filho: de mamãe, o gênio; de papai, o cuidado.&lt;/p&gt;&#xA;&lt;p&gt;(Toda chama que apaguei, acendeu minha estrela. Toda batalha que escolhi, me sagrou rei). Cada tropeço, um livramento. Não vinga em mim o que não for amor.&lt;/p&gt;&#xA;&lt;p&gt;O mar é Português (e o meu bigode também). Do bronze, minha cor; do ouro, meu valor. Mas soa alto a palavra africana, gostosa, que carnavaliza a língua: Dengo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Destino</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/destino/</link>
+      <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/destino/</guid>
+      <description>&lt;p&gt;Poetas têm muitos corações.&lt;/p&gt;&#xA;&lt;p&gt;Um pra cada poema.&lt;/p&gt;&#xA;&lt;p&gt;Um pra cada dilema.&lt;/p&gt;&#xA;&lt;p&gt;Eu, mais que leitor,&lt;/p&gt;&#xA;&lt;p&gt;amante. Tenho já&lt;/p&gt;&#xA;&lt;p&gt;um pra cada autor.&lt;/p&gt;&#xA;&lt;p&gt;Com Dante, fui ao Inferno;&lt;/p&gt;&#xA;&lt;p&gt;Com Hilda, às estrelas;&lt;/p&gt;&#xA;&lt;p&gt;Com Drummond, ao mundo;&lt;/p&gt;&#xA;&lt;p&gt;Com Carson, ao fundo;&lt;/p&gt;&#xA;&lt;p&gt;Com Caetano, a Teerã;&lt;/p&gt;&#xA;&lt;p&gt;Com Leminski, ao tatame;&lt;/p&gt;&#xA;&lt;p&gt;Com Camões, à Índia;&lt;/p&gt;&#xA;&lt;p&gt;Com Pessoa, a Portugal;&lt;/p&gt;&#xA;&lt;p&gt;Com Homero, a Troia;&lt;/p&gt;&#xA;&lt;p&gt;Contigo, iria aonde nenhum deles.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Parasita</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/parasita/</link>
+      <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/parasita/</guid>
+      <description>&lt;p&gt;A homofobia rasteja subcutânea.&lt;/p&gt;&#xA;&lt;p&gt;Envolve teus órgãos, invade teu pulmão.&lt;/p&gt;&#xA;&lt;p&gt;Fala pela tua boca, esmaga teu coração.&lt;/p&gt;&#xA;&lt;p&gt;Oprime teus genitais.&lt;/p&gt;&#xA;&lt;p&gt;(Não és tu: São ecos de teus pais.)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vistoria</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/vistoria/</link>
+      <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/vistoria/</guid>
+      <description>&lt;p&gt;Casa de Babel&lt;/p&gt;&#xA;&lt;p&gt;Primeira visita&lt;/p&gt;&#xA;&lt;p&gt;Perfeita porta de entrada&lt;/p&gt;&#xA;&lt;p&gt;duas janelas, sala, cozinha&lt;/p&gt;&#xA;&lt;p&gt;e la-van-de-ri-a,&lt;/p&gt;&#xA;&lt;p&gt;onde se lavam trapos&lt;/p&gt;&#xA;&lt;p&gt;muitos!&lt;/p&gt;&#xA;&lt;p&gt;Paredes infiltradas&lt;/p&gt;&#xA;&lt;p&gt;recém-pintadas&lt;/p&gt;&#xA;&lt;p&gt;manchadas de bolor&lt;/p&gt;&#xA;&lt;p&gt;maquiadas e ainda sem cor&lt;/p&gt;&#xA;&lt;p&gt;A estrutura do lugar&lt;/p&gt;&#xA;&lt;p&gt;o sistema do projeto&lt;/p&gt;&#xA;&lt;p&gt;baseado em linguagem imprópria&lt;/p&gt;&#xA;&lt;p&gt;e concreto incerto&lt;/p&gt;&#xA;&lt;p&gt;em vão lutar contra a hybris,&lt;/p&gt;&#xA;&lt;p&gt;as colunas remendar&lt;/p&gt;&#xA;&lt;p&gt;Resta condenar o sítio&lt;/p&gt;&#xA;&lt;p&gt;pois essa casa não se sustentará&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Aniversário</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/anivers%C3%A1rio/</link>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/anivers%C3%A1rio/</guid>
+      <description>&lt;p&gt;Três fatores:&lt;/p&gt;&#xA;&lt;p&gt;Eu, mudo, só.&lt;/p&gt;&#xA;&lt;p&gt;Certamente um ano&lt;/p&gt;&#xA;&lt;p&gt;a menos de vida.&lt;/p&gt;&#xA;&lt;p&gt;Primaveras vencidas.&lt;/p&gt;&#xA;&lt;p&gt;Flores mortas no jardim.&lt;/p&gt;&#xA;&lt;p&gt;Sigo de teimoso.&lt;/p&gt;&#xA;&lt;p&gt;Sigo de ruim.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Labirinto</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/labirinto/</link>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/labirinto/</guid>
+      <description>&lt;p&gt;Queria ser touro&lt;/p&gt;&#xA;&lt;p&gt;Porque doce&lt;/p&gt;&#xA;&lt;p&gt;porque potente&lt;/p&gt;&#xA;&lt;p&gt;rico e visceral&lt;/p&gt;&#xA;&lt;p&gt;lar da lascívia&lt;/p&gt;&#xA;&lt;p&gt;contraste com a&lt;/p&gt;&#xA;&lt;p&gt;ternura ingênua&lt;/p&gt;&#xA;&lt;p&gt;do olhar animal.&lt;/p&gt;&#xA;&lt;p&gt;Queria ser touro&lt;/p&gt;&#xA;&lt;p&gt;porque tu, Pasifae,&lt;/p&gt;&#xA;&lt;p&gt;me amarias.&lt;/p&gt;&#xA;&lt;p&gt;E não geraríamos&lt;/p&gt;&#xA;&lt;p&gt;Minotauro monstruoso&lt;/p&gt;&#xA;&lt;p&gt;Mas Minotauro perfeito.&lt;/p&gt;&#xA;&lt;p&gt;Não me chamarias mais Minos.&lt;/p&gt;&#xA;&lt;p&gt;Largaria minha Creta por ti.&lt;/p&gt;&#xA;&lt;p&gt;Chamarias-me antes de touro.&lt;/p&gt;&#xA;&lt;p&gt;O teu doce touro.&lt;/p&gt;&#xA;&lt;p&gt;Se ter cornos é meu destino&lt;/p&gt;&#xA;&lt;p&gt;que sejam, ao menos,&lt;/p&gt;&#xA;&lt;p&gt;os do animal que tu desejas.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Alegria</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/alegria/</link>
+      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/alegria/</guid>
+      <description>&lt;p&gt;Nem sempre&lt;/p&gt;&#xA;&lt;p&gt;Nem tudo&lt;/p&gt;&#xA;&lt;p&gt;Quase nunca&lt;/p&gt;&#xA;&lt;p&gt;Muito pouco&lt;/p&gt;&#xA;&lt;p&gt;Nada&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Arabesco</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/arabesco/</link>
       <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/systems-thinking-made-simple/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/arabesco/</guid>
+      <description>&lt;p&gt;Curvas que imitam a natureza&lt;/p&gt;&#xA;&lt;p&gt;dos teus cabelos&lt;/p&gt;&#xA;&lt;p&gt;e emolduram o belo quadro&lt;/p&gt;&#xA;&lt;p&gt;do teu rosto.&lt;/p&gt;&#xA;&lt;p&gt;Formas intricadas que dão valor&lt;/p&gt;&#xA;&lt;p&gt;à obra da tua criação.&lt;/p&gt;&#xA;&lt;p&gt;E por que não falar do teu nariz?&lt;/p&gt;&#xA;&lt;p&gt;Majestoso, perfeito, opinioso, teu.&lt;/p&gt;&#xA;&lt;p&gt;Os arabescos dos teus cachos&lt;/p&gt;&#xA;&lt;p&gt;são emocionantes pra mim.&lt;/p&gt;&#xA;&lt;p&gt;O elo entre o gostoso e o belo.&lt;/p&gt;&#xA;&lt;p&gt;Quisera um ano inteiro só pra te ver.&lt;/p&gt;&#xA;&lt;p&gt;E no teu olhar, profundo, me perder.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Systems Thinking Made Simple</title>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/systems-thinking-made-simple/</link>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/systems-thinking-made-simple/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Livro um pouco cansativo, mas muito bem desenhado. Acho que foi cansativo pois li vários sobre o mesmo assunto.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Derek Cabrera, Laura Cabrera.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: Plectica&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;: 4&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: 10 de novembro de 2025&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de  Conclusão&lt;/strong&gt;: 2 de dezembro de 2025&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Testamento</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/testamento/</link>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/testamento/</guid>
+      <description>&lt;p&gt;No meu enterro queria festa.&lt;/p&gt;&#xA;&lt;p&gt;No túmulo haveria, no tempo correto,&lt;/p&gt;&#xA;&lt;p&gt;suas carnes e as minhas.&lt;/p&gt;&#xA;&lt;p&gt;E flores nascendo de nós.&lt;/p&gt;&#xA;&lt;p&gt;Colhidas por nossos tataranetos.&lt;/p&gt;&#xA;&lt;p&gt;Raízes profundas, árvores e frutas.&lt;/p&gt;&#xA;&lt;p&gt;E no final de tudo pó,&lt;/p&gt;&#xA;&lt;p&gt;matéria devolvida,&lt;/p&gt;&#xA;&lt;p&gt;liberta da gravidade,&lt;/p&gt;&#xA;&lt;p&gt;essência de nossas vidas.&lt;/p&gt;&#xA;&lt;p&gt;Mas nossos espíritos seriam&lt;/p&gt;&#xA;&lt;p&gt;cada pulsar, quasar e complexo binário.&lt;/p&gt;&#xA;&lt;p&gt;Todo universo expressão do nosso hinário.&lt;/p&gt;&#xA;&lt;p&gt;E os músicos tocando, e os astros cantando,&lt;/p&gt;&#xA;&lt;p&gt;e a festa jamais teria fim!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Poeminho de Segunda</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/poeminho-de-segunda/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/poeminho-de-segunda/</guid>
+      <description>&lt;p&gt;Aurora de dedos róseos&lt;/p&gt;&#xA;&lt;p&gt;amanhece o dia.&lt;/p&gt;&#xA;&lt;p&gt;Engole teu café.&lt;/p&gt;&#xA;&lt;p&gt;Bebe teu choro.&lt;/p&gt;&#xA;&lt;p&gt;Vence outra pedra.&lt;/p&gt;&#xA;&lt;p&gt;Vai obrar tua fé.&lt;/p&gt;&#xA;&lt;p&gt;Mas não esquece:&lt;/p&gt;&#xA;&lt;p&gt;Toda gente está nisso.&lt;/p&gt;&#xA;&lt;p&gt;Distribui gentileza.&lt;/p&gt;&#xA;&lt;p&gt;Tenta um sorriso.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Canção do Auau</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/can%C3%A7%C3%A3o-do-auau/</link>
+      <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/can%C3%A7%C3%A3o-do-auau/</guid>
+      <description>&lt;p&gt;Jápeto, o cão. Meu amigo.&lt;/p&gt;&#xA;&lt;p&gt;Verdadeiro como nenhum outro.&lt;/p&gt;&#xA;&lt;p&gt;Perguntam se ele morde. “É feroz”?&lt;/p&gt;&#xA;&lt;p&gt;Meu cachorro? Não.&lt;/p&gt;&#xA;&lt;p&gt;Sempre atende minha voz.&lt;/p&gt;&#xA;&lt;p&gt;Japetinho, “côchorro munito”,&lt;/p&gt;&#xA;&lt;p&gt;mais humano que já vi.&lt;/p&gt;&#xA;&lt;p&gt;Queria que tu fosses eterno&lt;/p&gt;&#xA;&lt;p&gt;como o amor que tenho por ti.&lt;/p&gt;&#xA;&lt;p&gt;Quando da aporia é quem me salva.&lt;/p&gt;&#xA;&lt;p&gt;Quando do fastio, ele me resgata.&lt;/p&gt;&#xA;&lt;p&gt;Jápeto, o cão. Amigo de bocarrão.&lt;/p&gt;&#xA;&lt;p&gt;Come frutas, legumes e o que tem.&lt;/p&gt;&#xA;&lt;p&gt;Se é comida de gente…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ágape</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/%C3%A1gape/</link>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/%C3%A1gape/</guid>
+      <description>&lt;p&gt;Crucificar é a atitude preferida do cristão.&lt;/p&gt;&#xA;&lt;p&gt;Sonegar pecados antigos&lt;/p&gt;&#xA;&lt;p&gt;Inventar novos límpidos&lt;/p&gt;&#xA;&lt;p&gt;Vês?&lt;/p&gt;&#xA;&lt;p&gt;Já queres o poeta nos cravos:&lt;/p&gt;&#xA;&lt;p&gt;“Analfabeto!”&lt;/p&gt;&#xA;&lt;p&gt;“Mau escritor!”&lt;/p&gt;&#xA;&lt;p&gt;“Palhaço!”&lt;/p&gt;&#xA;&lt;p&gt;Fosse a turba&lt;/p&gt;&#xA;&lt;p&gt;verdadeiramente amorosa&lt;/p&gt;&#xA;&lt;p&gt;não se armaria de forquilhas,&lt;/p&gt;&#xA;&lt;p&gt;foices e tochas&lt;/p&gt;&#xA;&lt;p&gt;Não olho vossos pecados&lt;/p&gt;&#xA;&lt;p&gt;Essa não é minha vocação&lt;/p&gt;&#xA;&lt;p&gt;Se não sirvo pra Gregório de Matos&lt;/p&gt;&#xA;&lt;p&gt;Talvez, nos livros dominicais,&lt;/p&gt;&#xA;&lt;p&gt;sirva de nota de rodapé&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mutatis Mutandis</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/mutatis-mutandis/</link>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/mutatis-mutandis/</guid>
+      <description>&lt;p&gt;O dia em que fui mais feliz&lt;/p&gt;&#xA;&lt;p&gt;foi quando dancei contigo&lt;/p&gt;&#xA;&lt;p&gt;nos escombros daquele edifício&lt;/p&gt;&#xA;&lt;p&gt;Fiz daquilo meu estilo&lt;/p&gt;&#xA;&lt;p&gt;aprendi a dançar sozinho&lt;/p&gt;&#xA;&lt;p&gt;me adaptar, trocar o ritmo&lt;/p&gt;&#xA;&lt;p&gt;Desmanchar a fachada&lt;/p&gt;&#xA;&lt;p&gt;Celebrar a derrocada&lt;/p&gt;&#xA;&lt;p&gt;Hoje já não me interessa&lt;/p&gt;&#xA;&lt;p&gt;a construção da partitura&lt;/p&gt;&#xA;&lt;p&gt;mas a sinfonia da demolição&lt;/p&gt;&#xA;&lt;p&gt;e eu danço!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Álbum de Família</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/%C3%A1lbum-de-fam%C3%ADlia/</link>
+      <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/%C3%A1lbum-de-fam%C3%ADlia/</guid>
+      <description>&lt;p&gt;Matou e canibalizou a própria mãe, o pequeno parasita.&lt;/p&gt;&#xA;&lt;p&gt;Ela já não é nada fora de “mãe”,&lt;/p&gt;&#xA;&lt;p&gt;circunscrita ao perímetro do umbigo dele.&lt;/p&gt;&#xA;&lt;p&gt;Onde, tendo a culpa como ferramenta,&lt;/p&gt;&#xA;&lt;p&gt;trabalha para vingar-se:&lt;/p&gt;&#xA;&lt;p&gt;“sacrifiquei-me por ti e não fazes o que te peço”,&lt;/p&gt;&#xA;&lt;p&gt;“torna-te o que não pude ser”,&lt;/p&gt;&#xA;&lt;p&gt;“dá-me um castelo”,&lt;/p&gt;&#xA;&lt;p&gt;“sou para ti o que jamais será qualquer outro ente.&lt;/p&gt;&#xA;&lt;p&gt;Sê para mim como teu irmão,&lt;/p&gt;&#xA;&lt;p&gt;que me escuta e compreende”.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Casamento</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/casamento/</link>
+      <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/casamento/</guid>
+      <description>&lt;p&gt;À moda antiga&lt;/p&gt;&#xA;&lt;p&gt;Como fariam seus avós&lt;/p&gt;&#xA;&lt;p&gt;Botão na camisa&lt;/p&gt;&#xA;&lt;p&gt;Grinalda, véu e vestido&lt;/p&gt;&#xA;&lt;p&gt;O noivo&lt;/p&gt;&#xA;&lt;p&gt;Faz da tua alma&lt;/p&gt;&#xA;&lt;p&gt;seu preço&lt;/p&gt;&#xA;&lt;p&gt;Invade-te com neuroses&lt;/p&gt;&#xA;&lt;p&gt;no pulsar do tempo&lt;/p&gt;&#xA;&lt;p&gt;Quando da separação&lt;/p&gt;&#xA;&lt;p&gt;toma conta do teu espírito&lt;/p&gt;&#xA;&lt;p&gt;E extrai apenas&lt;/p&gt;&#xA;&lt;p&gt;a parte do dízimo&lt;/p&gt;&#xA;&lt;p&gt;Mas crentes&lt;/p&gt;&#xA;&lt;p&gt;não têm ex&lt;/p&gt;&#xA;&lt;p&gt;têm testemunho&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meus 20 Anos de Boy</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/meus-20-anos-de-boy/</link>
+      <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/meus-20-anos-de-boy/</guid>
+      <description>&lt;p&gt;Ninguém é perfeito&lt;/p&gt;&#xA;&lt;p&gt;e todo mundo tem defeito,&lt;/p&gt;&#xA;&lt;p&gt;mas alguns têm defeitos&lt;/p&gt;&#xA;&lt;p&gt;tão charmosos&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Linhagem</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/linhagem/</link>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/linhagem/</guid>
+      <description>&lt;p&gt;Minha mãe tem um jeito&lt;/p&gt;&#xA;&lt;p&gt;de cuidar de mim sem dizer nada&lt;/p&gt;&#xA;&lt;p&gt;Ela faz mil coisas e em tudo&lt;/p&gt;&#xA;&lt;p&gt;coloca sementes de chia ou linhaça&lt;/p&gt;&#xA;&lt;p&gt;Mesmo quando em frangalhos&lt;/p&gt;&#xA;&lt;p&gt;Ela me oferece o melhor de si&lt;/p&gt;&#xA;&lt;p&gt;Honra hereditária&lt;/p&gt;&#xA;&lt;p&gt;Força e sabedoria&lt;/p&gt;&#xA;&lt;p&gt;Meus ancestrais&lt;/p&gt;&#xA;&lt;p&gt;Estão nessas sementes de chia&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>A Quinta Disciplina</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/a-quinta-disciplina/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/a-quinta-disciplina/</link>
       <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/a-quinta-disciplina/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/a-quinta-disciplina/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Livro incrível! Ótimo mesmo. Pode deixa a gente otimista demais: cuidado. Também é bem longo e se arrasta em várias passagens, mas é muito bom.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Peter M. Senge&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: Best Seller&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;: 5&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: 3 de novembro de 2025&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de  Conclusão&lt;/strong&gt;: 23 de novembro de 2025&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Clichê</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/clich%C3%AA/</link>
+      <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/clich%C3%AA/</guid>
+      <description>&lt;p&gt;Porque eu te conheci&lt;/p&gt;&#xA;&lt;p&gt;os grafites não são só desenhos&lt;/p&gt;&#xA;&lt;p&gt;Porque eu te conheci&lt;/p&gt;&#xA;&lt;p&gt;os perfumes são ciência&lt;/p&gt;&#xA;&lt;p&gt;Porque eu te conheci&lt;/p&gt;&#xA;&lt;p&gt;meu quarto é o mais frio do mundo&lt;/p&gt;&#xA;&lt;p&gt;Porque eu te conheci&lt;/p&gt;&#xA;&lt;p&gt;vago sem documento&lt;/p&gt;&#xA;&lt;p&gt;Porque eu te conheci&lt;/p&gt;&#xA;&lt;p&gt;sou todo paradoxo&lt;/p&gt;&#xA;&lt;p&gt;Porque eu te conheci&lt;/p&gt;&#xA;&lt;p&gt;minha biblioteca não vai ser suficiente&lt;/p&gt;&#xA;&lt;p&gt;Porque eu te conheci&lt;/p&gt;&#xA;&lt;p&gt;tenho saudade da infância&lt;/p&gt;&#xA;&lt;p&gt;Porque eu te conheci&lt;/p&gt;&#xA;&lt;p&gt;frequento o arritimologista&lt;/p&gt;&#xA;&lt;p&gt;Temo que não consiga amar outro alguém&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Escorpiana</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/escorpiana/</link>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/escorpiana/</guid>
+      <description>&lt;p&gt;Resolver problemas novos&lt;/p&gt;&#xA;&lt;p&gt;Com hábitos antigos&lt;/p&gt;&#xA;&lt;p&gt;É como enfeitar Sacos de lixo&lt;/p&gt;&#xA;&lt;p&gt;É como me sinto&lt;/p&gt;&#xA;&lt;p&gt;Sacola azul descartável&lt;/p&gt;&#xA;&lt;p&gt;Confetes e balõezinhos colados&lt;/p&gt;&#xA;&lt;p&gt;Estouro os balões&lt;/p&gt;&#xA;&lt;p&gt;Queimo os confetes&lt;/p&gt;&#xA;&lt;p&gt;Respira fundo&lt;/p&gt;&#xA;&lt;p&gt;Lixo fede!&lt;/p&gt;&#xA;&lt;p&gt;É teu cheiro também&lt;/p&gt;&#xA;&lt;p&gt;De alma acomodada&lt;/p&gt;&#xA;&lt;p&gt;Vaidade não dá jeito&lt;/p&gt;&#xA;&lt;p&gt;Disfarce é ilusão&lt;/p&gt;&#xA;&lt;p&gt;Teu orgulho não perfuma&lt;/p&gt;&#xA;&lt;p&gt;O que é putrefato&lt;/p&gt;&#xA;&lt;p&gt;Eu, espelho,&lt;/p&gt;&#xA;&lt;p&gt;Reflexo da tua natureza,&lt;/p&gt;&#xA;&lt;p&gt;Aconselho que se renda,&lt;/p&gt;&#xA;&lt;p&gt;Como tenho feito&lt;/p&gt;&#xA;&lt;p&gt;Da carcaça de uma carniça&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>O Jardineiro Se Furou</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/o-jardineiro-se-furou/</link>
+      <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/o-jardineiro-se-furou/</guid>
+      <description>&lt;p&gt;50/50&lt;/p&gt;&#xA;&lt;p&gt;A operação da tragédia.&lt;/p&gt;&#xA;&lt;p&gt;Divisão de culpa.&lt;/p&gt;&#xA;&lt;p&gt;Metade minha&lt;/p&gt;&#xA;&lt;p&gt;metade sua.&lt;/p&gt;&#xA;&lt;p&gt;Da sua parte&lt;/p&gt;&#xA;&lt;p&gt;faça você depois a conta.&lt;/p&gt;&#xA;&lt;p&gt;Vamos à contabilidade da minha:&lt;/p&gt;&#xA;&lt;p&gt;Descobri recentemente&lt;/p&gt;&#xA;&lt;p&gt;no jardim&lt;/p&gt;&#xA;&lt;p&gt;o que fui pra ti.&lt;/p&gt;&#xA;&lt;p&gt;Aprendi com vovó,&lt;/p&gt;&#xA;&lt;p&gt;caminhando pelo roseiral.&lt;/p&gt;&#xA;&lt;p&gt;Nós não as colhemos pelos espinhos.&lt;/p&gt;&#xA;&lt;p&gt;Que se não machuca.&lt;/p&gt;&#xA;&lt;p&gt;E fingimos…&lt;/p&gt;&#xA;&lt;p&gt;Fingimos que não os tem.&lt;/p&gt;&#xA;&lt;p&gt;A culpa é da rosa.&lt;/p&gt;&#xA;&lt;p&gt;A vítima é sempre o jardineiro.&lt;/p&gt;&#xA;&lt;p&gt;A rosa furou ele, coitado!&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>A Beleza do Marido</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/a-beleza-do-marido/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/a-beleza-do-marido/</link>
       <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/a-beleza-do-marido/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/a-beleza-do-marido/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Fenomenal! Eu amo essa obra! Devorei ela em uma sentada.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Anne Carson&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: Bazar do Tempo&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;: 5&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: 13 de novembro de 2025&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de  Conclusão&lt;/strong&gt;: 13 de novembro de 2025&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Sentimento do Mundo</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/sentimento-do-mundo/</link>
+      <title>Casulo</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/casulo/</link>
       <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/sentimento-do-mundo/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/casulo/</guid>
+      <description>&lt;p&gt;A lagarta é borboleta em potência&lt;/p&gt;&#xA;&lt;p&gt;a lagarta é borboleta atávica&lt;/p&gt;&#xA;&lt;p&gt;e dentro do casulo tem gosma&lt;/p&gt;&#xA;&lt;p&gt;Gosma disforme&lt;/p&gt;&#xA;&lt;p&gt;ovo primordial&lt;/p&gt;&#xA;&lt;p&gt;no casulo tudo é&lt;/p&gt;&#xA;&lt;p&gt;o que foi e será&lt;/p&gt;&#xA;&lt;p&gt;Pendurado na árvore da vida&lt;/p&gt;&#xA;&lt;p&gt;Flutuando no caos&lt;/p&gt;&#xA;&lt;p&gt;Do casulo ouvem-se ecos&lt;/p&gt;&#xA;&lt;p&gt;vozes exteriores&lt;/p&gt;&#xA;&lt;p&gt;gente confusa&lt;/p&gt;&#xA;&lt;p&gt;que diabos tem dentro dessa popa?&lt;/p&gt;&#xA;&lt;p&gt;E do cósmico poder ancestral&lt;/p&gt;&#xA;&lt;p&gt;no ovo que herda o futuro no agora&lt;/p&gt;&#xA;&lt;p&gt;ressurge da morte latente a borboleta&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sentimento do Mundo</title>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/sentimento-do-mundo/</link>
+      <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/sentimento-do-mundo/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Ainda não sei o que dizer. Quero conhecer mais e melhor.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Carlos Drummond de Andrade&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: Record&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;: 4&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: 13 de outubro de 2025&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de  Conclusão&lt;/strong&gt;: 13 de novembro de 2025&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Um Aviso</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/um-aviso/</link>
+      <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/um-aviso/</guid>
+      <description>&lt;p&gt;Não me faça de palhaço!&lt;/p&gt;&#xA;&lt;p&gt;Que a comédia em minha vida&lt;/p&gt;&#xA;&lt;p&gt;É involuntária&lt;/p&gt;&#xA;&lt;p&gt;Talvez o talento&lt;/p&gt;&#xA;&lt;p&gt;Aquele de levar a alegria&lt;/p&gt;&#xA;&lt;p&gt;Esteja quebrado&lt;/p&gt;&#xA;&lt;p&gt;Brinquedo fabricado&lt;/p&gt;&#xA;&lt;p&gt;Defeituoso de origem&lt;/p&gt;&#xA;&lt;p&gt;Meu coraçãozinho&lt;/p&gt;&#xA;&lt;p&gt;Mal serve de motivo&lt;/p&gt;&#xA;&lt;p&gt;Pra risada matreira&lt;/p&gt;&#xA;&lt;p&gt;De um provocador&lt;/p&gt;&#xA;&lt;p&gt;Não me faça de palhaço!&lt;/p&gt;&#xA;&lt;p&gt;Que o riso me faz soluçar&lt;/p&gt;&#xA;&lt;p&gt;Eu fico pensando dois minutos depois&lt;/p&gt;&#xA;&lt;p&gt;Se já não foi o riso a razão de eu chorar&lt;/p&gt;&#xA;&lt;p&gt;Que a graça, minha gente&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Algo de Hipócrita</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/algo-de-hip%C3%B3crita/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/algo-de-hip%C3%B3crita/</guid>
+      <description>&lt;p&gt;É para vós&lt;/p&gt;&#xA;&lt;p&gt;a carta que escrevo&lt;/p&gt;&#xA;&lt;p&gt;vós que bradam aos quatro ventos&lt;/p&gt;&#xA;&lt;p&gt;Vós, antigos filósofos gregos.&lt;/p&gt;&#xA;&lt;p&gt;Que ao falar não fazem segredo:&lt;/p&gt;&#xA;&lt;p&gt;“O belo é o justo!”&lt;/p&gt;&#xA;&lt;p&gt;Já viram, porém&lt;/p&gt;&#xA;&lt;p&gt;por ser justo um belo?&lt;/p&gt;&#xA;&lt;p&gt;Sócrates?!&lt;/p&gt;&#xA;&lt;p&gt;Agora é minha vez…&lt;/p&gt;&#xA;&lt;p&gt;Ouçam às senhoras&lt;/p&gt;&#xA;&lt;p&gt;filósofas brasileiras!&lt;/p&gt;&#xA;&lt;p&gt;Do alto do fogão à lenha:&lt;/p&gt;&#xA;&lt;p&gt;“Beleza não põe a mesa”&lt;/p&gt;&#xA;&lt;p&gt;Que fazer agora, mundo?&lt;/p&gt;&#xA;&lt;p&gt;Que entre o pão e a beleza&lt;/p&gt;&#xA;&lt;p&gt;Sobra a fome dos justos?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Biblioteca</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/biblioteca/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/biblioteca/</guid>
+      <description>&lt;p&gt;Explorasse eu&lt;/p&gt;&#xA;&lt;p&gt;os recantos do mundo&lt;/p&gt;&#xA;&lt;p&gt;não seria possível.&lt;/p&gt;&#xA;&lt;p&gt;Eu temo fantasmas.&lt;/p&gt;&#xA;&lt;p&gt;E os velhos tesouros&lt;/p&gt;&#xA;&lt;p&gt;são, por espíritos, protegidos.&lt;/p&gt;&#xA;&lt;p&gt;Ao buscar perdidas arcas, porém,&lt;/p&gt;&#xA;&lt;p&gt;Encontrasse eu uma biblioteca esquecida.&lt;/p&gt;&#xA;&lt;p&gt;Espectros murmurando algaravias.&lt;/p&gt;&#xA;&lt;p&gt;Daria por concluída a aventura&lt;/p&gt;&#xA;&lt;p&gt;e reconciliaria-me com o além:&lt;/p&gt;&#xA;&lt;p&gt;“Sussurrem poemas perdidos também!”&lt;/p&gt;&#xA;&lt;p&gt;Os penados seriam para mim&lt;/p&gt;&#xA;&lt;p&gt;como sutis curadores.&lt;/p&gt;&#xA;&lt;p&gt;Diriam-me que os fantasmas perturbam.&lt;/p&gt;&#xA;&lt;p&gt;Mas já são perturbados os leitores.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Honesto</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/honesto/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/honesto/</guid>
+      <description>&lt;p&gt;Fui tantas vezes forte&lt;/p&gt;&#xA;&lt;p&gt;como pedra&lt;/p&gt;&#xA;&lt;p&gt;como ponte sem que&lt;/p&gt;&#xA;&lt;p&gt;os carros possam cair&lt;/p&gt;&#xA;&lt;p&gt;Sem que o caminhão&lt;/p&gt;&#xA;&lt;p&gt;que atravessa e destrói&lt;/p&gt;&#xA;&lt;p&gt;mate, mas ainda maltrate,&lt;/p&gt;&#xA;&lt;p&gt;os veios do lenho&lt;/p&gt;&#xA;&lt;p&gt;Fui tantas vezes forte&lt;/p&gt;&#xA;&lt;p&gt;que parei de sentir&lt;/p&gt;&#xA;&lt;p&gt;tive medo de dizer&lt;/p&gt;&#xA;&lt;p&gt;Sou forte e covarde&lt;/p&gt;&#xA;&lt;p&gt;porque chorar não me dá&lt;/p&gt;&#xA;&lt;p&gt;ajuda&lt;/p&gt;&#xA;&lt;p&gt;chorar me humilha&lt;/p&gt;&#xA;&lt;p&gt;chorar me inunda&lt;/p&gt;&#xA;&lt;p&gt;Eu tive o coração partido&lt;/p&gt;&#xA;&lt;p&gt;e ainda dói essa mágoa&lt;/p&gt;&#xA;&lt;p&gt;que nem toda gente escute&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Primevo Estatuto</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/primevo-estatuto/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/primevo-estatuto/</guid>
+      <description>&lt;p&gt;Que temas,&lt;/p&gt;&#xA;&lt;p&gt;ao teimar,&lt;/p&gt;&#xA;&lt;p&gt;à Têmis.&lt;/p&gt;&#xA;&lt;p&gt;Mas que teimes&lt;/p&gt;&#xA;&lt;p&gt;pelo que não se vê&lt;/p&gt;&#xA;&lt;p&gt;ardor&lt;/p&gt;&#xA;&lt;p&gt;Visto que&lt;/p&gt;&#xA;&lt;p&gt;o justo é também&lt;/p&gt;&#xA;&lt;p&gt;o belo&lt;/p&gt;&#xA;&lt;p&gt;E&lt;/p&gt;&#xA;&lt;p&gt;belo é também&lt;/p&gt;&#xA;&lt;p&gt;o amor.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tango e Estrelas</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/tango-e-estrelas/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/tango-e-estrelas/</guid>
+      <description>&lt;p&gt;Esses versos dedico ao sonho&lt;/p&gt;&#xA;&lt;p&gt;e sua interpretação.&lt;/p&gt;&#xA;&lt;p&gt;“Dos meus pés à cabeça o topo&lt;/p&gt;&#xA;&lt;p&gt;essa noite me consumia o fogo.”&lt;/p&gt;&#xA;&lt;p&gt;Ai, Freud!&lt;/p&gt;&#xA;&lt;p&gt;Eu pergunto ao tio doutor&lt;/p&gt;&#xA;&lt;p&gt;nessas conversas-madrugada:&lt;/p&gt;&#xA;&lt;p&gt;“Quais passos dar no tango do amor?”&lt;/p&gt;&#xA;&lt;p&gt;Ai, flor!&lt;/p&gt;&#xA;&lt;p&gt;Quanto na minha ansiedade&lt;/p&gt;&#xA;&lt;p&gt;tem d’ele&lt;/p&gt;&#xA;&lt;p&gt;o meu sintoma&lt;/p&gt;&#xA;&lt;p&gt;de saudade?&lt;/p&gt;&#xA;&lt;p&gt;Ai, flor! Ai, Freud!&lt;/p&gt;&#xA;&lt;p&gt;Sessão de análise pouco ortodoxa:&lt;/p&gt;&#xA;&lt;p&gt;misturada com tango&lt;/p&gt;&#xA;&lt;p&gt;e consulta astrológica.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Pensando em Sistemas</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/pensando-em-sistemas/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/pensando-em-sistemas/</link>
       <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/pensando-em-sistemas/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/pensando-em-sistemas/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Um bom livro introdutório, me pareceu.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Donella H. Meadows&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: Sextante&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;: 4&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: 29 de outubro de 2025&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de  Conclusão&lt;/strong&gt;: 3 de novembro de 2025&lt;/p&gt;&#xA;&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol&gt;&#xA;&lt;li id=&#34;fn:1&#34;&gt;&#xA;&lt;p&gt;Hoje é uma grande referência pra mim. Falo do futuro. Diretamente de 2026.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Ética a Nicômaco</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/%C3%A9tica-a-nic%C3%B4maco/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/%C3%A9tica-a-nic%C3%B4maco/</link>
       <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/%C3%A9tica-a-nic%C3%B4maco/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/%C3%A9tica-a-nic%C3%B4maco/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Grande e cansativo, mas bom.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Aristóteles&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: 34&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;: 4&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: 8 de julho de 2025&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de  Conclusão&lt;/strong&gt;: 10 de agosto de 2025&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Política</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/a-pol%C3%ADtica/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/a-pol%C3%ADtica/</link>
       <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/a-pol%C3%ADtica/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/a-pol%C3%ADtica/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Muito bom! Eu adorei!&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Aristóteles&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: Martin Claret&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;: 5&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: 26 de maio de 2025&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de  Conclusão&lt;/strong&gt;: 8 de julho de 2025&lt;/p&gt;</description>
     </item>
     <item>
       <title>O Mal do Século (1995) e A Relação Entre Saúde e a Cosmovisão de Um Indivíduo</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/ensaios/o-mal-do-s%C3%A9culo-1995-e-a-rela%C3%A7%C3%A3o-entre-sa%C3%BAde-e-a-cosmovis%C3%A3o-de-um-indiv%C3%ADduo/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/ensaios/o-mal-do-s%C3%A9culo-1995-e-a-rela%C3%A7%C3%A3o-entre-sa%C3%BAde-e-a-cosmovis%C3%A3o-de-um-indiv%C3%ADduo/</link>
       <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/ensaios/o-mal-do-s%C3%A9culo-1995-e-a-rela%C3%A7%C3%A3o-entre-sa%C3%BAde-e-a-cosmovis%C3%A3o-de-um-indiv%C3%ADduo/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/ensaios/o-mal-do-s%C3%A9culo-1995-e-a-rela%C3%A7%C3%A3o-entre-sa%C3%BAde-e-a-cosmovis%C3%A3o-de-um-indiv%C3%ADduo/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;O seguinte mini-ensaio foi escrito após a exibição do filme no Cineclube da Biblioteca Central da Universidade de Brasília (BCE/UnB). É um ensaio curto. Por isso vale notar a nota que comenta o texto e que pertence à última revisão.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h1 id=&#34;introdução&#34;&gt;Introdução&lt;/h1&gt;&#xA;&lt;p&gt;&amp;ldquo;O Mal do Século&amp;rdquo; de Todd Haynes aborda a vida de uma mulher que torna-se pouco a pouco insustentável devido a uma doença, cuja causa a medicina desconhece e recusa sua existência. A personagem principal parece ter uma vida comum, apesar de apática, mas que ganha sentido justamente quando lhe surge a doença &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;: curar-se. E para tal, vive uma jornada que será revista nesse texto. A partir do exposto, o que se discutirá é a noção do que é estar saudável e como isso está relacionado ao sistema simbólico no qual um indivíduo se encontra.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Como Estruturar o Estudo: Método Rafz.</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/ensaios/como-estruturar-o-estudo-m%C3%A9todo-rafz./</link>
+      <link>http://localhost:1313/RafaelMMilhomens/ensaios/como-estruturar-o-estudo-m%C3%A9todo-rafz./</link>
       <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/ensaios/como-estruturar-o-estudo-m%C3%A9todo-rafz./</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/ensaios/como-estruturar-o-estudo-m%C3%A9todo-rafz./</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;No blog antigo, esse texto era bastante requisitado. E ainda o é. De modo que julguei revisá-lo para cá. Espero que lhes seja útil.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h1 id=&#34;i-preparação---o-fundamento-do-estudo&#34;&gt;I. PREPARAÇÃO - O FUNDAMENTO DO ESTUDO&lt;/h1&gt;&#xA;&lt;h2 id=&#34;por-que-estudar&#34;&gt;Por que estudar?&lt;/h2&gt;&#xA;&lt;p&gt;Para começar, é necessário que você tenha objetivos. Para estudar ou fazer qualquer projeto, seja ele de longo, curto ou médio prazo, é preciso que você tenha um lugar onde quer chegar. E para ter um lugar onde quer chegar você precisa, antes de mais nada, investigar os seus desejos:&lt;/p&gt;</description>
     </item>
     <item>
       <title>República</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/rep%C3%BAblica/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/rep%C3%BAblica/</link>
       <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/rep%C3%BAblica/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/rep%C3%BAblica/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;O livro é ótimo, mas cansativo. Precisa fôlego. É um diálogo eterno com argumentos complexos que exigem atenção. Dificilmente supera-se uma página sem releitura do argumento anterior. Poxa, Sócrates, você prometeu que filosofia era legal&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Platão&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: Martin Claret&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;: 4&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: 17 de abril de 2025&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Te Quiero, Poesía, y Ya Te He Dicho</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/te-quiero-poes%C3%ADa-y-ya-te-he-dicho/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/te-quiero-poes%C3%ADa-y-ya-te-he-dicho/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;La rosa en llamas&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;que arde y duele&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Y me gusta:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;el (d)olor a rosas&amp;hellip;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Que llaman las llamas que traigo&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;y alumbran el cielo de mi boca,&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;ardientemente enamorada de las palabras.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;No pescoço, escorre cheiro de rosa suada;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;o peito, acizentado de febre daninha.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Cavalgadura livre, com fulgor de novos noivos,&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;verdes veias e o pomo de Adão.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tu pedes a (p)rosa em chamas que dói e arde!&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Dos Delitos e Das Penas</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/dos-delitos-e-das-penas/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/dos-delitos-e-das-penas/</link>
       <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/dos-delitos-e-das-penas/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/dos-delitos-e-das-penas/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Achei um livro muito interessante. Fiquei impressionado com a clareza do pensamento do autor ainda no século XVIII. O sujeito era claramente à frente de seu tempo. É um livro curto e confortável. Leitura agradável.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Cesare Beccaria&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: Martin Claret&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;: 4&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: 14 de abril de 2025&lt;/p&gt;</description>
     </item>
     <item>
+      <title>A Luta Pelo Direito</title>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/a-luta-pelo-direito/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/a-luta-pelo-direito/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Gente, eu achei esse livro MUITO BOM!&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Rudolf Von Ihering&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: Martin Claret&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;: 5&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: 12 de abril de 2025&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de  Conclusão&lt;/strong&gt;: 14 de abril de 2025&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Prólogo, Ato, Epílogo: Memórias</title>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/pr%C3%B3logo-ato-ep%C3%ADlogo-mem%C3%B3rias/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/pr%C3%B3logo-ato-ep%C3%ADlogo-mem%C3%B3rias/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Comentário rápido&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Fernanda Montenegro&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: Companhia das Letras&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;: 3&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: 1 de abril de 2025&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de  Conclusão&lt;/strong&gt;: 14 de abril de 2025&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>O Homem e Seus Símbolos</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/o-homem-e-seus-s%C3%ADmbolos/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/o-homem-e-seus-s%C3%ADmbolos/</link>
       <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/o-homem-e-seus-s%C3%ADmbolos/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/o-homem-e-seus-s%C3%ADmbolos/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Tá na lista dos meus preferidos. É uma leitura densa, mas fluida, profunda e disruptiva. Um ponto de não retorno.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Carl G. Jung&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: Harper Collins&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;: 5&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: ?&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de  Conclusão&lt;/strong&gt;: ?&lt;/p&gt;</description>
     </item>
     <item>
+      <title>O Povo Brasileiro</title>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/o-povo-brasileiro/</link>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/o-povo-brasileiro/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;ESSE LIVRO É PERFEITO. TÁ NA LISTA DOS FAVS.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Darcy Ribeiro&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: Global&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;: 5&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: 14 de março de 2025&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de  Conclusão&lt;/strong&gt;: 27 de março de 2025&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Palavra &#34;Saliencia&#34;</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/a-palavra-saliencia/</link>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/a-palavra-saliencia/</guid>
+      <description>&lt;p&gt;Meu medo é ser literal&lt;/p&gt;&#xA;&lt;p&gt;onde só cabe poesia.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dédalo</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/d%C3%A9dalo/</link>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/d%C3%A9dalo/</guid>
+      <description>&lt;p&gt;Se Dédalo fosse eu.&lt;/p&gt;&#xA;&lt;p&gt;Saberia, só por te abraçar,&lt;/p&gt;&#xA;&lt;p&gt;fazer Ícaro por sobre o Egeu,&lt;/p&gt;&#xA;&lt;p&gt;Ir muito além de voar.&lt;/p&gt;&#xA;&lt;p&gt;Do que seríamos capazes ele e eu,&lt;/p&gt;&#xA;&lt;p&gt;de descobrir e inventar,&lt;/p&gt;&#xA;&lt;p&gt;após um beijo teu?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Deuteronômio</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/deuteron%C3%B4mio/</link>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/deuteron%C3%B4mio/</guid>
+      <description>&lt;p&gt;Revisando o que eu escrevo&lt;/p&gt;&#xA;&lt;p&gt;vejo que todo amor é parecido:&lt;/p&gt;&#xA;&lt;p&gt;Começa e termina.&lt;/p&gt;&#xA;&lt;p&gt;Desde aqui já foi uns três&lt;/p&gt;&#xA;&lt;p&gt;até o final dessa rima.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Frater</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/frater/</link>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/frater/</guid>
+      <description>&lt;p&gt;Dos que guardo no peito&lt;/p&gt;&#xA;&lt;p&gt;você é tranquilamente um dos eleitos.&lt;/p&gt;&#xA;&lt;p&gt;O que dizer de alguém&lt;/p&gt;&#xA;&lt;p&gt;que me vê envelhecer?&lt;/p&gt;&#xA;&lt;p&gt;E envelhece comigo&lt;/p&gt;&#xA;&lt;p&gt;és um verdadeiro amigo.&lt;/p&gt;&#xA;&lt;p&gt;Dos que estão lá&lt;/p&gt;&#xA;&lt;p&gt;muito antes da tormenta passar.&lt;/p&gt;&#xA;&lt;p&gt;Do barco de minha vida,&lt;/p&gt;&#xA;&lt;p&gt;és um dos que conto no remo.&lt;/p&gt;&#xA;&lt;p&gt;Ao meu lado ou no timão,&lt;/p&gt;&#xA;&lt;p&gt;confio sempre na tua visão.&lt;/p&gt;&#xA;&lt;p&gt;Podes me aconselhar,&lt;/p&gt;&#xA;&lt;p&gt;pois sabes fazê-lo.&lt;/p&gt;&#xA;&lt;p&gt;De muitas coisas sabe.&lt;/p&gt;&#xA;&lt;p&gt;És um verdadeiro gênio.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lealdade</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/lealdade/</link>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/lealdade/</guid>
+      <description>&lt;p&gt;Ó flor!&lt;/p&gt;&#xA;&lt;p&gt;Flor cândida e pura!&lt;/p&gt;&#xA;&lt;p&gt;Tens meu amor.&lt;/p&gt;&#xA;&lt;p&gt;Tens minha ternura.&lt;/p&gt;&#xA;&lt;p&gt;Cair de amores,&lt;/p&gt;&#xA;&lt;p&gt;planar com o meu?&lt;/p&gt;&#xA;&lt;p&gt;O que preferes?&lt;/p&gt;&#xA;&lt;p&gt;Meu amor, sou teu.&lt;/p&gt;&#xA;&lt;p&gt;Ainda que sem enxergar,&lt;/p&gt;&#xA;&lt;p&gt;deixarei que me guies.&lt;/p&gt;&#xA;&lt;p&gt;Posto que é na confiança&lt;/p&gt;&#xA;&lt;p&gt;que prosperas.&lt;/p&gt;&#xA;&lt;p&gt;Pois, tal qual Aquiles, Serei eu fiel ao destino.&lt;/p&gt;&#xA;&lt;p&gt;Ainda que me guies em direção ao abismo.&lt;/p&gt;&#xA;&lt;p&gt;Pois de fé és feita, ó flor!&lt;/p&gt;&#xA;&lt;p&gt;Estandarte de meu amor.&lt;/p&gt;&#xA;&lt;p&gt;Se me aguarda o desfiladeiro, Seja contigo o meu enterro.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Moribunda</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/moribunda/</link>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/moribunda/</guid>
+      <description>&lt;p&gt;Meio dia em Brasília!&lt;/p&gt;&#xA;&lt;p&gt;A jovenzinha carcomida e de melenas poeirentas.&lt;/p&gt;&#xA;&lt;p&gt;Cujo inverno é seco e quente.&lt;/p&gt;&#xA;&lt;p&gt;E faz-se de viúva recatada&lt;/p&gt;&#xA;&lt;p&gt;De origem nobre e bem marcada.&lt;/p&gt;&#xA;&lt;p&gt;Os tolos mal sabem&lt;/p&gt;&#xA;&lt;p&gt;de tua herança escravocrata.&lt;/p&gt;&#xA;&lt;p&gt;Tinhas tudo para ser pujante e arrojada.&lt;/p&gt;&#xA;&lt;p&gt;Mas veste-se de senhora conservadora e mal-amada.&lt;/p&gt;&#xA;&lt;p&gt;Célere na vileza e parva em tudo que pulsa vida.&lt;/p&gt;&#xA;&lt;p&gt;Como coração: mal pulsa.&lt;/p&gt;&#xA;&lt;p&gt;Se tu és moribunda,&lt;/p&gt;&#xA;&lt;p&gt;o que é teu pai?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Para Uma Amiga Programadora</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/para-uma-amiga-programadora/</link>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/para-uma-amiga-programadora/</guid>
+      <description>&lt;p&gt;[PI.TO.NI.SA] :&lt;/p&gt;&#xA;&lt;p&gt;Mulher sagrada. Nomeada em&lt;/p&gt;&#xA;&lt;p&gt;homenagem à grande serpente Píton.&lt;/p&gt;&#xA;&lt;p&gt;[PY.THON] :&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Linguagem de programação.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Píton em inglês.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Rubicão</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/rubic%C3%A3o/</link>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/rubic%C3%A3o/</guid>
+      <description>&lt;p&gt;Incerto destino à frente.&lt;/p&gt;&#xA;&lt;p&gt;Rubicão cruzado.&lt;/p&gt;&#xA;&lt;p&gt;Velas nos mastros&lt;/p&gt;&#xA;&lt;p&gt;traçamos rotas&lt;/p&gt;&#xA;&lt;p&gt;pesamos astros.&lt;/p&gt;&#xA;&lt;p&gt;Pouco a pouco,&lt;/p&gt;&#xA;&lt;p&gt;mar de monstros:&lt;/p&gt;&#xA;&lt;p&gt;Nosso mar.&lt;/p&gt;&#xA;&lt;p&gt;Almas desnudas&lt;/p&gt;&#xA;&lt;p&gt;tormenta à frente&lt;/p&gt;&#xA;&lt;p&gt;sentimentos raros&lt;/p&gt;&#xA;&lt;p&gt;sintonia de mentes&lt;/p&gt;&#xA;&lt;p&gt;Calmaria…&lt;/p&gt;&#xA;&lt;p&gt;Desterrados&lt;/p&gt;&#xA;&lt;p&gt;em terra nova.&lt;/p&gt;&#xA;&lt;p&gt;Herdeiros&lt;/p&gt;&#xA;&lt;p&gt;da própria história.&lt;/p&gt;&#xA;&lt;p&gt;Criamos coragem&lt;/p&gt;&#xA;&lt;p&gt;com nossa memória.&lt;/p&gt;&#xA;&lt;p&gt;Falta-me o tempo&lt;/p&gt;&#xA;&lt;p&gt;que já se foi&lt;/p&gt;&#xA;&lt;p&gt;p’ra fruir da beleza&lt;/p&gt;&#xA;&lt;p&gt;de nós dois&lt;/p&gt;&#xA;&lt;p&gt;Sobra-me o tempo&lt;/p&gt;&#xA;&lt;p&gt;que virá&lt;/p&gt;&#xA;&lt;p&gt;para o mar de monstros&lt;/p&gt;&#xA;&lt;p&gt;navegar.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Traição</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/trai%C3%A7%C3%A3o/</link>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/trai%C3%A7%C3%A3o/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Vaza abjeto!&amp;rdquo; disse a ti, covarde.&lt;/p&gt;&#xA;&lt;p&gt;Tu obedeceste aos meus comandos,&lt;/p&gt;&#xA;&lt;p&gt;dos poucos que acataste.&lt;/p&gt;&#xA;&lt;p&gt;Depois que queimei meus barcos,&lt;/p&gt;&#xA;&lt;p&gt;Quando troquei as estrelas do céu,&lt;/p&gt;&#xA;&lt;p&gt;Incontáveis estrelas!&lt;/p&gt;&#xA;&lt;p&gt;Pelo brilho do deu olhar&lt;/p&gt;&#xA;&lt;p&gt;Imensurávelmente opaco.&lt;/p&gt;&#xA;&lt;p&gt;Sem te pedir nada em troca.&lt;/p&gt;&#xA;&lt;p&gt;Tal qual Medéia:&lt;/p&gt;&#xA;&lt;p&gt;Já não há mais Cólquida.&lt;/p&gt;&#xA;&lt;p&gt;Tal qual Jasão,&lt;/p&gt;&#xA;&lt;p&gt;Fizeste de mim&lt;/p&gt;&#xA;&lt;p&gt;o palhaço do teu circo.&lt;/p&gt;&#xA;&lt;p&gt;E eu feliz,&lt;/p&gt;&#xA;&lt;p&gt;pois era TEU o circo.&lt;/p&gt;&#xA;&lt;p&gt;Queres deitar-te com outros?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Memórias, Sonhos, Reflexões</title>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/mem%C3%B3rias-sonhos-reflex%C3%B5es/</link>
+      <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/mem%C3%B3rias-sonhos-reflex%C3%B5es/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Gosto desse, mas não merece um 5.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Carl Gustav Jung&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: Nova Fronteira&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;: 4&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: ?&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de  Conclusão&lt;/strong&gt;: 14 de fevereiro de 2025&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mensagem</title>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/mensagem/</link>
+      <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/mensagem/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Precisa de muito contexto pra entender apesar de ser curtinho.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Fernando Pessoa&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: Principis&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;:  4&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: 14 de fevereiro de 2025&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de  Conclusão&lt;/strong&gt;: ?&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>O Conceito de Linguagem Audiovisual na Pesquisa Em Comunicação: Reflexões Analíticas a Partir de Teses e Dissertações do PPGCom/UnB (2003-2020)</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/publica%C3%A7%C3%B5es/o-conceito-de-linguagem-audiovisual-na-pesquisa-em-comunica%C3%A7%C3%A3o/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/publica%C3%A7%C3%B5es/o-conceito-de-linguagem-audiovisual-na-pesquisa-em-comunica%C3%A7%C3%A3o/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/publica%C3%A7%C3%B5es/o-conceito-de-linguagem-audiovisual-na-pesquisa-em-comunica%C3%A7%C3%A3o/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/publica%C3%A7%C3%B5es/o-conceito-de-linguagem-audiovisual-na-pesquisa-em-comunica%C3%A7%C3%A3o/</guid>
       <description>&lt;p&gt;Abaixo, meu Trabalho de Conclusão de Curso. Não está na íntegra. podem achá-lo no link: &lt;a href=&#34;https://bdm.unb.br/handle/10483/27562&#34;&gt;https://bdm.unb.br/handle/10483/27562&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Trabalho apresentado à disciplina “Projeto Experimental em Audiovisual” do Departamento de Audiovisuais e Publicidade da Faculdade de Comunicação da Universidade de Brasília, para obtenção do título de bacharel em Comunicação Social - Audiovisual, sob orientação do Prof. Dr. Elton Bruno Pinheiro.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h1 id=&#34;resumo&#34;&gt;RESUMO&lt;/h1&gt;&#xA;&lt;p&gt;Este trabalho tem como objetivo de estudo a reflexão analítica sobre as abordagens do conceito “Linguagem audiovisual” nas teses e dissertações do PPGCom - FAC/ UnB, dentro do período de 2003 a 2020. O problema de pesquisa delimitado foi: como o conceito de Linguagem audiovisual é abordado por pesquisadores e pesquisadoras em Comunicação no contexto do Programa de Pós-graduação da Faculdade de Comunicação da UnB? Como eixos de articulação teórica, refletimos sobre Produção científica; Linguagem audiovisual na pesquisa em Comunicação; Linguagem como Ser vivo; Linguagem como Sistema; Linguagem como Narrativa; Audiovisual como Grupo de linguagens próximas; Linguagem com sentido Normativo e Audiovisual como meio caótico. Metodologicamente, o trabalho faz uso de aspectos do Estado da Arte, da Análise de Conteúdo e do que chamamos de Método Híbrido. Como resultado, registra-se que parcela expressiva dos trabalhos analisados por esta monografia consideram e estudam, de maneira recorrente, objetos mais próximos ao cinema – como televisão e vídeos – excluindo outras expressões da Linguagem audiovisual, como livros, rádio, pinturas etc.; e tratam o audiovisual como um outro estágio do cinema. Ademais, compreendendo que a produção científica representa, por si só, um posicionamento, a pesquisa considera que os trabalhos analisados, em considerável medida, deixaram de explorar algumas das possibilidades teóricas/conceituais abordadas por esta pesquisa. Nesse sentido, identificou e elucidou a concentração de trabalhos sobre o tema Linguagem audiovisual, no âmbito do PPGCom - FAC/UnB, sob duas perspectivas majoritárias: “Narrativa”, no que tange à “Linguagem”, e “Meio caótico”, no que tange ao “Audiovisual”.&lt;/p&gt;</description>
     </item>
     <item>
       <title>O Gênero Documental Como Discurso Científico: Educação e Linguagem Audiovisual</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/ensaios/o-g%C3%AAnero-documental-como-discurso-cient%C3%ADfico-educa%C3%A7%C3%A3o-e-linguagem-audiovisual/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/ensaios/o-g%C3%AAnero-documental-como-discurso-cient%C3%ADfico-educa%C3%A7%C3%A3o-e-linguagem-audiovisual/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/ensaios/o-g%C3%AAnero-documental-como-discurso-cient%C3%ADfico-educa%C3%A7%C3%A3o-e-linguagem-audiovisual/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/ensaios/o-g%C3%AAnero-documental-como-discurso-cient%C3%ADfico-educa%C3%A7%C3%A3o-e-linguagem-audiovisual/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Este ensaio estava guardado, empoeirado, em meus arquivos. Achei de bom tom, enquanto não disponho de tempo hábil para revisar e publicar os outros, iniciar o blog com ele. Há notas da última revisão ao final do texto.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;introdução&#34;&gt;Introdução&lt;/h2&gt;&#xA;&lt;p&gt;Hoje, diversas mídias audiovisuais permeiam o quotidiano social: Videogames/consoles, rádio, televisão, celular, computadores. E as diversas naturezas dos produtos que esses suportes reproduzem: vídeos digitais, &lt;em&gt;blue-rays,&lt;/em&gt; CD’s, vinis, fitas K-7, revistas em quadrinhos, impressas ou não, a internet e suas diversas plataformas. A relação dos sujeitos com esses meios &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; contribui para com a maneira como enxergam o mundo e a cultura da qual fazem parte, suas referências imagéticas e sonoras, também no que se acredita, bem como os assuntos com os quais se preocupam. É comum que se diga que já se conhece um lugar porque se viu na televisão, por exemplo. Ou, que se defenda um ponto de vista à partir do que se viu em um documentário.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2001: Uma Odisseia No Espaço</title>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/2001-uma-odisseia-no-espa%C3%A7o/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/2001-uma-odisseia-no-espa%C3%A7o/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Bem mais ou menos.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Arthur C. Clark&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: Aleph&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;: 3&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: ?&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de  Conclusão&lt;/strong&gt;: ?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>O Segredo Da Flor De Ouro</title>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/o-segredo-da-flor-de-ouro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/o-segredo-da-flor-de-ouro/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Confuso no início e no fim é igual o início.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Carl Gustav Jung&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: Zahar&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;: 2&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: ?&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de  Conclusão&lt;/strong&gt;: ?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Os Lusíadas</title>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/os-lus%C3%ADadas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/os-lus%C3%ADadas/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Livro muito bonito, várias tretas, mas bonito. Bem feito. Vale dizer: &lt;strong&gt;A editora importa muito nesse caso&lt;/strong&gt;. Há muitas edições incompletas.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Luís de Camões&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: Martin Claret&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;: 5&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: ?&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de  Conclusão&lt;/strong&gt;: 28 de fevereiro de 2025&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Raízes do Brasil</title>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/ra%C3%ADzes-do-brasil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/ra%C3%ADzes-do-brasil/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;É uma boa intro pro livro “O Povo Brasileiro”, do Darcy Ribeiro.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Sergio Buarque de Holanda&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: Companhia das Letras&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;: 4&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: 4 de março de 2025&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de  Conclusão&lt;/strong&gt;: 14 de março de 2025&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tigre-Crochê (Em virtude do aniversário de Rodrigo)</title>
+      <link>http://localhost:1313/RafaelMMilhomens/poesia/tigre-croch%C3%AA-em-virtude-do-anivers%C3%A1rio-de-rodrigo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/poesia/tigre-croch%C3%AA-em-virtude-do-anivers%C3%A1rio-de-rodrigo/</guid>
+      <description>&lt;p&gt;meu amigo é fiandeiro-animal&lt;/p&gt;&#xA;&lt;p&gt;um tigre de força monumental&lt;/p&gt;&#xA;&lt;p&gt;Cada fio de seu crochê&lt;/p&gt;&#xA;&lt;p&gt;vai tecendo paciente&lt;/p&gt;&#xA;&lt;p&gt;E quando vejo&lt;/p&gt;&#xA;&lt;p&gt;Uma blues blusa&lt;/p&gt;&#xA;&lt;p&gt;de calor humano!&lt;/p&gt;&#xA;&lt;p&gt;Ele é tigre também&lt;/p&gt;&#xA;&lt;p&gt;e sabe que pode&lt;/p&gt;&#xA;&lt;p&gt;e consegue abocanhar&lt;/p&gt;&#xA;&lt;p&gt;Profundamente ciente do seu valor&lt;/p&gt;&#xA;&lt;p&gt;Hipnotiza com olhar&lt;/p&gt;&#xA;&lt;p&gt;“Coração-granada”&lt;/p&gt;&#xA;&lt;p&gt;Meu amigo é enseada&lt;/p&gt;&#xA;&lt;p&gt;Maré que arrebata&lt;/p&gt;&#xA;&lt;p&gt;Meu amigo é professor&lt;/p&gt;&#xA;&lt;p&gt;Cada nó de crochê uma lição:&lt;/p&gt;&#xA;&lt;p&gt;a lealdade do nó&lt;/p&gt;&#xA;&lt;p&gt;a paciência da trama&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

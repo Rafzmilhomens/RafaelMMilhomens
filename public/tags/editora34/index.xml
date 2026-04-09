@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Editora34 on Rafael M. Milhomens - BLOG</title>
-    <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/editora34/</link>
+    <link>http://localhost:1313/RafaelMMilhomens/tags/editora34/</link>
     <description>Recent content in Editora34 on Rafael M. Milhomens - BLOG</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 10 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://rafzmilhomens.github.io/RafaelMMilhomens/tags/editora34/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/RafaelMMilhomens/tags/editora34/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ética a Nicômaco</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/%C3%A9tica-a-nic%C3%B4maco/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/%C3%A9tica-a-nic%C3%B4maco/</link>
       <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/%C3%A9tica-a-nic%C3%B4maco/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/%C3%A9tica-a-nic%C3%B4maco/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Grande e cansativo, mas bom.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Aristóteles&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: 34&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;: 4&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: 8 de julho de 2025&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de  Conclusão&lt;/strong&gt;: 10 de agosto de 2025&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,18 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jung on Rafael M. Milhomens - BLOG</title>
-    <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/jung/</link>
+    <link>http://localhost:1313/RafaelMMilhomens/tags/jung/</link>
     <description>Recent content in Jung on Rafael M. Milhomens - BLOG</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 29 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://rafzmilhomens.github.io/RafaelMMilhomens/tags/jung/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/RafaelMMilhomens/tags/jung/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>O Homem e Seus Símbolos</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/o-homem-e-seus-s%C3%ADmbolos/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/o-homem-e-seus-s%C3%ADmbolos/</link>
       <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/o-homem-e-seus-s%C3%ADmbolos/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/o-homem-e-seus-s%C3%ADmbolos/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Tá na lista dos meus preferidos. É uma leitura densa, mas fluida, profunda e disruptiva. Um ponto de não retorno.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Carl G. Jung&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: Harper Collins&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;: 5&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: ?&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de  Conclusão&lt;/strong&gt;: ?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Memórias, Sonhos, Reflexões</title>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/mem%C3%B3rias-sonhos-reflex%C3%B5es/</link>
+      <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/mem%C3%B3rias-sonhos-reflex%C3%B5es/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Gosto desse, mas não merece um 5.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Carl Gustav Jung&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: Nova Fronteira&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;: 4&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: ?&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de  Conclusão&lt;/strong&gt;: 14 de fevereiro de 2025&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>O Segredo Da Flor De Ouro</title>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/o-segredo-da-flor-de-ouro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/o-segredo-da-flor-de-ouro/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Confuso no início e no fim é igual o início.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Carl Gustav Jung&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: Zahar&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;: 2&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: ?&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de  Conclusão&lt;/strong&gt;: ?&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

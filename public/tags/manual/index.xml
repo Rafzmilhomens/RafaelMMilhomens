@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Manual on Rafael M. Milhomens - BLOG</title>
-    <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/manual/</link>
+    <link>http://localhost:1313/RafaelMMilhomens/tags/manual/</link>
     <description>Recent content in Manual on Rafael M. Milhomens - BLOG</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 06 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://rafzmilhomens.github.io/RafaelMMilhomens/tags/manual/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/RafaelMMilhomens/tags/manual/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Como Estruturar o Estudo: Método Rafz.</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/ensaios/como-estruturar-o-estudo-m%C3%A9todo-rafz./</link>
+      <link>http://localhost:1313/RafaelMMilhomens/ensaios/como-estruturar-o-estudo-m%C3%A9todo-rafz./</link>
       <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/ensaios/como-estruturar-o-estudo-m%C3%A9todo-rafz./</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/ensaios/como-estruturar-o-estudo-m%C3%A9todo-rafz./</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;No blog antigo, esse texto era bastante requisitado. E ainda o é. De modo que julguei revisá-lo para cá. Espero que lhes seja útil.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h1 id=&#34;i-preparação---o-fundamento-do-estudo&#34;&gt;I. PREPARAÇÃO - O FUNDAMENTO DO ESTUDO&lt;/h1&gt;&#xA;&lt;h2 id=&#34;por-que-estudar&#34;&gt;Por que estudar?&lt;/h2&gt;&#xA;&lt;p&gt;Para começar, é necessário que você tenha objetivos. Para estudar ou fazer qualquer projeto, seja ele de longo, curto ou médio prazo, é preciso que você tenha um lugar onde quer chegar. E para ter um lugar onde quer chegar você precisa, antes de mais nada, investigar os seus desejos:&lt;/p&gt;</description>
     </item>
   </channel>

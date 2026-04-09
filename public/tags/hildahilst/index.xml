@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HildaHilst on Rafael M. Milhomens - BLOG</title>
-    <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/hildahilst/</link>
+    <link>http://localhost:1313/RafaelMMilhomens/tags/hildahilst/</link>
     <description>Recent content in HildaHilst on Rafael M. Milhomens - BLOG</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 08 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://rafzmilhomens.github.io/RafaelMMilhomens/tags/hildahilst/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/RafaelMMilhomens/tags/hildahilst/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Da Poesia</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/da-poesia/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/da-poesia/</link>
       <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/da-poesia/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/da-poesia/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Achei o final bom, durante a leitura fiquei cansado muitas vezes. Exige inspiração, músculo e fôlego.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Hilda Hilst&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: Companhia das Letras&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;: 3&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: 2 de dezembro de 2025&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de  Conclusão&lt;/strong&gt;: 8 de janeiro de 2026&lt;/p&gt;</description>
     </item>
   </channel>

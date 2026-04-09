@@ -2,25 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CompanhiaDasLetras on Rafael M. Milhomens - BLOG</title>
-    <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/companhiadasletras/</link>
+    <link>http://localhost:1313/RafaelMMilhomens/tags/companhiadasletras/</link>
     <description>Recent content in CompanhiaDasLetras on Rafael M. Milhomens - BLOG</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sun, 29 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://rafzmilhomens.github.io/RafaelMMilhomens/tags/companhiadasletras/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/RafaelMMilhomens/tags/companhiadasletras/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Toda Poesia</title>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/toda-poesia/</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/toda-poesia/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Esse livro é lindo e me faz chorar e eu amo e é isso. É meu poeta preferido. Já li e reli muitas vezes. Desde os 14 anos aproximadamente&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Paulo Leminski&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: Companhia das Letras&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;:  5&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: Já li várias vezes&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Verdade Tropical</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/verdade-tropical/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/verdade-tropical/</link>
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/verdade-tropical/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/verdade-tropical/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Amo esse livro. Foi a partir daqui que conheci Amália&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Caetano Veloso&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: Companhia das Letras&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;: 5&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: ????&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de  Conclusão&lt;/strong&gt;: ????&lt;/p&gt;</description>
     </item>
     <item>
       <title>Da Poesia</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/da-poesia/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/da-poesia/</link>
       <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/da-poesia/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/da-poesia/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Achei o final bom, durante a leitura fiquei cansado muitas vezes. Exige inspiração, músculo e fôlego.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Hilda Hilst&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: Companhia das Letras&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;: 3&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: 2 de dezembro de 2025&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de  Conclusão&lt;/strong&gt;: 8 de janeiro de 2026&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Prólogo, Ato, Epílogo: Memórias</title>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/pr%C3%B3logo-ato-ep%C3%ADlogo-mem%C3%B3rias/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/pr%C3%B3logo-ato-ep%C3%ADlogo-mem%C3%B3rias/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Comentário rápido&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Fernanda Montenegro&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: Companhia das Letras&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;: 3&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: 1 de abril de 2025&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de  Conclusão&lt;/strong&gt;: 14 de abril de 2025&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Raízes do Brasil</title>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/ra%C3%ADzes-do-brasil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/ra%C3%ADzes-do-brasil/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;É uma boa intro pro livro “O Povo Brasileiro”, do Darcy Ribeiro.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Sergio Buarque de Holanda&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: Companhia das Letras&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;: 4&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: 4 de março de 2025&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de  Conclusão&lt;/strong&gt;: 14 de março de 2025&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

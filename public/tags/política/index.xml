@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Política on Rafael M. Milhomens - BLOG</title>
-    <link>https://rafzmilhomens.github.io/RafaelMMilhomens/tags/pol%C3%ADtica/</link>
+    <link>http://localhost:1313/RafaelMMilhomens/tags/pol%C3%ADtica/</link>
     <description>Recent content in Política on Rafael M. Milhomens - BLOG</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 08 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://rafzmilhomens.github.io/RafaelMMilhomens/tags/pol%C3%ADtica/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/RafaelMMilhomens/tags/pol%C3%ADtica/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Política</title>
-      <link>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/a-pol%C3%ADtica/</link>
+      <link>http://localhost:1313/RafaelMMilhomens/leituras/a-pol%C3%ADtica/</link>
       <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://rafzmilhomens.github.io/RafaelMMilhomens/leituras/a-pol%C3%ADtica/</guid>
+      <guid>http://localhost:1313/RafaelMMilhomens/leituras/a-pol%C3%ADtica/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Notas referentes a leituras concluídas e primeiras impressões sem releitura, sem filtro, só o impacto que o livro causou ao fechar a capa.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Muito bom! Eu adorei!&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Aristóteles&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Editora&lt;/strong&gt;: Martin Claret&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nota (0 a 5)&lt;/strong&gt;: 5&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de Início&lt;/strong&gt;: 26 de maio de 2025&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data de  Conclusão&lt;/strong&gt;: 8 de julho de 2025&lt;/p&gt;</description>
     </item>
   </channel>
