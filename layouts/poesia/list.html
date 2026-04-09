@@ -1,0 +1,25 @@
+{{ define "main" }}
+<div class="poesia-layout">
+  <aside class="poesia-sidebar">
+    <nav class="sidebar-nav">
+      <h3>Poemas</h3>
+      <ul>
+        {{ range (where .Site.RegularPages "Section" "poesia") }}
+          <li class="{{ if eq $.Permalink .Permalink }}active-poema{{ end }}">
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          </li>
+        {{ end }}
+      </ul>
+    </nav>
+  </aside>
+
+  <article class="poesia-content">
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+    
+    {{ if .IsSection }}
+      <p>Selecione um poema ao lado para ler.</p>
+    {{ end }}
+  </article>
+</div>
+{{ end }}
