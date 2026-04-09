@@ -612,18 +612,21 @@ article {
 }
 .poesia-layout {
   display: flex;
-  gap: 2rem;
-  align-items: flex-start;
+  gap: 40px;
+  margin-top: 2rem;
 }
 
 .poesia-sidebar {
-  width: 250px;
-  position: sticky;
-  top: 2rem;
-  font-family: 'IBM Plex Mono', monospace; /* Mantendo o padrão do seu site */
-  font-size: 0.9rem;
-  border-right: 1px solid #eee;
-  padding-right: 1rem;
+  flex: 0 0 200px; /* Largura fixa para o índice */
+  border-right: 1px solid #eaeaea;
+  padding-right: 20px;
+}
+
+.poesia-sidebar h3 {
+  font-family: 'IBM Plex Mono', monospace; /* Fonte do seu baseof.html */
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  color: #888;
 }
 
 .poesia-sidebar ul {
@@ -632,12 +635,13 @@ article {
 }
 
 .poesia-sidebar li {
-  margin-bottom: 0.5rem;
+  margin-bottom: 10px;
 }
 
 .poesia-sidebar a {
   text-decoration: none;
-  color: #666;
+  font-size: 0.95rem;
+  color: #444;
 }
 
 .active-poema a {
@@ -646,19 +650,6 @@ article {
 }
 
 .poesia-content {
-  flex: 1;
-  font-family: 'EB Garamond', serif; /* Fonte definida no seu head */
-}
-
-/* Responsividade: em telas pequenas, o índice vai para cima */
-@media (max-width: 768px) {
-  .poesia-layout {
-    flex-direction: column;
-  }
-  .poesia-sidebar {
-    width: 100%;
-    border-right: none;
-    border-bottom: 1px solid #eee;
-    position: relative;
-  }
+  flex: 1; /* Ocupa o restante do espaço */
+  max-width: 600px;
 }
