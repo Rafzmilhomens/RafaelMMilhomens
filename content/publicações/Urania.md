@@ -1,12 +1,12 @@
 ---
-title: Urania
+title: Urânia
 date: 2026-06-10
 draft: false
 tags:
   - Astrologia
 local:
 ---
-Abaixo, podem acessar Urania: Meu livro dedicado à arte da Astrologia.
+Abaixo, podem acessar Urânia: Meu livro dedicado à arte da Astrologia.
 
 https://leanpub.com/urania-introduoastrologia
 
