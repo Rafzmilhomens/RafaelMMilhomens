@@ -94,7 +94,7 @@ body {
 /* filete vermelho fino, separando cabeçalho do corpo */
 .rule {
   border: none;
-  height: 1px;
+  height: 3px;
   background: var(--red);
   width: 4rem;
   margin: var(--space-md) auto 0;
