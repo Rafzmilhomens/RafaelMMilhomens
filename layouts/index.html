@@ -5,7 +5,7 @@
 <h2>Recentes</h2>
 
 <ul class="post-list">
-  {{ range (where .Site.RegularPages "Section" "!=" "").ByDate.Reverse | first 10 }}
+  {{ range (where (where (where .Site.RegularPages "Section" "!=" "") "Section" "!=" "poesia") "Section" "!=" "leituras").ByDate.Reverse | first 10 }}
   <li>
     <a href="{{ .RelPermalink }}" class="post-link">{{ .Title }}</a>
     <time>{{ .Date.Format "2 de January de 2006" }} · {{ .Section }}</time>

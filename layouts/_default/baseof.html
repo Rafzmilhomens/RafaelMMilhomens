@@ -20,9 +20,7 @@
     <p class="site-motto">Sobre os mecanismos invisíveis que organizam a percepção coletiva, com foco no Brasil.</p>
     <nav>
       <a href="{{ "ensaios/" | relURL }}"{{ if eq .Section "ensaios" }} class="active"{{ end }}>ensaios</a>
-      <a href="{{ "poesia/" | relURL }}"{{ if eq .Section "poesia" }} class="active"{{ end }}>poesia</a>
       <a href="{{ "publicações/" | relURL }}"{{ if eq .Section "publicações" }} class="active"{{ end }}>publicações</a>
-      <a href="{{ "leituras/" | relURL }}"{{ if eq .Section "leituras" }} class="active"{{ end }}>leituras</a>
       <a href="{{ "nota/" | relURL }}"{{ if eq .Title "nota" }} class="active"{{ end }}>nota</a>
       <a href="{{ "apoie/" | relURL }}"{{ if eq .Title "Apoie" }} class="active"{{ end }}>apoie</a>
       <a href="{{ "sobre/" | relURL }}"{{ if eq .Title "Sobre" }} class="active"{{ end }}>sobre</a>
