@@ -1,6 +1,6 @@
 baseURL = "https://rafzmilhomens.github.io/RafaelMMilhomens/"
 locale = "pt-br"
-title = "Rafael M. Milhomens - BLOG"
+title = "Rafael M. Milhomens"
 languageCode = "pt-br"
 
 [permalinks]
@@ -8,7 +8,7 @@ portfolio = "/portfolio/:slug/"
 
 [params]
 author = "Rafael M. Milhomens"
-description = "Sobre os mecanismos invisíveis que organizam a percepção coletiva, com foco no Brasil."
+description = "Pesquisador independente. Linguagem e sistemas que organizam os sentidos."
 
 [markup]
   [markup.goldmark]

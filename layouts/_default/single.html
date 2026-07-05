@@ -14,7 +14,11 @@
   {{ with .Params.links }}
   <hr>
   <div class="project-links">
-    {{ range $i, $l := . }}{{ if $i }} · {{ end }}<a href="{{ $l.url }}" target="_blank" rel="noopener">{{ $l.titulo }}</a>{{ end }}
+    {{ if reflect.IsSlice . }}
+      {{ range $i, $l := . }}{{ if $i }} · {{ end }}{{ if reflect.IsMap $l }}<a href="{{ $l.url }}" target="_blank" rel="noopener">{{ $l.titulo | default "Acessar" }}</a>{{ else }}<a href="{{ $l }}" target="_blank" rel="noopener">Acessar</a>{{ end }}{{ end }}
+    {{ else }}
+      <a href="{{ . }}" target="_blank" rel="noopener">{{ $.Params.link_titulo | default "Acessar" }}</a>
+    {{ end }}
   </div>
   {{ end }}
 
