@@ -95,7 +95,7 @@ body {
 .rule {
   border: none;
   height: 1px;
-  background-color: var(--red);
+  background: var(--red);
   width: 4rem;
   margin: var(--space-md) auto 0;
 }
