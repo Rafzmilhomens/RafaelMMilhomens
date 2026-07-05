@@ -91,12 +91,12 @@ body {
   color: var(--red);
 }
 
-/* filete vermelho fino, separando cabeçalho do corpo */
+/* arabesco separando cabeçalho do corpo */
 .rule {
   border: none;
-  height: 3px;
-  background: var(--red);
-  width: 4rem;
+  height: 30px;
+  width: 200px;
+  background: center / contain no-repeat url("../arabesco.svg");
   margin: var(--space-md) auto 0;
 }
 
