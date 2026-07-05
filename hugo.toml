@@ -4,17 +4,7 @@ title = "Rafael M. Milhomens - BLOG"
 languageCode = "pt-br"
 
 [permalinks]
-ensaios = "/ensaios/:slug/"
-poesia = "/poesia/:slug/"
-publicacoes = "/publicacoes/:slug/"
-leituras = "/leituras/:slug/"
-nota = "/nota/:slug/"
-apoie = "/apoie/:slug/"
-sobre = "/sobre/:slug/"
-
-
-[taxonomies]
-tag = "tags"
+portfolio = "/portfolio/:slug/"
 
 [params]
 author = "Rafael M. Milhomens"

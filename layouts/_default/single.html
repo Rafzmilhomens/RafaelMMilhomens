@@ -2,34 +2,25 @@
 
 <article>
   <h1>{{ .Title }}</h1>
- <span class="post-meta">
-  {{ .Date.Format "2 de January de 2006" }}
-  {{ with .Params.local }}· {{ . }}{{ end }}
-  {{ with .Params.tags }}· {{ range $i, $t := . }}{{ if $i }}, {{ end }}{{ $t }}{{ end }}{{ end }}
-</span>
 
-  {{ with .Params.epigrafe }}
-  <div class="epigraph">
-    {{ .texto | markdownify }}
-    {{ with .autor }}<cite>{{ . }}</cite>{{ end }}
-  </div>
+  {{ with .Params.summary }}
+  <p class="project-meta">{{ . }}</p>
   {{ end }}
 
   <div class="content">
     {{ .Content }}
   </div>
 
-  {{ with .Params.tags }}
-  <div class="tags">
-    {{ range . }}
-    <a href="{{ (urlize (printf "tags/%s" .)) | relURL }}">{{ . }}</a>
-    {{ end }}
+  {{ with .Params.links }}
+  <hr>
+  <div class="project-links">
+    {{ range $i, $l := . }}{{ if $i }} · {{ end }}<a href="{{ $l.url }}" target="_blank" rel="noopener">{{ $l.titulo }}</a>{{ end }}
   </div>
   {{ end }}
 
-  <div class="post-disclaimer">
-    © {{ now.Year }} {{ .Site.Params.author }}. Todos os direitos reservados. A reprodução total ou parcial deste conteúdo sem autorização prévia e citação da fonte é proibida.
-  </div>
+  {{ if eq .Section "portfolio" }}
+  <a class="back" href="{{ "portfolio/" | relURL }}">← Portfólio</a>
+  {{ end }}
 </article>
 
 {{ end }}
