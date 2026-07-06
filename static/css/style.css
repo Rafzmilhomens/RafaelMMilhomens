@@ -167,14 +167,7 @@ li { margin-bottom: 0.3em; }
 
 .frontispiece {
   text-align: center;
-  padding: var(--space-lg) 0;
-}
-
-.frontispiece .selo {
-  display: block;
-  width: 180px;
-  height: 180px;
-  margin: 0 auto var(--space-md);
+  padding: var(--space-sm) 0;
 }
 
 .frontispiece .subtitle {
@@ -246,6 +239,13 @@ article .project-meta {
   font-size: 0.85rem;
   font-style: italic;
   color: var(--black);
+}
+
+.site-footer .selo-mini {
+  width: 22px;
+  height: 22px;
+  vertical-align: -0.35em;
+  margin-right: 0.5em;
 }
 
 /* ── Responsivo ── */
