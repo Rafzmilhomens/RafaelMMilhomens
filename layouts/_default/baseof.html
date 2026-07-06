@@ -20,10 +20,9 @@
     <a href="{{ .Site.BaseURL }}" class="site-title">{{ .Site.Params.author }}</a>
     <nav class="site-nav">
       <a href="{{ "sobre/" | relURL }}"{{ if eq .Section "sobre" }} class="active"{{ end }}>Sobre</a>
-      <a href="{{ "portfolio/" | relURL }}"{{ if eq .Section "portfolio" }} class="active"{{ end }}>Portfólio</a>
+      <a href="{{ .Site.BaseURL }}"{{ if or .IsHome (eq .Section "portfolio") }} class="active"{{ end }}>Portfólio</a>
       <a href="{{ "contato/" | relURL }}"{{ if eq .Section "contato" }} class="active"{{ end }}>Contato</a>
     </nav>
-    <hr class="rule">
   </header>
 
   <main>

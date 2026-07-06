@@ -7,4 +7,15 @@
   </div>
 </section>
 
+{{ with .Site.GetPage "/portfolio" }}
+<ul class="toc">
+  {{ range .Pages.ByWeight }}
+  <li>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    {{ with .Params.summary }}<span class="project-desc">{{ . }}</span>{{ end }}
+  </li>
+  {{ end }}
+</ul>
+{{ end }}
+
 {{ end }}

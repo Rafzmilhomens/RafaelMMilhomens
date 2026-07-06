@@ -91,15 +91,6 @@ body {
   color: var(--red);
 }
 
-/* arabesco separando cabeçalho do corpo */
-.rule {
-  border: none;
-  height: 30px;
-  width: 200px;
-  background: center / contain no-repeat url("../arabesco.svg");
-  margin: var(--space-md) auto 0;
-}
-
 /* ── Tipografia do corpo ── */
 
 h1, h2, h3, h4 {

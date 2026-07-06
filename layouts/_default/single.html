@@ -23,7 +23,7 @@
   {{ end }}
 
   {{ if eq .Section "portfolio" }}
-  <a class="back" href="{{ "portfolio/" | relURL }}">← Portfólio</a>
+  <a class="back" href="{{ .Site.BaseURL }}">← Portfólio</a>
   {{ end }}
 </article>
 
