@@ -1,0 +1,10 @@
+---
+title: Praga De Cogumelos
+weight: 1
+summary: Curta-Metragem
+links:
+  - https://youtu.be/s2CuEGNzci0?si=JI0iqQXVPgig1i_P
+---
+Deus do musgo está em uma aventura de descobertas até que ele se depara com um curioso campo de cogumelos. Ele (que esta há vários dias sem comer ) acha que os cogumelos poderiam ser um bom lanche, caso ninguém o veja. Enquanto isto, um outro Deus bem misterioso (Jin-Jin) o observa de sua barraca de trocas-mágicas por cogumelos.
+
+Direção : Camilla Leite. CO-DIREÇÃO Rafael M. Milhomens PRODUÇÃO Rafael M. Milhomens ASISTENTE DE PRODUÇÃO Felype Wanzeller TRILHA SONORA [00:00:22](https://www.youtube.com/watch?v=s2CuEGNzci0&t=22s) - Deus do Musgo - Rodrigo Teodoro [00:02:58](https://www.youtube.com/watch?v=s2CuEGNzci0&t=178s) - Musgo que Caminha - Rodrigo Teodoro [00:02:58](https://www.youtube.com/watch?v=s2CuEGNzci0&t=178s) - Humor de Cogumelo - Rodrigo Teodoro [00:03:37](https://www.youtube.com/watch?v=s2CuEGNzci0&t=217s)- Campo de Cogumelos - Rodrigo teodoro [00:04:37](https://www.youtube.com/watch?v=s2CuEGNzci0&t=277s) - Roce Fragância - Rodrigo Teodoro [00:05:50](https://www.youtube.com/watch?v=s2CuEGNzci0&t=350s)- Lamento do Musgo - Rodrigo Teodoro [00:06:38](https://www.youtube.com/watch?v=s2CuEGNzci0&t=398s)- Mascote Consola - Rodrigo Teodoro 00:38:48 - Praga da Banca - Rômulo Ferreira (Arr. Rodrigo Teodoro ) [00:11:13](https://www.youtube.com/watch?v=s2CuEGNzci0&t=673s) - Cogumelos Alucinantes - Rômulo Ferreira (Arr. Rodrigo Teodoro ) [00:12:47](https://www.youtube.com/watch?v=s2CuEGNzci0&t=767s) - Funeral de um Musgo - Rodrigo Teodoro [00:13:38](https://www.youtube.com/watch?v=s2CuEGNzci0&t=818s) - Musgo que virou Cogumelo - Rodrigo Teodoro (isso está no meu arquivo, mas não me lembro de ter escrito) COMPOSITORES Rorigo Teodoro e Rômulo Ferreira SOUND DESIGNER Rodrigo Teodoro TRILHA ORIGINAL Rodrigo Teodoro e Rômulo Ferreira Brasilia, UNB- DF 2018
