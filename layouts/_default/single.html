@@ -1,29 +1,28 @@
 {{ define "main" }}
 
-<article>
-  <h1>{{ .Title }}</h1>
+<article class="chapter">
+  <h1 class="chapter-title">{{ .Title }}</h1>
 
   {{ with .Params.summary }}
-  <p class="project-meta">{{ . }}</p>
+  <p class="chapter-epigraph">{{ . }}</p>
   {{ end }}
 
-  <div class="content">
+  <div class="chapter-body">
     {{ .Content }}
   </div>
 
   {{ with .Params.links }}
-  <hr>
-  <div class="project-links">
+  <p class="colophon">
     {{ if reflect.IsSlice . }}
-      {{ range $i, $l := . }}{{ if $i }} · {{ end }}{{ if reflect.IsMap $l }}<a href="{{ $l.url }}" target="_blank" rel="noopener">{{ $l.titulo | default "Acessar" }}</a>{{ else }}<a href="{{ $l }}" target="_blank" rel="noopener">Acessar</a>{{ end }}{{ end }}
+      {{ range $i, $l := . }}{{ if $i }}<span class="sep">·</span>{{ end }}{{ if reflect.IsMap $l }}<a href="{{ $l.url }}" target="_blank" rel="noopener">{{ $l.titulo | default "Acessar" }}</a>{{ else }}<a href="{{ $l }}" target="_blank" rel="noopener">Acessar</a>{{ end }}{{ end }}
     {{ else }}
       <a href="{{ . }}" target="_blank" rel="noopener">{{ $.Params.link_titulo | default "Acessar" }}</a>
     {{ end }}
-  </div>
+  </p>
   {{ end }}
 
   {{ if eq .Section "portfolio" }}
-  <a class="back" href="{{ .Site.BaseURL }}">← Portfólio</a>
+  <p class="return"><a href="{{ .Site.BaseURL }}">Índice</a></p>
   {{ end }}
 </article>
 

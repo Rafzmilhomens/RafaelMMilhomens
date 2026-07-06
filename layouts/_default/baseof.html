@@ -16,12 +16,9 @@
 </head>
 <body>
 
-  <header class="site-header">
-    <a href="{{ .Site.BaseURL }}" class="site-title">{{ .Site.Params.author }}</a>
-    <nav class="site-nav">
-      <a href="{{ "sobre/" | relURL }}"{{ if eq .Section "sobre" }} class="active"{{ end }}>Sobre</a>
-      <a href="{{ .Site.BaseURL }}"{{ if or .IsHome (eq .Section "portfolio") }} class="active"{{ end }}>Portfólio</a>
-      <a href="{{ "contato/" | relURL }}"{{ if eq .Section "contato" }} class="active"{{ end }}>Contato</a>
+  <header class="running-head">
+    <nav>
+      <a href="{{ "sobre/" | relURL }}"{{ if eq .Section "sobre" }} class="active"{{ end }}>Sobre</a><span class="sep">·</span><a href="{{ .Site.BaseURL }}"{{ if or .IsHome (eq .Section "portfolio") }} class="active"{{ end }}>Portfólio</a><span class="sep">·</span><a href="{{ "contato/" | relURL }}"{{ if eq .Section "contato" }} class="active"{{ end }}>Contato</a>
     </nav>
   </header>
 

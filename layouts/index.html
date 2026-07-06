@@ -1,20 +1,19 @@
 {{ define "main" }}
 
-<section class="frontispiece">
-  <div class="content">
-    {{ .Content }}
-  </div>
-</section>
+<article class="chapter chapter--home">
+  <h1 class="book-title">{{ .Site.Params.author }}</h1>
+  {{ with .Content }}<div class="book-subtitle">{{ . }}</div>{{ end }}
 
-{{ with .Site.GetPage "/portfolio" }}
-<ul class="toc">
-  {{ range .Pages.ByWeight }}
-  <li>
-    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-    {{ with .Params.summary }}<span class="project-desc">{{ . }}</span>{{ end }}
-  </li>
+  {{ with .Site.GetPage "/portfolio" }}
+  <nav class="index">
+    {{ range .Pages.ByWeight }}
+    <a class="index-item" href="{{ .RelPermalink }}">
+      <span class="index-title">{{ .Title }}</span>
+      {{ with .Params.summary }}<span class="index-desc">{{ . }}</span>{{ end }}
+    </a>
+    {{ end }}
+  </nav>
   {{ end }}
-</ul>
-{{ end }}
+</article>
 
 {{ end }}
