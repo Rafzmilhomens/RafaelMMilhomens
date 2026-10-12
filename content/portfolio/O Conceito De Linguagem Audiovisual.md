@@ -1,6 +1,6 @@
 ---
 title: O Conceito De Linguagem Audiovisual Na Pesquisa Em Comunicação
-weight: 4
+weight: 5
 summary: Reflexões Analíticas A Partir De Teses E Dissertações Do PPGCom/UnB (2003-2020)
 links:
   - https://bdm.unb.br/handle/10483/27562

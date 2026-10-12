@@ -1,6 +1,6 @@
 ---
 title: Urânia
-weight: 2
+weight: 3
 summary: Introdução À Astrologia Tradicional Ao Astrólogo Noviço
 links: https://a.co/d/00btucd2
 ---
