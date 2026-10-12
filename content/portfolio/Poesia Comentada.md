@@ -1,5 +1,5 @@
 ---
-title: Poesia Comentada
+title: Poesia Comentada Podcast
 weight: 7
 summary: Por dentro da cabeça do poeta.
 links:
