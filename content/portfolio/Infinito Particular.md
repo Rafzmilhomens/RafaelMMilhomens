@@ -1,6 +1,6 @@
 ---
 title: Infinito Particular
-weight: 2
+weight: 1
 summary: Poemas Inéditos
 links:
   - https://a.co/d/08diccD6
