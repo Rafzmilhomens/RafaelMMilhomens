@@ -1,5 +1,5 @@
 ---
-title: Contato & Doações
+title: Contato & Serviços
 ---
 Estou ansioso para saber o que podemos criar juntos! Gostou do meu trabalho e quer "trocar figurinhas" ou deseja me apoiar de alguma forma? Há várias maneiras de fazer isso:
 
