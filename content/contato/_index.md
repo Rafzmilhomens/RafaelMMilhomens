@@ -3,9 +3,9 @@ title: Contato & Serviços
 ---
 Estou ansioso para saber o que podemos criar juntos! Gostou do meu trabalho e quer "trocar figurinhas" ou deseja me apoiar de alguma forma? Há várias maneiras de fazer isso:
 
-- tenho livros na Amazon;
-- ofereço cursos para astrólogos;
-- também leituras de cartas natais a consulentes leigos;
+- Tenho livros na Amazon;
+- Ofereço cursos para astrólogos;
+- Também leituras de cartas natais a consulentes leigos.
 
 Verifique preços e condições dos serviços no meu perfil do Instagram:
 
