@@ -1,6 +1,6 @@
 ---
 title: Praga De Cogumelos
-weight: 8
+weight: 2
 summary: Curta-Metragem
 links:
   - https://youtu.be/s2CuEGNzci0?si=JI0iqQXVPgig1i_P
