@@ -1,6 +1,6 @@
 ---
 title: Boletim Especializado Para Admiradores De Rapazes (BEAR)
-weight: 8
+weight: 9
 summary: Zine experimental
 links:
   - https://rafzmilhomens.github.io/BEAR/
