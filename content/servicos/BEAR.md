@@ -1,8 +1,8 @@
 ---
 title: BEAR
 summary: Boletim Especializado Para Admiradores De Rapazes
-selo: Zine Independente
-categoria: Zine
+selo: Zine
+categoria: Publicações Independentes
 imagem:
 para_quem: Qualquer leitor acima de 18 anos
 inclui:
