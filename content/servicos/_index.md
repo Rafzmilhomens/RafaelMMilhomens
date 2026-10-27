@@ -2,8 +2,6 @@
 title: Serviços & Produtos
 summary:
 ---
-SUMÁRIO RÁPIDO
-
 - Serviços
 	- Leitura De Carta Natal
 	- Mentoria Em Cartas Natais
