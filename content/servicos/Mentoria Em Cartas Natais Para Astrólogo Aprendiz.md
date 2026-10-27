@@ -20,7 +20,7 @@ botao: e-mail
 link: rafzmilhomens@proton.me
 mensagem: Olá, vi seu site e tenho interesse no serviço de mentoria em cartas natais para astrólogo aprendiz
 weight:
-draft: true
+draft: false
 ---
 <!--
 Guia rápido. Este bloco não aparece no site e pode ser apagado.
