@@ -59,11 +59,18 @@ body {
   letter-spacing: 0.14em;
   font-size: 0.78rem;
   font-weight: 500;
+  /* em tela estreita, os itens quebram linha inteiros, sem os pontos */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: baseline;
+  gap: 0.35rem 1.5em;
 }
 
 .running-head a {
   color: var(--black);
   text-decoration: none;
+  white-space: nowrap;
 }
 
 .running-head a.active,
@@ -72,8 +79,24 @@ body {
 }
 
 .running-head .sep {
+  display: none;
   margin: 0 0.55em;
   opacity: 0.45;
+}
+
+/* em tela larga, uma linha só, com os pontos, mesmo que passe da largura do texto */
+@media (min-width: 48em) {
+  .running-head nav {
+    column-gap: 0;
+    width: max-content;
+    max-width: calc(100vw - 3rem);
+    margin-left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .running-head .sep {
+    display: inline;
+  }
 }
 
 /* ── Título de capítulo (versal) ── */
@@ -275,6 +298,289 @@ hr::before {
   color: var(--red);
 }
 
+/* ── Serviços & Produtos ── */
+
+/* índice das categorias, no topo da página */
+.offers-index {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.3rem 1.6em;
+  font-variant: small-caps;
+  letter-spacing: 0.1em;
+  font-size: 0.9rem;
+  margin: 2rem 0 0;
+}
+
+.offers-index a {
+  color: var(--red);
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.offers-index a:hover {
+  color: var(--black);
+}
+
+/* título de cada categoria */
+.offers-group-title {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  text-indent: 0.2em;
+  font-weight: 500;
+  font-size: 0.95rem;
+  color: var(--red);
+  margin: 3.5rem 0 2rem;
+}
+
+.chapter--offers > .chapter-title + .offers-group,
+.chapter--offers > .chapter-epigraph + .offers-group {
+  margin-top: 2.5rem;
+}
+
+.offers-group {
+  margin-top: 3rem;
+  scroll-margin-top: 1.5rem;
+}
+
+/* cada item; entre um e outro, o asterismo das quebras de cena */
+.offer + .offer::before {
+  content: "\2042";
+  display: block;
+  text-align: center;
+  letter-spacing: 0.3em;
+  margin: 2.5rem 0;
+}
+
+.offer-badge {
+  text-align: center;
+  font-variant: small-caps;
+  letter-spacing: 0.14em;
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--red);
+  margin-bottom: 0.3rem;
+}
+
+.offer-title {
+  text-align: center;
+  font-variant: small-caps;
+  letter-spacing: 0.06em;
+  font-weight: 500;
+  font-size: 1.35rem;
+  line-height: 1.25;
+  margin: 0 0 0.4rem;
+}
+
+.offer-title a {
+  color: var(--black);
+  text-decoration: none;
+}
+
+.offer-title a:hover {
+  color: var(--red);
+}
+
+.offer-lede {
+  text-align: center;
+  font-style: italic;
+  font-size: 1.05rem;
+  margin-bottom: 1.6rem;
+}
+
+.offer-image {
+  display: block;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: 26rem;
+  margin: 0 auto 1.6rem;
+}
+
+.offer-body {
+  text-align: justify;
+  hyphens: auto;
+}
+
+.offer-body p + p {
+  text-indent: 1.3em;
+}
+
+.offer-body h2,
+.offer-body h3 {
+  font-style: italic;
+  font-weight: 400;
+  font-size: 1rem;
+  margin: 1.2rem 0 0.2rem;
+}
+
+.offer-body a,
+.offer-section a,
+.offer-facts a,
+.offers-after a {
+  color: var(--red);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(139, 26, 26, 0.4);
+}
+
+.offer-body ul,
+.offer-body ol {
+  margin: 0.8rem 0 0.8rem 1.4em;
+}
+
+.offer-section {
+  margin-top: 1.3rem;
+}
+
+.offer-label {
+  font-variant: small-caps;
+  letter-spacing: 0.1em;
+  font-weight: 500;
+  font-size: 0.9rem;
+  color: var(--red);
+  margin-bottom: 0.15rem;
+}
+
+.offer-section ul {
+  margin-left: 1.3em;
+}
+
+.offer-section li {
+  margin-bottom: 0.2em;
+}
+
+.offer-section li::marker {
+  color: var(--red);
+}
+
+.offer-quote {
+  margin: 1.6rem 1.5rem 0;
+}
+
+.offer-quote p {
+  text-align: left;
+}
+
+/* ficha: formato e valor */
+.offer-facts {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.6rem 2.5rem;
+  margin-top: 1.9rem;
+  text-align: center;
+}
+
+.offer-facts dt {
+  font-variant: small-caps;
+  letter-spacing: 0.1em;
+  font-weight: 500;
+  font-size: 0.85rem;
+  color: var(--red);
+}
+
+.offer-facts dd {
+  font-size: 1.1rem;
+}
+
+.offer-facts dd p {
+  margin: 0;
+}
+
+/* botão de ação: o selo vermelho da página */
+.offer-cta {
+  text-align: center;
+  margin-top: 1.6rem;
+}
+
+.button {
+  display: inline-block;
+  font-variant: small-caps;
+  letter-spacing: 0.12em;
+  font-weight: 500;
+  font-size: 0.95rem;
+  line-height: 1.3;
+  color: var(--paper);
+  background-color: var(--red);
+  border: 1px solid var(--red);
+  border-radius: 2px;
+  padding: 0.7em 1.8em;
+  text-decoration: none;
+  transition: background-color 0.15s ease;
+}
+
+.button:hover {
+  background-color: var(--red-hover);
+  border-color: var(--red-hover);
+}
+
+.button:focus-visible {
+  outline: 2px solid var(--red);
+  outline-offset: 3px;
+}
+
+/* página própria de um item */
+.offer--single .offer-image {
+  margin-top: 0.4rem;
+}
+
+/* texto depois da lista: sem capitular */
+.offers-after {
+  margin-top: 3.5rem;
+}
+
+.offers-after > p:first-of-type::first-letter {
+  float: none;
+  font-size: inherit;
+  line-height: inherit;
+  font-weight: inherit;
+  color: inherit;
+  padding: 0;
+  margin: 0;
+}
+
+.offers-after > p:first-of-type::first-line {
+  font-variant: normal;
+  letter-spacing: normal;
+}
+
+/* ── Contatos ── */
+
+.contacts {
+  margin-top: 3rem;
+}
+
+/* canais: e-mail, XMPP e outros */
+.contacts-list {
+  display: grid;
+  gap: 1.3rem;
+  text-align: center;
+}
+
+.contacts-list dt {
+  font-variant: small-caps;
+  letter-spacing: 0.1em;
+  font-weight: 500;
+  font-size: 0.85rem;
+  color: var(--red);
+}
+
+.contacts-list dd a {
+  display: block;
+  width: fit-content;
+  margin: 0.15rem auto 0;
+  color: var(--black);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(139, 26, 26, 0.4);
+  overflow-wrap: anywhere;
+}
+
+.contacts-list dd a:hover {
+  color: var(--red);
+  border-bottom-color: var(--red);
+}
+
 /* ── Rodapé: selo + assinatura ── */
 
 .site-footer {
@@ -290,6 +596,26 @@ hr::before {
   height: 20px;
   vertical-align: -0.35em;
   margin-right: 0.5em;
+}
+
+.site-footer p + p {
+  margin-top: 0.5rem;
+}
+
+.footer-mastodon {
+  color: var(--red);
+  text-decoration: none;
+}
+
+.footer-mastodon:hover {
+  color: var(--black);
+}
+
+.footer-mastodon .icon-mastodon {
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.12em;
+  margin-right: 0.4em;
 }
 
 /* ── Responsivo ── */

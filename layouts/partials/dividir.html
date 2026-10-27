@@ -1,0 +1,11 @@
+{{- /*
+  Divide o texto de uma nota na marca <!-- lista ... -->.
+  Devolve "antes" e "depois", já em HTML. Sem a marca, todo o texto fica em "antes".
+*/ -}}
+{{- $marca := "\x00LISTA\x00" -}}
+{{- $partes := split (replaceRE `(?i)<!--\s*lista[^>]*-->` $marca .RawContent) $marca -}}
+{{- $antes := strings.TrimSpace (index $partes 0) -}}
+{{- $depois := strings.TrimSpace (delimit (after 1 $partes) "") -}}
+{{- with $antes }}{{ $antes = $.RenderString (dict "display" "block") . }}{{ end -}}
+{{- with $depois }}{{ $depois = $.RenderString (dict "display" "block") . }}{{ end -}}
+{{- return dict "antes" $antes "depois" $depois -}}

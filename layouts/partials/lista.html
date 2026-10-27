@@ -1,0 +1,8 @@
+{{- /* Transforma o valor de um campo (texto ou lista) numa lista de textos não vazios. */ -}}
+{{- $saida := slice -}}
+{{- with . -}}
+  {{- range (cond (reflect.IsSlice .) . (slice .)) -}}
+    {{- with . }}{{ with strings.TrimSpace (printf "%v" .) }}{{ $saida = $saida | append . }}{{ end }}{{ end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $saida -}}

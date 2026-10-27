@@ -9,6 +9,8 @@ portfolio = "/portfolio/:slug/"
 [params]
 author = "Rafael M. Milhomens"
 description = "Pesquisador independente. Linguagem e sistemas que organizam os sentidos."
+# endereço exato do perfil (sem barra no fim): usado nos links rel="me" que verificam a conta
+mastodon = "https://organica.social/@rafzmilhomens"
 
 [markup]
   [markup.goldmark]

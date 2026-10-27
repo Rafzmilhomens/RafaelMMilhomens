@@ -1,0 +1,111 @@
+{{- /*
+  Ficha de um serviço ou produto (notas da pasta content/servicos).
+  Recebe: page (a nota), nivel (2 ou 3: nível do título na lista)
+  e unica (true na página própria do item).
+  Todo campo é opcional: o que estiver vazio não aparece.
+*/ -}}
+{{- $p := .page -}}
+{{- $unica := .unica | default false -}}
+{{- $nivel := .nivel | default 2 -}}
+{{- $titulo := $p.Title | default $p.File.ContentBaseName -}}
+
+<article class="offer{{ if $unica }} offer--single{{ end }}">
+  {{- with partial "texto.html" $p.Params.selo }}
+  <p class="offer-badge">{{ . }}</p>
+  {{- end }}
+
+  {{- if $unica }}
+  <h1 class="chapter-title">{{ $titulo }}</h1>
+  {{- with partial "texto.html" $p.Params.summary }}
+  <p class="chapter-epigraph">{{ . | markdownify }}</p>
+  {{- end }}
+  {{- else }}
+  {{- if eq $nivel 3 }}
+  <h3 class="offer-title"><a href="{{ $p.RelPermalink }}">{{ $titulo }}</a></h3>
+  {{- else }}
+  <h2 class="offer-title"><a href="{{ $p.RelPermalink }}">{{ $titulo }}</a></h2>
+  {{- end }}
+  {{- with partial "texto.html" $p.Params.summary }}
+  <p class="offer-lede">{{ . | markdownify }}</p>
+  {{- end }}
+  {{- end }}
+
+  {{- /* imagem: reduzida e convertida para carregar rápido */}}
+  {{- with partial "imagem.html" $p }}
+  {{- if reflect.IsImageResourceProcessable . }}
+  {{- $img := .Fit "1200x880 webp" }}
+  <img class="offer-image" src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}" alt="{{ $titulo }}"{{ if not $unica }} loading="lazy"{{ end }} decoding="async">
+  {{- else if in (slice "svg+xml" "avif") .MediaType.SubType }}
+  <img class="offer-image" src="{{ .RelPermalink }}" alt="{{ $titulo }}"{{ if not $unica }} loading="lazy"{{ end }} decoding="async">
+  {{- end }}{{/* outros formatos (ex.: HEIC do iPhone) não abrem nos navegadores: ficam de fora */}}
+  {{- end }}
+
+  {{- with $p.Content }}{{ if strings.TrimSpace (plainify .) }}
+  <div class="offer-body">{{ . }}</div>
+  {{- end }}{{ end }}
+
+  {{- partial "secao.html" (dict "rotulo" "Para quem é" "valor" $p.Params.para_quem) }}
+  {{- partial "secao.html" (dict "rotulo" "O que inclui" "valor" $p.Params.inclui) }}
+  {{- partial "secao.html" (dict "rotulo" "Observações" "valor" $p.Params.observacoes) }}
+
+  {{- range partial "lista.html" $p.Params.depoimentos }}
+  <blockquote class="offer-quote"><p>{{ . | markdownify }}</p></blockquote>
+  {{- end }}
+
+  {{- /* ficha: formato e valor (número vira moeda: 200 → R$ 200) */}}
+  {{- $formato := partial "texto.html" $p.Params.formato }}
+  {{- $preco := $p.Params.preco }}
+  {{- $tipo := printf "%T" $preco }}
+  {{- if in (slice "int" "int64" "uint64") $tipo }}
+    {{- $preco = printf "R$\u00a0%s" (lang.FormatNumberCustom 0 $preco "- , .") }}
+  {{- else if eq $tipo "float64" }}
+    {{- $preco = printf "R$\u00a0%s" (lang.FormatNumberCustom 2 $preco "- , .") }}
+  {{- else }}
+    {{- $preco = partial "texto.html" $preco | markdownify }}
+  {{- end }}
+  {{- if or $formato $preco }}
+  <dl class="offer-facts">
+    {{- with $formato }}
+    <div><dt>Formato</dt><dd>{{ . | markdownify }}</dd></div>
+    {{- end }}
+    {{- with $preco }}
+    <div><dt>Valor</dt><dd>{{ . }}</dd></div>
+    {{- end }}
+  </dl>
+  {{- end }}
+
+  {{- /*
+    botão: sem link, abre um e-mail (o do campo `email` da página Contatos) com o
+    nome do item no assunto e o campo `mensagem` já escrito; com link xmpp:, a
+    mensagem vai junto para a conversa.
+  */}}
+  {{- $link := partial "texto.html" $p.Params.link }}
+  {{- $botao := partial "texto.html" $p.Params.botao }}
+  {{- $mensagem := $p.Params.mensagem | default "" }}
+  {{- if reflect.IsSlice $mensagem }}{{ $mensagem = delimit $mensagem "\n" }}{{ end }}
+  {{- $mensagem = strings.TrimSpace (printf "%v" $mensagem) }}
+  {{- $externo := false }}
+  {{- $email := "" }}
+  {{- if not $link }}
+    {{- with site.GetPage "/contato" }}{{ range first 1 (partial "lista.html" .Params.email) }}{{ $email = . }}{{ end }}{{ end }}
+  {{- else if and (strings.Contains $link "@") (not (strings.Contains $link ":")) }}
+    {{- $email = $link }}
+  {{- end }}
+  {{- if $email }}
+    {{- $link = printf "mailto:%s?subject=%s" $email (replace (urlquery $titulo) "+" "%20") }}
+    {{- with $mensagem }}{{ $link = printf "%s&body=%s" $link (replace (urlquery .) "+" "%20") }}{{ end }}
+    {{- $botao = $botao | default "Entrar em contato" }}
+  {{- else if $link }}
+    {{- if not (or (findRE `^[a-zA-Z][a-zA-Z0-9+.-]*:` $link) (hasPrefix $link "/") (hasPrefix $link "#")) }}
+      {{- $link = printf "https://%s" $link }}
+    {{- end }}
+    {{- if and $mensagem (hasPrefix (lower $link) "xmpp:") (not (strings.Contains $link "?")) }}
+      {{- $link = printf "%s?message;body=%s" $link (replace (urlquery $mensagem) "+" "%20") }}
+    {{- end }}
+    {{- $externo = hasPrefix $link "http" }}
+    {{- $botao = $botao | default "Acessar" }}
+  {{- end }}
+  {{- with $link }}
+  <p class="offer-cta"><a class="button" href="{{ if hasPrefix (lower .) "javascript:" }}#{{ else }}{{ . | safeURL }}{{ end }}"{{ if $externo }} target="_blank" rel="noopener"{{ end }}>{{ $botao }}</a></p>
+  {{- end }}
+</article>

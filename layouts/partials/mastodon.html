@@ -1,0 +1,11 @@
+{{- /*
+  Conta do Mastodon, definida em hugo.toml (params.mastodon).
+  ATENÇÃO: este endereço sai nos links rel="me" de todas as páginas,
+  que o Mastodon usa para verificar a conta. Ele precisa ser idêntico
+  ao endereço do perfil (sem barra no fim).
+  Devolve o endereço (url) e a arroba (@usuario@instancia).
+*/ -}}
+{{- $url := site.Params.mastodon | default "" -}}
+{{- $arroba := "" -}}
+{{- with $url }}{{ with urls.Parse . }}{{ $arroba = printf "%s@%s" (strings.TrimPrefix "/" .Path) .Host }}{{ end }}{{ end -}}
+{{- return dict "url" $url "arroba" $arroba -}}

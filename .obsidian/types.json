@@ -3,6 +3,14 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "links": "multitext"
+    "links": "multitext",
+    "inclui": "multitext",
+    "depoimentos": "multitext",
+    "weight": "number",
+    "draft": "checkbox",
+    "xmpp": "multitext",
+    "email": "multitext",
+    "outros": "multitext",
+    "observacoes": "multitext"
   }
 }

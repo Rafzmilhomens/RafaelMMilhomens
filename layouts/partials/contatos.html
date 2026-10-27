@@ -1,0 +1,54 @@
+{{- /*
+  Canais de contato da página Contatos (content/contato/_index.md),
+  vindos dos campos da nota, todos opcionais:
+    email  ... um ou mais endereços
+    xmpp   ... uma ou mais contas
+    outros ... qualquer outro canal, um por linha, no formato "Nome: valor"
+               (endereços com https://, mailto:, tel: etc. viram links)
+*/ -}}
+{{- $emails := partial "lista.html" .Params.email -}}
+{{- $xmpp := slice -}}
+{{- range partial "lista.html" .Params.xmpp }}{{ $xmpp = $xmpp | append (strings.TrimPrefix "xmpp:" .) }}{{ end -}}
+{{- $outros := slice -}}
+{{- range partial "lista.html" .Params.outros -}}
+  {{- $partes := split . ": " -}}
+  {{- $nome := "" -}}
+  {{- $valor := . -}}
+  {{- if gt (len $partes) 1 -}}
+    {{- $nome = strings.TrimSpace (index $partes 0) -}}
+    {{- $valor = strings.TrimSpace (delimit (after 1 $partes) ": ") -}}
+  {{- end -}}
+  {{- $outros = $outros | append (dict "nome" $nome "valor" $valor) -}}
+{{- end -}}
+
+{{- if or $emails $xmpp $outros }}
+<section class="contacts" aria-label="Canais de contato">
+  <dl class="contacts-list">
+    {{- with $emails }}
+    <div>
+      <dt>E-mail</dt>
+      <dd>{{ range . }}<a href="mailto:{{ . }}">{{ . }}</a>{{ end }}</dd>
+    </div>
+    {{- end }}
+    {{- with $xmpp }}
+    <div>
+      <dt>XMPP</dt>
+      <dd>{{ range . }}<a href="{{ printf "xmpp:%s" . | safeURL }}">{{ . }}</a>{{ end }}</dd>
+    </div>
+    {{- end }}
+    {{- range $outros }}
+    <div>
+      {{- with .nome }}
+      <dt>{{ . }}</dt>
+      {{- end }}
+      {{- $v := .valor }}
+      {{- if and (findRE `^[a-zA-Z][a-zA-Z0-9+.-]*:\S+$` $v) (not (hasPrefix (lower $v) "javascript:")) }}
+      <dd><a href="{{ $v | safeURL }}"{{ if hasPrefix $v "http" }} target="_blank" rel="noopener"{{ end }}>{{ $v | replaceRE `^https?://(www\.)?` "" | replaceRE `^(mailto|xmpp|tel|sms):` "" | strings.TrimSuffix "/" }}</a></dd>
+      {{- else }}
+      <dd>{{ $v | markdownify }}</dd>
+      {{- end }}
+    </div>
+    {{- end }}
+  </dl>
+</section>
+{{- end }}

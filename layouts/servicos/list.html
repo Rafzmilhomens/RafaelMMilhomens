@@ -1,0 +1,57 @@
+{{ define "main" }}
+{{- /*
+  Página Serviços & Produtos (content/servicos/_index.md).
+  O texto da nota aparece antes da lista; o que vier depois da marca
+  <!-- lista de serviços e produtos --> aparece depois dela.
+  Cada nota da pasta é um item; itens com a mesma `categoria` ficam juntos,
+  na ordem do campo `weight`.
+*/ -}}
+{{- $texto := partial "dividir.html" . -}}
+
+{{- $itens := .RegularPages.ByWeight -}}
+{{- $categorias := slice -}}
+{{- range $itens -}}
+  {{- $c := partial "categoria.html" . -}}
+  {{- if not (in $categorias $c) }}{{ $categorias = $categorias | append $c }}{{ end -}}
+{{- end -}}
+{{- $nomeadas := complement (slice "") $categorias -}}
+{{- /* itens sem categoria vêm primeiro, para não parecerem parte da última categoria */ -}}
+{{- if in $categorias "" }}{{ $categorias = slice "" | append $nomeadas }}{{ end -}}
+
+<article class="chapter chapter--offers">
+  <h1 class="chapter-title">{{ .Title }}</h1>
+
+  {{- with partial "texto.html" .Params.summary }}
+  <p class="chapter-epigraph">{{ . | markdownify }}</p>
+  {{- end }}
+
+  {{- with $texto.antes }}
+  <div class="chapter-body">{{ . }}</div>
+  {{- end }}
+
+  {{- if gt (len $nomeadas) 1 }}
+  <nav class="offers-index" aria-label="Categorias">
+    {{- range $nomeadas }}<a href="#{{ anchorize . }}">{{ . }}</a>{{ end -}}
+  </nav>
+  {{- end }}
+
+  {{- range $categorias }}
+  {{- $c := . }}
+  <section class="offers-group"{{ with $c }} id="{{ anchorize . }}"{{ end }}>
+    {{- with $c }}
+    <h2 class="offers-group-title">{{ . }}</h2>
+    {{- end }}
+    {{- range $itens }}
+    {{- if eq (partial "categoria.html" .) $c }}
+    {{ partial "oferta.html" (dict "page" . "nivel" (cond (ne $c "") 3 2)) }}
+    {{- end }}
+    {{- end }}
+  </section>
+  {{- end }}
+
+  {{- with $texto.depois }}
+  <div class="chapter-body offers-after">{{ . }}</div>
+  {{- end }}
+</article>
+
+{{ end }}

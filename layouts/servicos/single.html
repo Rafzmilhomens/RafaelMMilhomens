@@ -1,0 +1,11 @@
+{{ define "main" }}
+
+<div class="chapter">
+  {{ partial "oferta.html" (dict "page" . "unica" true) }}
+
+  {{ with .Parent }}
+  <p class="return"><a href="{{ .RelPermalink }}">{{ .Title }}</a></p>
+  {{ end }}
+</div>
+
+{{ end }}

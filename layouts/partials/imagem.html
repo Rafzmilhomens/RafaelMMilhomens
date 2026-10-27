@@ -1,0 +1,18 @@
+{{- /*
+  Encontra a imagem indicada no campo `imagem` de uma página.
+  Aceita o nome do arquivo (capa.jpg) ou um link do Obsidian ([[capa.jpg]]).
+  O arquivo precisa estar dentro da pasta da seção (ex.: content/servicos/).
+  Devolve a imagem, ou nada se não a encontrar.
+*/ -}}
+{{- $res := "" -}}
+{{- $v := .Params.imagem -}}
+{{- if reflect.IsSlice $v }}{{ $primeira := "" }}{{ range first 1 $v }}{{ $primeira = . }}{{ end }}{{ $v = $primeira }}{{ end -}}
+{{- with $v -}}
+  {{- $nome := printf "%v" . | replaceRE `^!?\[\[([^|\]]*).*$` "$1" | strings.TrimSpace | path.Base | lower -}}
+  {{- with $.CurrentSection -}}
+    {{- range .Resources -}}
+      {{- if and (not $res) (eq (lower (path.Base .Name)) $nome) }}{{ $res = . }}{{ end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $res -}}

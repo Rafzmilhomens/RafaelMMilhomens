@@ -1,0 +1,7 @@
+{{- /*
+  Converte o valor de um campo em texto, sem nunca quebrar o site.
+  Listas viram itens separados por " · ".
+*/ -}}
+{{- $v := . | default "" -}}
+{{- if reflect.IsSlice $v }}{{ $v = delimit $v " · " }}{{ end -}}
+{{- return strings.TrimSpace (printf "%v" $v) -}}

@@ -1,0 +1,27 @@
+{{ define "main" }}
+{{- /*
+  Página Contatos (content/contato/_index.md).
+  O texto da nota vem antes dos canais de contato; o que vier depois da marca
+  <!-- lista de contatos --> aparece depois deles.
+*/ -}}
+{{- $texto := partial "dividir.html" . -}}
+
+<article class="chapter chapter--contacts">
+  <h1 class="chapter-title">{{ .Title }}</h1>
+
+  {{- with partial "texto.html" .Params.summary }}
+  <p class="chapter-epigraph">{{ . | markdownify }}</p>
+  {{- end }}
+
+  {{- with $texto.antes }}
+  <div class="chapter-body">{{ . }}</div>
+  {{- end }}
+
+  {{ partial "contatos.html" . }}
+
+  {{- with $texto.depois }}
+  <div class="chapter-body offers-after">{{ . }}</div>
+  {{- end }}
+</article>
+
+{{ end }}

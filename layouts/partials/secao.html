@@ -1,0 +1,15 @@
+{{- /*
+  Seção com rótulo na ficha de um item (Para quem é, O que inclui, Observações).
+  Recebe: rotulo e valor (o campo da nota). Texto vira parágrafo; lista vira tópicos.
+  Linhas vazias são ignoradas; campo vazio não aparece.
+*/ -}}
+{{- with partial "lista.html" .valor }}
+  <section class="offer-section">
+    <p class="offer-label">{{ $.rotulo }}</p>
+    {{- if reflect.IsSlice $.valor }}
+    <ul>{{ range . }}<li>{{ . | markdownify }}</li>{{ end }}</ul>
+    {{- else }}
+    <p>{{ index . 0 | markdownify }}</p>
+    {{- end }}
+  </section>
+{{- end }}
