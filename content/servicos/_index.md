@@ -2,6 +2,8 @@
 title: Serviços & Produtos
 summary:
 ---
+SUMÁRIO RÁPIDO
+
 - Serviços
 	- Leitura De Carta Natal
 	- Mentoria Em Cartas Natais
@@ -9,4 +11,8 @@ summary:
 	- Livro de poemas Urânia
 	- Livro de poemas Calíope
 	- Livro de poemas Infinito Particular
+- Produtos gratuitos
+	- Zine BEAR
+
+Especificações abaixo
 <!-- lista de serviços e produtos -->
