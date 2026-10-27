@@ -1,7 +1,7 @@
 ---
 title: Leitura De Carta Natal
 summary: "Abordagem astrológica tradicional: com 7 planetas e divisão de casas Alcabitus"
-selo: Pagamentos via pix, pós encontros.
+selo: Pagamentos via pix, pós encontros
 categoria: Astrologia
 imagem:
 para_quem: Consulentes leigos acima de 18 anos.
