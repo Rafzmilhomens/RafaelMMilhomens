@@ -12,4 +12,4 @@ Estou ansioso para saber o que podemos criar juntos! Gostou do meu trabalho e qu
 - Ofereço cursos para astrólogos;
 - Também leituras de cartas natais a consulentes leigos.
 
-Verifique preços e condições dos serviços na aba acima.
+Verifique preços e condições dos serviços nas abas desse site.
