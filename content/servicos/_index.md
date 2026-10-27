@@ -12,5 +12,4 @@ summary:
 - Produtos gratuitos
 	- Zine BEAR
 
-**Mais detalhes abaixo**
 <!-- lista de serviços e produtos -->
