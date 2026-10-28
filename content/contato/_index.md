@@ -5,7 +5,7 @@ email:
 xmpp:
   - rafzmilhomens@yax.im
 outros:
-  - "newsletter: https://rafzmilhomens.kit.com/b716c5cb1a"
+  - "newsletter: https://rafzmilhomens.kit.com"
 ---
 Estou ansioso para saber o que podemos criar juntos! Gostou do meu trabalho e quer "trocar figurinhas" ou deseja me apoiar de alguma forma? Há várias maneiras de fazer isso:
 
