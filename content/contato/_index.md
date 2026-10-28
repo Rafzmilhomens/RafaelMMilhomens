@@ -4,8 +4,11 @@ email:
   - rafzmilhomens@proton.me
 xmpp:
   - rafzmilhomens@yax.im
-outros: []
+outros:
+  - "substack: https://rafzmilhomens.substack.com/?r=9d0vcg&utm_campaign=pub-share-checklist"
 ---
+
+
 Estou ansioso para saber o que podemos criar juntos! Gostou do meu trabalho e quer "trocar figurinhas" ou deseja me apoiar de alguma forma? Há várias maneiras de fazer isso:
 
 - Tenho livros na Amazon;
