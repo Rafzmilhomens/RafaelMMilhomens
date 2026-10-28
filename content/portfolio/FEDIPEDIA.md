@@ -1,7 +1,7 @@
 ---
 title: Fedipedia
 weight: 10
-summary: Página dedicada ao auxílio dos novos usuários do Fediverso
+summary: Página dedicada ao auxílio para os novos usuários do Fediverso
 links:
   - https://rafzmilhomens.github.io/Fedipedia/
 ---
